@@ -1,0 +1,43 @@
+
+AWSTemplateFormatVersion: "2010-09-09"
+Resources: 
+  CustomerProfileTable: 
+    Type: AWS::DynamoDB::Table
+    Properties: 
+      AttributeDefinitions: 
+        - 
+          AttributeName: "customerKey"
+          AttributeType: "S"
+        - 
+          AttributeName: "customerSortKey"
+          AttributeType: "S"
+      KeySchema: 
+        - 
+          AttributeName: "customerKey"
+          KeyType: "HASH"
+        - 
+          AttributeName: "customerSortKey"
+          KeyType: "RANGE"
+      TableName: "cdp-customerprofile"
+      BillingMode: PAY_PER_REQUEST
+      GlobalSecondaryIndexes: 
+        - 
+          IndexName: "customerSortKeyIndex"
+          KeySchema: 
+            - 
+              AttributeName: "customerSortKey"
+              KeyType: "HASH"
+            - 
+              AttributeName: "customerKey"
+              KeyType: "RANGE"
+          Projection: 
+            ProjectionType: "ALL"
+      Tags:
+        - Key: "Environment"
+          Value: "Prod"
+        - Key: "AppName"
+          Value: "CDP"
+        - Key: "Category"   
+          Value: "Research"
+
+          

@@ -1,0 +1,1001 @@
+customer_key,unit_id,address,city,state_code,zip_code,type,lease_terms,move_in_date,move_out_date
+427,ti-3409,1 Washington Parkway,Huntington Beach,CA,92648,Resident,3,7/6/2006,7/6/2009
+713,vx-1022,934 Iowa Way,Newport Beach,CA,92662,Resident,3,7/4/2006,7/4/2009
+499,dq-6861,23943 6th Road,Macon,GA,31210,Resident,3,6/27/2006,6/27/2009
+551,dy-9816,90 Green Ridge Parkway,Riverside,CA,92519,Resident,3,6/26/2006,6/26/2009
+114,qj-6794,34 Florence Pass,Athens,GA,30605,Resident,3,6/6/2006,6/6/2009
+639,dp-0545,21746 Clyde Gallagher Trail,Los Angeles,CA,90065,Resident,3,5/24/2006,5/24/2009
+408,sr-8588,71 Village Crossing,Newport Beach,CA,92662,Resident,3,5/9/2006,5/9/2009
+162,lo-3044,17344 Bowman Park,Long Beach,CA,90847,Resident,3,5/7/2006,5/7/2009
+220,dz-1394,05 Bultman Trail,Atlanta,GA,30380,Resident,3,5/7/2006,5/7/2009
+406,lh-5496,3332 Northridge Park,San Diego,CA,92121,Resident,3,5/5/2006,5/5/2009
+583,gl-8245,8 Anthes Place,Duluth,GA,30195,Resident,3,4/25/2006,4/25/2009
+940,va-6526,164 Kedzie Lane,San Jose,CA,95194,Resident,3,4/21/2006,4/21/2009
+530,bk-6448,7 Karstens Drive,San Diego,CA,92160,Resident,3,4/19/2006,4/19/2009
+400,ef-5098,5281 Carioca Plaza,Macon,GA,31210,Resident,3,4/13/2006,4/13/2009
+848,vn-6485,0 Kingsford Place,San Mateo,CA,94405,Resident,3,4/7/2006,4/7/2009
+331,vg-0970,9 Pine View Center,Fresno,CA,93794,Resident,3,4/4/2006,4/4/2009
+268,lb-7080,10648 Oneill Road,Huntington Beach,CA,92648,Resident,3,4/2/2006,4/2/2009
+312,xe-2705,505 Scoville Hill,San Diego,CA,92110,Resident,3,3/23/2006,3/23/2009
+806,bc-7310,9 Oneill Crossing,Los Angeles,CA,90094,Resident,3,3/17/2006,3/17/2009
+804,bp-8067,40085 Sugar Drive,Torrance,CA,90505,Resident,3,3/10/2006,3/10/2009
+529,dk-0073,2 Wayridge Lane,Decatur,GA,30033,Resident,3,3/2/2006,3/2/2009
+168,og-0939,9313 Golf Place,Gainesville,GA,30506,Resident,3,2/26/2006,2/26/2009
+33,bf-1340,83 Corben Lane,Cambridge,MA,2142,Resident,3,2/21/2006,2/21/2009
+299,wt-4611,8624 Portage Drive,San Francisco,CA,94137,Resident,3,2/11/2006,2/11/2009
+905,yd-0343,08 Westerfield Place,Inglewood,CA,90310,Resident,3,1/30/2006,1/30/2009
+542,ax-2144,60 Old Shore Junction,Alpharetta,GA,30022,Resident,3,1/18/2006,1/18/2009
+793,ii-2095,067 Kim Park,Newton,MA,2162,Resident,3,1/10/2006,1/10/2009
+151,vg-4889,269 Raven Avenue,Orange,CA,92862,Resident,3,12/29/2005,12/29/2008
+254,ab-2403,22795 West Junction,Santa Monica,CA,90405,Resident,3,12/21/2005,12/21/2008
+107,ep-2666,87858 Ohio Way,Columbus,GA,31904,Resident,3,12/20/2005,12/20/2008
+962,zx-0832,1507 Park Meadow Park,San Luis Obispo,CA,93407,Resident,3,12/3/2005,12/3/2008
+842,an-9439,0 Dunning Center,Duluth,GA,30096,Resident,3,11/25/2005,11/25/2008
+752,dg-1950,30130 Eagan Pass,San Diego,CA,92127,Resident,3,11/22/2005,11/22/2008
+97,kx-4879,33 Redwing Street,Whittier,CA,90610,Resident,3,11/17/2005,11/17/2008
+17,bn-1229,163 Schiller Plaza,Newton,MA,2458,Resident,3,10/28/2005,10/28/2008
+559,df-4485,1282 Vera Way,Inglewood,CA,90305,Resident,3,10/26/2005,10/26/2008
+61,ii-4914,212 Briar Crest Pass,Anaheim,CA,92825,Resident,3,10/20/2005,10/20/2008
+371,ag-0333,4785 Bunting Point,San Jose,CA,95155,Resident,3,10/15/2005,10/15/2008
+930,dl-9737,9 Montana Street,Atlanta,GA,30351,Resident,3,10/12/2005,10/12/2008
+283,pr-6820,5321 Raven Terrace,Fresno,CA,93704,Resident,3,10/11/2005,10/11/2008
+269,oc-2599,8 Buell Parkway,Chico,CA,95973,Resident,3,8/29/2005,8/29/2008
+710,lq-4870,07 Milwaukee Plaza,Fresno,CA,93786,Resident,3,8/24/2005,8/24/2008
+422,oq-0400,7884 Garrison Trail,Sacramento,CA,94291,Resident,3,8/8/2005,8/8/2008
+871,hs-2900,31 Lotheville Road,Chula Vista,CA,91913,Resident,3,8/5/2005,8/5/2008
+801,vi-3290,224 Old Shore Pass,San Francisco,CA,94121,Resident,3,8/4/2005,8/4/2008
+99,im-2000,3 Lake View Junction,San Jose,CA,95150,Resident,3,7/24/2005,7/24/2008
+169,aa-0674,7 Kingsford Place,Fullerton,CA,92835,Resident,2,7/17/2006,7/17/2008
+619,wi-8208,192 Erie Point,Atlanta,GA,30336,Resident,3,7/10/2005,7/10/2008
+271,de-7659,9286 Straubel Street,San Mateo,CA,94405,Resident,2,7/4/2006,7/4/2008
+170,er-1635,7 Mitchell Terrace,Moreno Valley,CA,92555,Resident,2,6/29/2006,6/29/2008
+313,ia-0801,1978 Marcy Pass,Los Angeles,CA,90081,Resident,3,6/29/2005,6/29/2008
+65,at-0157,812 Shopko Circle,Atlanta,GA,30323,Resident,2,6/23/2006,6/23/2008
+453,eq-8350,18654 Sycamore Plaza,Atlanta,GA,30392,Resident,3,6/19/2005,6/19/2008
+910,zk-2023,6080 Mandrake Center,Stockton,CA,95205,Resident,2,6/14/2006,6/14/2008
+319,wf-2400,95943 Petterle Circle,Atlanta,GA,31196,Resident,2,6/7/2006,6/7/2008
+993,vx-9021,102 Waywood Alley,Sacramento,CA,94263,Resident,2,6/6/2006,6/6/2008
+488,fm-5080,7732 Riverside Junction,Bakersfield,CA,93399,Resident,3,6/5/2005,6/5/2008
+636,oh-2332,35 Randy Plaza,Oxnard,CA,93034,Resident,3,5/31/2005,5/31/2008
+112,nb-0563,650 7th Way,Van Nuys,CA,91406,Resident,3,5/26/2005,5/26/2008
+287,eh-9267,32134 Ridgeview Street,Santa Barbara,CA,93106,Resident,3,5/25/2005,5/25/2008
+675,oi-8862,9764 Truax Way,Fresno,CA,93750,Resident,3,5/16/2005,5/16/2008
+204,tv-9385,8 Dawn Hill,Sacramento,CA,94230,Resident,2,5/4/2006,5/4/2008
+813,ux-3464,9 Rockefeller Junction,San Francisco,CA,94142,Resident,3,4/28/2005,4/28/2008
+361,qn-5465,978 Northwestern Street,San Diego,CA,92176,Resident,2,4/27/2006,4/27/2008
+866,kh-2507,65 International Crossing,Savannah,GA,31422,Resident,3,4/27/2005,4/27/2008
+144,dh-7329,289 Maple Crossing,Van Nuys,CA,91406,Resident,3,4/25/2005,4/25/2008
+969,zr-6111,52265 Bartillon Pass,Los Angeles,CA,90025,Resident,2,4/23/2006,4/23/2008
+336,dw-4815,27 Hooker Hill,Fresno,CA,93773,Resident,2,4/14/2006,4/14/2008
+358,yz-5442,7840 Vidon Lane,Boston,MA,2298,Resident,3,4/14/2005,4/14/2008
+171,bs-0572,6816 Vernon Crossing,Newport Beach,CA,92662,Resident,2,4/12/2006,4/12/2008
+249,jt-7501,46994 Ronald Regan Circle,Petaluma,CA,94975,Resident,3,4/4/2005,4/4/2008
+509,bs-1759,2 Thackeray Junction,San Francisco,CA,94177,Resident,2,4/2/2006,4/2/2008
+667,cw-8129,6067 Towne Center,San Luis Obispo,CA,93407,Resident,3,4/2/2005,4/2/2008
+105,oe-1548,559 Karstens Crossing,Sacramento,CA,94280,Resident,2,3/18/2006,3/18/2008
+399,tr-4913,7 Ryan Hill,Los Angeles,CA,90030,Resident,2,3/17/2006,3/17/2008
+666,bm-2692,31418 Ruskin Court,San Francisco,CA,94177,Resident,2,3/15/2006,3/15/2008
+391,zc-0462,32 Anthes Circle,South Lake Tahoe,CA,96154,Resident,2,3/7/2006,3/7/2008
+985,cj-7919,8 Menomonie Terrace,Los Angeles,CA,90071,Resident,2,3/6/2006,3/6/2008
+88,ef-8639,5624 Village Parkway,Fresno,CA,93709,Resident,3,3/4/2005,3/4/2008
+196,za-1385,76314 Veith Terrace,Sacramento,CA,94273,Resident,3,3/4/2005,3/4/2008
+298,xs-6492,0846 Morning Street,Atlanta,GA,31190,Resident,2,3/2/2006,3/2/2008
+201,yz-7538,0149 Kennedy Drive,Pasadena,CA,91131,Resident,2,2/28/2006,2/28/2008
+388,ev-3167,7 Doe Crossing Court,Los Angeles,CA,90040,Resident,3,2/17/2005,2/17/2008
+620,nc-0233,0529 Stephen Way,Atlanta,GA,31196,Resident,3,2/4/2005,2/4/2008
+417,cd-5552,16 Mosinee Hill,North Hollywood,CA,91606,Resident,2,1/31/2006,1/31/2008
+964,vh-7983,3 Maywood Parkway,Boston,MA,2283,Resident,2,1/26/2006,1/26/2008
+664,yg-5265,33 Ronald Regan Junction,Atlanta,GA,31132,Resident,2,1/22/2006,1/22/2008
+524,mh-0075,6092 Florence Pass,Sacramento,CA,94257,Resident,3,1/16/2005,1/16/2008
+881,dz-0945,5 Carey Pass,Los Angeles,CA,90040,Resident,3,1/16/2005,1/16/2008
+82,ht-9534,7 Tennessee Circle,Fullerton,CA,92640,Resident,2,1/12/2006,1/12/2008
+255,tb-5764,03474 7th Circle,Macon,GA,31210,Resident,3,1/11/2005,1/11/2008
+677,si-9008,002 Bellgrove Lane,Savannah,GA,31416,Resident,3,1/9/2005,1/9/2008
+644,pa-0848,3 Briar Crest Parkway,Atlanta,GA,31132,Resident,2,1/5/2006,1/5/2008
+726,xo-7312,32 Paget Hill,Waltham,MA,2453,Resident,2,12/28/2005,12/28/2007
+771,zz-9505,1643 Kropf Alley,Sacramento,CA,94257,Resident,3,12/26/2004,12/26/2007
+60,to-4974,2 Dorton Lane,San Jose,CA,95160,Resident,3,12/17/2004,12/17/2007
+838,gf-7512,86501 Hanover Point,Columbus,GA,31904,Resident,3,12/15/2004,12/15/2007
+328,wr-6492,1 Oxford Way,Marietta,GA,30066,Resident,3,12/12/2004,12/12/2007
+81,gh-7680,99158 Leroy Lane,Boston,MA,2109,Resident,2,12/8/2005,12/8/2007
+544,oc-6741,39 Lerdahl Avenue,Redwood City,CA,94064,Resident,3,12/8/2004,12/8/2007
+45,ep-8623,7 Mallory Place,Boston,MA,2216,Resident,3,12/7/2004,12/7/2007
+506,ev-5699,4 Southridge Lane,San Diego,CA,92170,Resident,3,12/7/2004,12/7/2007
+252,vc-0829,35139 Thackeray Crossing,San Diego,CA,92127,Resident,2,12/4/2005,12/4/2007
+750,da-0913,60 Warrior Circle,Bakersfield,CA,93399,Resident,3,11/23/2004,11/23/2007
+629,iy-5935,620 Division Center,Glendale,CA,91210,Resident,3,11/16/2004,11/16/2007
+721,jc-9843,82 Helena Crossing,San Francisco,CA,94142,Resident,2,11/8/2005,11/8/2007
+475,of-9044,4990 Glacier Hill Point,San Jose,CA,95155,Resident,3,11/7/2004,11/7/2007
+777,ad-5656,4790 Atwood Parkway,Pasadena,CA,91125,Resident,2,11/6/2005,11/6/2007
+538,wg-1550,18 Montana Center,Oakland,CA,94616,Resident,2,11/1/2005,11/1/2007
+982,lv-8369,916 Steensland Junction,Fresno,CA,93704,Resident,3,10/27/2004,10/27/2007
+163,up-1178,8474 Mandrake Place,Santa Monica,CA,90410,Resident,2,10/26/2005,10/26/2007
+889,hj-7027,7 Oriole Point,San Francisco,CA,94142,Resident,3,10/22/2004,10/22/2007
+998,cu-0220,5 Troy Drive,Garden Grove,CA,92645,Resident,3,10/20/2004,10/20/2007
+375,hz-9260,2317 Nevada Street,Los Angeles,CA,90005,Resident,3,10/14/2004,10/14/2007
+819,yx-0756,8 Derek Circle,Whittier,CA,90605,Resident,2,10/14/2005,10/14/2007
+203,af-9980,7851 Merry Way,Los Angeles,CA,90045,Resident,3,10/13/2004,10/13/2007
+776,cl-8829,86 Morningstar Court,Pasadena,CA,91199,Resident,2,10/11/2005,10/11/2007
+462,ya-1806,9510 Lotheville Junction,Orange,CA,92668,Resident,2,10/10/2005,10/10/2007
+2,sn-7743,98878 Graedel Pass,Atlanta,GA,31165,Resident,2,10/9/2005,10/9/2007
+552,zv-0614,765 Arapahoe Hill,San Mateo,CA,94405,Resident,3,10/8/2004,10/8/2007
+654,xq-3732,472 Bultman Junction,Decatur,GA,30089,Resident,3,10/7/2004,10/7/2007
+348,hq-2501,7851 Erie Court,Springfield,MA,1129,Resident,3,10/5/2004,10/5/2007
+923,cp-4486,94467 Brown Place,Bakersfield,CA,93381,Resident,2,10/1/2005,10/1/2007
+723,ss-8054,6 Amoth Drive,Boston,MA,2283,Resident,2,9/22/2005,9/22/2007
+901,sw-8849,32550 Tennessee Junction,San Jose,CA,95118,Resident,3,9/9/2004,9/9/2007
+498,lh-1221,20766 Arizona Parkway,San Diego,CA,92145,Resident,2,9/3/2005,9/3/2007
+563,oh-4703,4 Lukken Drive,San Diego,CA,92132,Resident,2,9/3/2005,9/3/2007
+735,ah-0652,38 Orin Drive,Savannah,GA,31416,Resident,3,9/1/2004,9/1/2007
+931,jd-4786,0202 Graedel Pass,Pomona,CA,91797,Resident,2,8/29/2005,8/29/2007
+967,qk-1268,60163 Moose Circle,Oceanside,CA,92056,Resident,3,8/28/2004,8/28/2007
+631,xw-1084,084 Muir Road,Brockton,MA,2305,Resident,3,8/27/2004,8/27/2007
+278,ex-8004,6401 Cottonwood Hill,Atlanta,GA,30328,Resident,3,8/26/2004,8/26/2007
+335,of-6998,57335 Clarendon Drive,Marietta,GA,30066,Resident,2,8/24/2005,8/24/2007
+266,fi-1895,88274 Morrow Trail,Oxnard,CA,93034,Resident,3,8/20/2004,8/20/2007
+754,yu-7131,15091 Carpenter Parkway,Whittier,CA,90610,Resident,3,8/20/2004,8/20/2007
+992,nb-6869,98 Anhalt Avenue,Savannah,GA,31410,Resident,3,8/20/2004,8/20/2007
+503,vg-4736,043 Erie Plaza,Los Angeles,CA,90030,Resident,3,8/19/2004,8/19/2007
+714,it-5950,13124 Ilene Point,Atlanta,GA,30380,Resident,3,8/15/2004,8/15/2007
+588,jj-9879,50940 Hovde Lane,Atlanta,GA,30340,Resident,3,8/14/2004,8/14/2007
+928,ym-4905,4 Tony Circle,San Francisco,CA,94137,Resident,3,8/14/2004,8/14/2007
+727,ek-8564,19960 Northport Center,San Mateo,CA,94405,Resident,2,8/12/2005,8/12/2007
+429,ko-1656,92 Crownhardt Court,Woburn,MA,1813,Resident,3,8/4/2004,8/4/2007
+722,tj-9484,8386 Oak Valley Plaza,Atlanta,GA,30375,Resident,2,7/29/2005,7/29/2007
+236,ah-0655,84 Waubesa Road,Columbus,GA,31998,Resident,3,7/22/2004,7/22/2007
+531,md-8977,972 Blue Bill Park Way,Salinas,CA,93907,Resident,3,7/21/2004,7/21/2007
+650,tb-1227,5 Utah Crossing,Atlanta,GA,30356,Resident,3,7/21/2004,7/21/2007
+760,pr-4265,0 Harbort Plaza,Los Angeles,CA,90101,Resident,2,7/20/2005,7/20/2007
+132,xw-1233,9 Bay Lane,Sacramento,CA,95833,Resident,3,7/18/2004,7/18/2007
+469,fv-3144,39 Service Street,Sunnyvale,CA,94089,Resident,1,7/13/2006,7/13/2007
+674,rw-3602,87 Lawn Point,Corona,CA,92878,Resident,2,7/13/2005,7/13/2007
+575,bj-7514,9638 Rigney Point,San Francisco,CA,94169,Resident,1,7/12/2006,7/12/2007
+91,qs-4677,077 Kenwood Court,Santa Ana,CA,92705,Resident,3,7/8/2004,7/8/2007
+405,tk-6270,5 Dixon Parkway,Los Angeles,CA,90050,Resident,2,7/6/2005,7/6/2007
+950,zi-1888,2 Sommers Road,San Jose,CA,95194,Resident,2,7/5/2005,7/5/2007
+239,hb-4351,02 Saint Paul Park,Bakersfield,CA,93386,Resident,1,7/4/2006,7/4/2007
+444,jk-8906,83394 Muir Hill,Los Angeles,CA,90094,Resident,1,7/4/2006,7/4/2007
+831,yw-8744,15618 Schlimgen Crossing,Marietta,GA,30066,Resident,2,7/1/2005,7/1/2007
+286,jf-0193,735 Sundown Trail,Watertown,MA,2472,Resident,3,6/30/2004,6/30/2007
+54,be-2599,39243 Eagle Crest Center,Lynn,MA,1905,Resident,3,6/28/2004,6/28/2007
+584,ad-9068,8745 Sutherland Lane,Oakland,CA,94611,Resident,1,6/28/2006,6/28/2007
+691,uj-6884,352 Forest Pass,San Francisco,CA,94147,Resident,3,6/26/2004,6/26/2007
+135,cl-2899,8 Butternut Alley,Concord,CA,94522,Resident,1,6/24/2006,6/24/2007
+8,ra-8129,391 Talisman Hill,Bakersfield,CA,93305,Resident,1,6/21/2006,6/21/2007
+173,am-2275,7 Dottie Place,Los Angeles,CA,90060,Resident,1,6/17/2006,6/17/2007
+690,qo-5212,48284 Lotheville Lane,San Francisco,CA,94137,Resident,3,6/17/2004,6/17/2007
+365,jv-4709,75750 Crescent Oaks Pass,Glendale,CA,91210,Resident,2,6/16/2005,6/16/2007
+315,vb-7655,9724 Melrose Court,Fresno,CA,93773,Resident,2,6/11/2005,6/11/2007
+241,zg-1504,44 Nevada Point,Athens,GA,30610,Resident,3,6/9/2004,6/9/2007
+528,qb-4005,770 Hooker Way,Santa Clara,CA,95054,Resident,2,6/9/2005,6/9/2007
+186,ai-0991,8 Dakota Crossing,Sacramento,CA,95828,Resident,3,6/7/2004,6/7/2007
+121,la-6329,11307 Kenwood Court,Long Beach,CA,90805,Resident,1,6/1/2006,6/1/2007
+426,ed-0631,7 Myrtle Junction,San Rafael,CA,94913,Resident,3,5/31/2004,5/31/2007
+569,gw-6784,964 Aberg Plaza,Cumming,GA,30130,Resident,1,5/30/2006,5/30/2007
+863,uj-8267,2 Farragut Court,Atlanta,GA,30306,Resident,1,5/30/2006,5/30/2007
+87,lq-5676,26 Darwin Street,Escondido,CA,92030,Resident,2,5/27/2005,5/27/2007
+222,gn-0250,3857 Farragut Way,Van Nuys,CA,91406,Resident,3,5/25/2004,5/25/2007
+9,gd-2486,15 Clyde Gallagher Alley,Atlanta,GA,30340,Resident,3,5/24/2004,5/24/2007
+988,jj-4746,90 Kedzie Drive,Brockton,MA,2305,Resident,1,5/22/2006,5/22/2007
+517,oh-8034,25136 Spohn Place,Sacramento,CA,94263,Resident,3,5/21/2004,5/21/2007
+656,xy-1222,485 Comanche Hill,San Jose,CA,95113,Resident,2,5/14/2005,5/14/2007
+447,ct-1324,80 Reinke Drive,San Diego,CA,92115,Resident,1,5/3/2006,5/3/2007
+702,xd-6398,10 Kipling Trail,Macon,GA,31296,Resident,1,5/2/2006,5/2/2007
+805,jr-2378,053 Ludington Trail,Atlanta,GA,30392,Resident,3,4/25/2004,4/25/2007
+972,qb-5732,61 Iowa Circle,Boston,MA,2203,Resident,1,4/22/2006,4/22/2007
+310,ko-6425,477 Melby Center,San Diego,CA,92127,Resident,2,4/20/2005,4/20/2007
+796,ua-6880,63 Dovetail Road,Sacramento,CA,94286,Resident,3,4/18/2004,4/18/2007
+486,rb-2525,660 Gale Park,Long Beach,CA,90831,Resident,2,4/15/2005,4/15/2007
+780,as-6062,0852 Heath Lane,San Jose,CA,95108,Resident,1,4/13/2006,4/13/2007
+641,px-0158,1059 Everett Junction,Stockton,CA,95210,Resident,2,4/9/2005,4/9/2007
+401,hs-1807,6 Anhalt Crossing,Berkeley,CA,94705,Resident,3,4/6/2004,4/6/2007
+26,lm-1848,1 Messerschmidt Pass,Boston,MA,2298,Resident,3,4/1/2004,4/1/2007
+617,ah-9930,01185 Manitowish Parkway,Los Angeles,CA,90065,Resident,1,4/1/2006,4/1/2007
+968,xq-9039,0 Hanson Alley,Atlanta,GA,31132,Resident,2,3/31/2005,3/31/2007
+971,jz-1770,281 Cascade Plaza,Visalia,CA,93291,Resident,2,3/26/2005,3/26/2007
+661,oy-1683,4046 Randy Crossing,San Francisco,CA,94159,Resident,1,3/25/2006,3/25/2007
+833,sf-9824,64 Eagle Crest Drive,Sacramento,CA,95828,Resident,3,3/22/2004,3/22/2007
+193,ex-7880,9899 Buena Vista Pass,North Hollywood,CA,91616,Resident,1,3/14/2006,3/14/2007
+420,oj-6082,10 Corscot Crossing,San Francisco,CA,94132,Resident,2,3/11/2005,3/11/2007
+898,vw-9788,06 Hoard Center,Los Angeles,CA,90094,Resident,2,3/9/2005,3/9/2007
+291,ys-7487,1907 Pleasure Avenue,Long Beach,CA,90847,Resident,3,3/5/2004,3/5/2007
+790,cx-8918,4 Waubesa Pass,Sacramento,CA,94230,Resident,3,3/4/2004,3/4/2007
+580,ml-3919,383 Burning Wood Street,San Francisco,CA,94126,Resident,3,3/2/2004,3/2/2007
+153,tg-9956,0960 Village Point,Los Angeles,CA,90094,Resident,1,3/1/2006,3/1/2007
+226,jj-7161,285 Valley Edge Parkway,San Francisco,CA,94121,Resident,2,2/18/2005,2/18/2007
+317,cy-8566,30572 Dwight Street,Orange,CA,92668,Resident,3,2/18/2004,2/18/2007
+183,pt-3551,98 Sutteridge Center,Fullerton,CA,92835,Resident,2,2/9/2005,2/9/2007
+738,ku-1745,79203 Nelson Center,Fresno,CA,93786,Resident,1,2/8/2006,2/8/2007
+678,kf-4099,798 Bultman Street,Sacramento,CA,94286,Resident,2,2/3/2005,2/3/2007
+296,ku-4608,96706 Forest Junction,Sacramento,CA,94207,Resident,3,2/2/2004,2/2/2007
+464,jo-1192,1814 Bellgrove Point,Atlanta,GA,30343,Resident,1,1/31/2006,1/31/2007
+622,kw-3719,99189 Gina Road,Fullerton,CA,92640,Resident,3,1/28/2004,1/28/2007
+38,zy-7354,626 Hauk Plaza,Cambridge,MA,2142,Resident,3,1/23/2004,1/23/2007
+694,wf-5028,13403 Jenna Circle,Fresno,CA,93786,Resident,1,1/22/2006,1/22/2007
+601,hi-0726,47 Moulton Drive,San Bernardino,CA,92410,Resident,1,1/18/2006,1/18/2007
+858,um-1258,73926 Kensington Plaza,San Mateo,CA,94405,Resident,3,1/17/2004,1/17/2007
+443,vw-4738,443 Riverside Hill,San Diego,CA,92176,Resident,2,1/14/2005,1/14/2007
+676,rz-8231,66 Golden Leaf Way,Long Beach,CA,90805,Resident,1,1/9/2006,1/9/2007
+472,fs-8089,45671 Karstens Junction,Sacramento,CA,94250,Resident,2,1/7/2005,1/7/2007
+23,ha-9019,92859 Debs Avenue,Oakland,CA,94611,Resident,2,1/1/2005,1/1/2007
+123,mh-6380,039 Gina Court,Northridge,CA,91328,Resident,3,12/28/2003,12/28/2006
+325,qk-0214,72222 Pawling Crossing,Sacramento,CA,94263,Resident,1,12/26/2005,12/26/2006
+496,yt-3425,16775 Hagan Crossing,Fresno,CA,93709,Resident,3,12/26/2003,12/26/2006
+700,fr-8355,73 Monterey Plaza,Atlanta,GA,30306,Resident,2,12/26/2004,12/26/2006
+970,hk-0189,23 Lerdahl Trail,Fresno,CA,93773,Resident,3,12/25/2003,12/25/2006
+324,tr-9234,79 Donald Alley,Boston,MA,2104,Resident,2,12/21/2004,12/21/2006
+377,go-5461,28614 Utah Pass,Fresno,CA,93709,Resident,2,12/20/2004,12/20/2006
+987,xf-2914,9 Center Park,Brockton,MA,2405,Resident,1,12/18/2005,12/18/2006
+231,er-2859,9250 Red Cloud Center,Salinas,CA,93907,Resident,2,12/7/2004,12/7/2006
+411,xq-7705,8 Ronald Regan Crossing,Columbus,GA,31998,Resident,1,12/7/2005,12/7/2006
+541,zt-5835,30395 Service Terrace,San Francisco,CA,94137,Resident,2,12/6/2004,12/6/2006
+307,ey-7549,20968 Bellgrove Lane,San Bernardino,CA,92410,Resident,2,11/30/2004,11/30/2006
+645,gm-8366,2626 Lake View Drive,Savannah,GA,31422,Resident,2,11/28/2004,11/28/2006
+176,tp-8372,4685 Scott Street,Riverside,CA,92513,Resident,3,11/24/2003,11/24/2006
+117,hb-3475,9 Farragut Street,Atlanta,GA,31132,Resident,2,11/21/2004,11/21/2006
+48,sg-6560,55 Rockefeller Point,Atlanta,GA,30392,Resident,1,11/20/2005,11/20/2006
+354,bc-8275,28 Riverside Drive,Long Beach,CA,90805,Resident,2,11/20/2004,11/20/2006
+757,au-8313,52967 Derek Place,Brockton,MA,2305,Resident,1,11/18/2005,11/18/2006
+809,hz-3145,8041 Dahle Hill,Orange,CA,92862,Resident,2,11/9/2004,11/9/2006
+943,oe-0341,70 Buell Junction,Santa Barbara,CA,93150,Resident,1,11/9/2005,11/9/2006
+216,pm-3135,14688 Sunnyside Road,Corona,CA,92883,Resident,2,11/8/2004,11/8/2006
+237,cg-7306,761 Coleman Lane,San Rafael,CA,94913,Resident,1,11/7/2005,11/7/2006
+314,qu-0380,3 7th Pass,Atlanta,GA,31190,Resident,3,11/5/2003,11/5/2006
+356,ta-3839,4 Old Shore Trail,Redwood City,CA,94064,Resident,2,11/4/2004,11/4/2006
+513,je-5040,0909 Shopko Center,Santa Ana,CA,92705,Resident,1,11/3/2005,11/3/2006
+124,lh-8577,610 Hauk Avenue,San Luis Obispo,CA,93407,Resident,2,11/1/2004,11/1/2006
+501,sj-1288,3015 Sullivan Court,Bakersfield,CA,93305,Resident,3,10/30/2003,10/30/2006
+56,dz-1869,14 Lakewood Pass,San Jose,CA,95138,Resident,1,10/27/2005,10/27/2006
+197,jb-1228,58692 Pankratz Plaza,San Diego,CA,92176,Resident,3,10/26/2003,10/26/2006
+618,ta-0979,7 Coleman Alley,Atlanta,GA,30356,Resident,2,10/21/2004,10/21/2006
+214,eo-0251,3 Del Mar Road,Los Angeles,CA,90081,Resident,2,10/18/2004,10/18/2006
+782,ur-9731,14350 Vermont Avenue,Corona,CA,92878,Resident,2,10/17/2004,10/17/2006
+333,ro-3788,3 Thierer Alley,Los Angeles,CA,90020,Resident,1,10/16/2005,10/16/2006
+258,yq-3145,466 Ohio Street,Atlanta,GA,31165,Resident,3,10/14/2003,10/14/2006
+521,sh-8833,76801 Canary Hill,San Francisco,CA,94177,Resident,2,10/14/2004,10/14/2006
+459,ry-0823,569 Claremont Center,Irvine,CA,92717,Resident,1,10/13/2005,10/13/2006
+873,ff-5472,0094 Algoma Crossing,Santa Cruz,CA,95064,Resident,3,10/13/2003,10/13/2006
+712,jo-3987,71700 Vermont Crossing,Los Angeles,CA,90055,Resident,3,10/11/2003,10/11/2006
+382,cr-0749,76 North Plaza,San Jose,CA,95150,Resident,2,10/10/2004,10/10/2006
+160,jr-6193,62 Mesta Pass,Los Angeles,CA,90081,Resident,3,10/6/2003,10/6/2006
+519,ha-0995,7 Ilene Park,San Diego,CA,92191,Resident,2,10/3/2004,10/3/2006
+232,ta-8239,2836 Dovetail Plaza,Inglewood,CA,90305,Resident,2,10/1/2004,10/1/2006
+725,jk-3277,85037 Kipling Drive,San Jose,CA,95118,Resident,3,9/28/2003,9/28/2006
+742,qc-7097,96535 Swallow Plaza,Los Angeles,CA,90020,Resident,3,9/27/2003,9/27/2006
+707,sq-3178,54 Hollow Ridge Junction,San Diego,CA,92153,Resident,2,9/25/2004,9/25/2006
+180,mr-8732,693 Laurel Junction,Los Angeles,CA,90101,Resident,2,9/22/2004,9/22/2006
+57,sm-1302,86691 Dryden Crossing,Atlanta,GA,30340,Resident,2,9/20/2004,9/20/2006
+673,qs-3576,28683 Manley Trail,Sacramento,CA,94250,Resident,3,9/19/2003,9/19/2006
+628,fj-7242,0079 Fisk Road,Santa Cruz,CA,95064,Resident,1,9/18/2005,9/18/2006
+140,gu-8993,85047 Morrow Place,Escondido,CA,92030,Resident,2,9/9/2004,9/9/2006
+262,fm-2985,7 Algoma Park,Long Beach,CA,90847,Resident,3,9/7/2003,9/7/2006
+410,qx-3836,2834 Johnson Center,Oceanside,CA,92056,Resident,3,9/4/2003,9/4/2006
+217,zl-6378,0 Hoard Hill,Inglewood,CA,90305,Resident,2,9/1/2004,9/1/2006
+292,df-7613,4 Surrey Way,Pasadena,CA,91117,Resident,3,9/1/2003,9/1/2006
+106,ft-7037,2058 Sutherland Place,Atlanta,GA,30380,Resident,1,8/31/2005,8/31/2006
+437,ur-8196,8369 Merrick Circle,Fresno,CA,93773,Resident,3,8/31/2003,8/31/2006
+174,jp-7235,5 Anhalt Park,New Bedford,MA,2745,Resident,1,8/27/2005,8/27/2006
+592,si-0127,28 Stephen Pass,Fullerton,CA,92835,Resident,3,8/27/2003,8/27/2006
+67,cw-3823,013 Northridge Trail,Simi Valley,CA,93094,Resident,2,8/22/2004,8/22/2006
+76,rm-9534,13854 Knutson Hill,Augusta,GA,30905,Resident,1,8/21/2005,8/21/2006
+532,ml-3726,294 Mockingbird Street,Cambridge,MA,2142,Resident,3,8/10/2003,8/10/2006
+556,gj-8031,8788 Manitowish Court,Garden Grove,CA,92844,Resident,1,8/8/2005,8/8/2006
+689,oi-5604,3149 Tennyson Point,San Jose,CA,95155,Resident,2,8/8/2004,8/8/2006
+854,za-6876,00201 Rieder Way,Sacramento,CA,95823,Resident,3,8/8/2003,8/8/2006
+635,wv-0280,42 Cardinal Junction,Los Angeles,CA,90005,Resident,2,8/7/2004,8/7/2006
+703,tp-9132,09 Mayer Plaza,San Luis Obispo,CA,93407,Resident,2,8/6/2004,8/6/2006
+115,ia-3464,65286 Saint Paul Alley,San Bernardino,CA,92415,Resident,3,8/5/2003,8/5/2006
+648,aj-4915,849 Monica Trail,Stockton,CA,95298,Resident,3,8/3/2003,8/3/2006
+89,ar-9378,83974 Huxley Parkway,San Jose,CA,95155,Resident,2,7/30/2004,7/30/2006
+166,ex-2933,60255 Bowman Drive,Stockton,CA,95210,Resident,2,7/30/2004,7/30/2006
+21,ln-9889,40 Elka Trail,San Mateo,CA,94405,Resident,3,7/27/2003,7/27/2006
+304,uu-3210,2 Steensland Street,Ventura,CA,93005,Resident,3,7/27/2003,7/27/2006
+799,ew-1586,8495 Sachs Crossing,Atlanta,GA,31190,Resident,3,7/25/2003,7/25/2006
+959,xg-8254,50 Springs Road,Oakland,CA,94660,Resident,3,7/21/2003,7/21/2006
+339,ci-6012,8072 Fordem Court,Worcester,MA,1654,Resident,3,7/20/2003,7/20/2006
+739,fq-4120,23129 Hoffman Hill,Oakland,CA,94611,Resident,1,7/19/2005,7/19/2006
+657,mv-6183,3915 Graedel Place,Redwood City,CA,94064,Resident,2,7/18/2004,7/18/2006
+810,cc-5557,6 Brickson Park Center,San Rafael,CA,94913,Resident,1,7/14/2005,7/14/2006
+279,vl-6066,11 Gale Junction,Stockton,CA,95298,Resident,2,7/13/2004,7/13/2006
+215,zf-8526,480 Dakota Crossing,Modesto,CA,95354,Resident,3,7/3/2003,7/3/2006
+103,iy-1957,9 Packers Pass,San Francisco,CA,94164,Resident,1,6/30/2005,6/30/2006
+430,mc-7094,052 Mesta Place,San Francisco,CA,94159,Resident,2,6/30/2004,6/30/2006
+59,mj-7035,334 Ridgeview Road,Boston,MA,2104,Resident,2,6/29/2004,6/29/2006
+6,ri-5275,921 Crescent Oaks Avenue,Anaheim,CA,92805,Resident,2,6/26/2004,6/26/2006
+876,wm-2466,2 Stone Corner Crossing,Watertown,MA,2472,Resident,2,6/26/2004,6/26/2006
+870,wc-9036,0 Blackbird Circle,Atlanta,GA,30368,Resident,3,6/24/2003,6/24/2006
+850,em-7889,50107 Northport Road,Sacramento,CA,94237,Resident,1,6/22/2005,6/22/2006
+84,ho-4948,58225 Del Sol Circle,Albany,GA,31704,Resident,1,6/21/2005,6/21/2006
+419,kh-2337,24 Eagle Crest Avenue,Sacramento,CA,95852,Resident,2,6/21/2004,6/21/2006
+547,bu-6775,5444 Talisman Parkway,Bakersfield,CA,93311,Resident,2,6/17/2004,6/17/2006
+210,qf-0993,3 Rusk Park,Marietta,GA,30066,Resident,3,6/14/2003,6/14/2006
+441,sx-9121,54 Dovetail Point,Los Angeles,CA,90050,Resident,2,6/14/2004,6/14/2006
+326,qy-1817,3 Buena Vista Way,Van Nuys,CA,91411,Resident,2,6/13/2004,6/13/2006
+937,xb-2246,486 Pennsylvania Terrace,Palmdale,CA,93591,Resident,3,6/13/2003,6/13/2006
+979,xq-6017,6 Goodland Park,Fresno,CA,93762,Resident,1,6/13/2005,6/13/2006
+562,hu-9347,3949 Stone Corner Street,San Diego,CA,92160,Resident,1,6/9/2005,6/9/2006
+157,bu-8636,9010 Boyd Parkway,Los Angeles,CA,90015,Resident,1,6/7/2005,6/7/2006
+184,yb-0177,4850 Brickson Park Avenue,Stockton,CA,95298,Resident,3,6/7/2003,6/7/2006
+960,fk-3062,9 Pearson Junction,San Diego,CA,92176,Resident,2,5/28/2004,5/28/2006
+156,jg-0735,9925 Pond Road,San Rafael,CA,94913,Resident,3,5/27/2003,5/27/2006
+323,zy-2442,1 Dryden Center,Macon,GA,31210,Resident,3,5/23/2003,5/23/2006
+820,lb-1373,3713 Brentwood Crossing,Oakland,CA,94660,Resident,3,5/18/2003,5/18/2006
+46,wj-6910,891 Ludington Circle,Inglewood,CA,90310,Resident,2,5/16/2004,5/16/2006
+288,dy-1013,42057 Kropf Way,San Diego,CA,92145,Resident,3,5/15/2003,5/15/2006
+98,zv-8126,73 Blackbird Drive,Bakersfield,CA,93386,Resident,2,5/14/2004,5/14/2006
+460,br-0230,05 Portage Circle,Macon,GA,31217,Resident,3,5/14/2003,5/14/2006
+949,sm-5916,15622 Annamark Point,Boston,MA,2104,Resident,3,5/14/2003,5/14/2006
+572,ry-9733,7 Merchant Trail,Atlanta,GA,30343,Resident,1,5/11/2005,5/11/2006
+779,ku-9001,2 Old Shore Trail,San Diego,CA,92132,Resident,3,5/11/2003,5/11/2006
+436,bl-7473,3 Park Meadow Terrace,Oakland,CA,94660,Resident,3,5/10/2003,5/10/2006
+11,bh-3874,8 Park Meadow Way,North Hollywood,CA,91616,Resident,3,5/9/2003,5/9/2006
+227,sm-9111,40370 Doe Crossing Parkway,San Diego,CA,92191,Resident,2,5/8/2004,5/8/2006
+120,cd-9975,39809 Fulton Place,Worcester,MA,1610,Resident,3,5/7/2003,5/7/2006
+438,rw-6984,7 Sheridan Court,Atlanta,GA,31190,Resident,1,5/7/2005,5/7/2006
+935,ud-9206,18026 Hallows Alley,San Jose,CA,95160,Resident,2,5/7/2004,5/7/2006
+113,at-5903,18 Utah Terrace,Atlanta,GA,30311,Resident,2,5/6/2004,5/6/2006
+351,xi-1002,6801 Spenser Lane,Savannah,GA,31416,Resident,1,5/2/2005,5/2/2006
+301,sl-6551,92 Portage Terrace,Riverside,CA,92519,Resident,2,4/30/2004,4/30/2006
+418,er-9871,1797 Stang Alley,San Francisco,CA,94159,Resident,1,4/21/2005,4/21/2006
+953,yf-1811,879 Tennessee Plaza,Fresno,CA,93778,Resident,3,4/21/2003,4/21/2006
+461,rr-9114,1 Melody Avenue,Los Angeles,CA,90040,Resident,1,4/12/2005,4/12/2006
+715,ie-8106,47 Lerdahl Court,Columbus,GA,31914,Resident,1,4/11/2005,4/11/2006
+590,rw-7898,13 Katie Place,San Jose,CA,95128,Resident,3,4/8/2003,4/8/2006
+522,ra-4291,769 Iowa Lane,Stockton,CA,95219,Resident,3,4/6/2003,4/6/2006
+275,wr-1883,3 Loomis Drive,Augusta,GA,30905,Resident,2,4/4/2004,4/4/2006
+495,bp-2322,5 Sugar Road,Atlanta,GA,31132,Resident,1,4/4/2005,4/4/2006
+128,wj-1223,36 Harbort Hill,Glendale,CA,91205,Resident,2,4/3/2004,4/3/2006
+129,ku-3389,5668 Shoshone Lane,Sacramento,CA,95828,Resident,1,4/3/2005,4/3/2006
+859,ig-9272,096 Kipling Circle,Richmond,CA,94807,Resident,1,3/31/2005,3/31/2006
+888,zr-5455,7 Muir Avenue,San Francisco,CA,94121,Resident,3,3/30/2003,3/30/2006
+149,ze-6049,23 Roth Hill,Pasadena,CA,91199,Resident,2,3/17/2004,3/17/2006
+558,iw-8832,3956 Marquette Way,San Jose,CA,95118,Resident,3,3/17/2003,3/17/2006
+15,gs-4105,06 Loeprich Hill,Pasadena,CA,91125,Resident,1,3/13/2005,3/13/2006
+273,ks-1022,63208 Pierstorff Hill,Riverside,CA,92519,Resident,2,3/3/2004,3/3/2006
+792,mr-5285,3163 Raven Point,Woburn,MA,1813,Resident,3,2/26/2003,2/26/2006
+936,xm-7775,9 Utah Way,San Jose,CA,95108,Resident,2,2/23/2004,2/23/2006
+147,we-3953,92634 Everett Trail,San Francisco,CA,94177,Resident,1,2/22/2005,2/22/2006
+55,ah-9148,024 Delaware Alley,Torrance,CA,90510,Resident,2,2/20/2004,2/20/2006
+573,du-4353,8 Bashford Hill,New Bedford,MA,2745,Resident,1,2/20/2005,2/20/2006
+864,ck-8881,1 Mockingbird Terrace,Atlanta,GA,30343,Resident,1,2/18/2005,2/18/2006
+228,lj-1042,2940 Schlimgen Lane,Inglewood,CA,90305,Resident,3,2/14/2003,2/14/2006
+775,dr-9408,5 School Circle,San Diego,CA,92191,Resident,3,2/9/2003,2/9/2006
+829,cf-7503,41189 Debra Drive,Burbank,CA,91520,Resident,3,2/8/2003,2/8/2006
+96,bn-6786,12924 Montana Street,Los Angeles,CA,90071,Resident,3,2/7/2003,2/7/2006
+229,ey-5691,5709 Mallory Avenue,San Diego,CA,92121,Resident,3,2/5/2003,2/5/2006
+505,zj-7042,646 Main Street,Brea,CA,92822,Resident,1,2/3/2005,2/3/2006
+139,my-3128,05 Grover Pass,Inglewood,CA,90310,Resident,1,1/31/2005,1/31/2006
+172,sj-5739,73 Colorado Plaza,San Francisco,CA,94142,Resident,3,1/26/2003,1/26/2006
+274,uk-2782,822 Eliot Circle,Bakersfield,CA,93305,Resident,2,1/25/2004,1/25/2006
+225,zd-8512,52259 Merry Court,Waltham,MA,2453,Resident,1,1/19/2005,1/19/2006
+756,kq-4113,920 Ronald Regan Trail,Augusta,GA,30911,Resident,1,1/18/2005,1/18/2006
+909,wj-3041,3617 Dorton Alley,Santa Monica,CA,90410,Resident,1,1/18/2005,1/18/2006
+264,ie-2096,9 Farragut Avenue,Corona,CA,92883,Resident,1,1/17/2005,1/17/2006
+360,qw-6563,58825 Golden Leaf Avenue,Los Angeles,CA,90025,Resident,3,1/15/2003,1/15/2006
+320,ft-5000,08966 Susan Hill,Los Angeles,CA,90081,Resident,3,1/13/2003,1/13/2006
+439,zr-3118,572 Oriole Point,Glendale,CA,91210,Resident,1,1/11/2005,1/11/2006
+235,gj-4677,00 Superior Street,San Francisco,CA,94154,Resident,2,1/9/2004,1/9/2006
+392,nz-0685,0 New Castle Center,Sacramento,CA,94207,Resident,2,12/23/2003,12/23/2005
+637,mc-5832,19 Hermina Place,Los Angeles,CA,90010,Resident,3,12/23/2002,12/23/2005
+626,gc-8020,11 Mosinee Plaza,Torrance,CA,90510,Resident,3,12/22/2002,12/22/2005
+37,dm-5855,9396 Drewry Road,Sacramento,CA,94273,Resident,1,12/17/2004,12/17/2005
+482,cf-9399,471 Monica Junction,Sacramento,CA,95823,Resident,1,12/11/2004,12/11/2005
+433,da-2814,63263 Sachs Circle,Columbus,GA,31998,Resident,3,12/10/2002,12/10/2005
+747,lv-0340,0601 Huxley Plaza,Van Nuys,CA,91406,Resident,3,12/9/2002,12/9/2005
+192,vz-4373,8266 Judy Plaza,Anaheim,CA,92825,Resident,3,12/7/2002,12/7/2005
+670,vf-1014,1845 Commercial Parkway,Los Angeles,CA,90005,Resident,2,12/4/2003,12/4/2005
+104,yx-1701,042 Village Pass,Long Beach,CA,90805,Resident,1,12/2/2004,12/2/2005
+914,zl-7938,20897 Sugar Place,Macon,GA,31205,Resident,1,12/1/2004,12/1/2005
+598,ch-5455,59 Graedel Terrace,Moreno Valley,CA,92555,Resident,3,11/30/2002,11/30/2005
+900,kh-3101,838 Browning Hill,Los Angeles,CA,90050,Resident,3,11/30/2002,11/30/2005
+599,uu-6869,12 Stuart Drive,Long Beach,CA,90810,Resident,2,11/27/2003,11/27/2005
+44,co-3706,395 Thierer Pass,Sacramento,CA,95865,Resident,1,11/20/2004,11/20/2005
+141,vr-3280,9 Schlimgen Point,Fresno,CA,93773,Resident,2,11/20/2003,11/20/2005
+190,kj-6088,8 Sherman Road,San Diego,CA,92127,Resident,1,11/20/2004,11/20/2005
+941,vo-7347,77237 Barnett Avenue,Van Nuys,CA,91411,Resident,1,11/20/2004,11/20/2005
+384,ln-7986,084 Longview Crossing,San Diego,CA,92105,Resident,3,11/19/2002,11/19/2005
+35,qk-7072,19 Pleasure Center,Duluth,GA,30195,Resident,2,11/16/2003,11/16/2005
+211,ba-7392,7 Rutledge Park,Stockton,CA,95205,Resident,2,11/13/2003,11/13/2005
+29,fw-4951,4 Tony Avenue,Lancaster,CA,93584,Resident,1,11/11/2004,11/11/2005
+414,ad-7748,38 Forest Dale Street,San Francisco,CA,94137,Resident,2,11/10/2003,11/10/2005
+272,vd-3498,60 Ridgeview Parkway,Atlanta,GA,30311,Resident,3,11/5/2002,11/5/2005
+892,vb-1021,40 Dryden Point,Worcester,MA,1605,Resident,1,11/5/2004,11/5/2005
+200,jo-6415,3686 Killdeer Parkway,Sacramento,CA,95894,Resident,1,11/3/2004,11/3/2005
+537,rh-0333,1 Mandrake Way,Whittier,CA,90610,Resident,2,11/2/2003,11/2/2005
+261,ax-5276,8 Larry Street,Pasadena,CA,91186,Resident,3,10/24/2002,10/24/2005
+766,ru-8466,7 Namekagon Point,Van Nuys,CA,91411,Resident,2,10/19/2003,10/19/2005
+490,cq-2962,1 Oak Valley Center,San Jose,CA,95108,Resident,3,10/9/2002,10/9/2005
+329,dj-2621,813 Nevada Hill,Sacramento,CA,94297,Resident,2,10/8/2003,10/8/2005
+349,sh-1482,1 Carey Parkway,Sacramento,CA,94257,Resident,1,10/1/2004,10/1/2005
+511,qv-2294,2 Marcy Way,Santa Monica,CA,90410,Resident,2,9/29/2003,9/29/2005
+540,gk-9575,8668 Mallard Plaza,Cumming,GA,30130,Resident,2,9/27/2003,9/27/2005
+206,zx-8454,5370 Memorial Pass,Atlanta,GA,30323,Resident,3,9/21/2002,9/21/2005
+20,ey-1326,12424 Reinke Center,Chula Vista,CA,91913,Resident,3,9/19/2002,9/19/2005
+696,il-1234,6 Hagan Trail,San Diego,CA,92145,Resident,3,9/19/2002,9/19/2005
+424,ht-2680,1 Dahle Road,San Diego,CA,92160,Resident,2,9/15/2003,9/15/2005
+363,os-2269,504 Oakridge Point,Visalia,CA,93291,Resident,3,9/11/2002,9/11/2005
+221,am-8221,2 Reindahl Way,Pasadena,CA,91103,Resident,1,9/6/2004,9/6/2005
+834,oo-9290,898 Eastwood Street,San Diego,CA,92176,Resident,2,9/3/2003,9/3/2005
+922,aw-9685,62085 Trailsway Avenue,San Diego,CA,92176,Resident,1,9/3/2004,9/3/2005
+52,bc-4221,1585 Springs Lane,San Bernardino,CA,92424,Resident,3,9/1/2002,9/1/2005
+856,gl-5485,2602 Kensington Place,Atlanta,GA,30343,Resident,3,9/1/2002,9/1/2005
+823,bh-1802,0 Talisman Street,Brea,CA,92822,Resident,1,8/31/2004,8/31/2005
+614,vl-6190,300 Mitchell Center,Atlanta,GA,31106,Resident,2,8/29/2003,8/29/2005
+470,uc-9638,2409 Redwing Crossing,Santa Barbara,CA,93150,Resident,3,8/27/2002,8/27/2005
+494,qs-4226,5571 Aberg Park,Lawrenceville,GA,30045,Resident,3,8/27/2002,8/27/2005
+79,va-5178,26 Melrose Point,Stockton,CA,95298,Resident,1,8/25/2004,8/25/2005
+811,rg-4018,07183 Sycamore Parkway,San Francisco,CA,94126,Resident,1,8/25/2004,8/25/2005
+213,ci-8898,4884 Waywood Street,Anaheim,CA,92812,Resident,1,8/24/2004,8/24/2005
+954,hh-8082,74905 Hansons Place,Athens,GA,30605,Resident,1,8/20/2004,8/20/2005
+835,ec-6077,8338 Arapahoe Crossing,San Jose,CA,95123,Resident,1,8/19/2004,8/19/2005
+781,or-1849,498 Sherman Crossing,Los Angeles,CA,90189,Resident,1,8/16/2004,8/16/2005
+219,do-6672,183 Swallow Terrace,Irvine,CA,92710,Resident,3,8/13/2002,8/13/2005
+591,fw-2103,5688 Longview Junction,Bakersfield,CA,93305,Resident,2,8/11/2003,8/11/2005
+116,bz-8219,307 Heffernan Pass,Atlanta,GA,31190,Resident,2,8/9/2003,8/9/2005
+665,cp-8700,8512 Dottie Crossing,Fresno,CA,93709,Resident,2,8/8/2003,8/8/2005
+708,xa-5690,6 Derek Way,San Diego,CA,92110,Resident,3,8/8/2002,8/8/2005
+974,mr-2550,82131 Judy Park,Fresno,CA,93786,Resident,3,8/8/2002,8/8/2005
+550,mf-0954,54 Pleasure Terrace,Long Beach,CA,90805,Resident,3,8/6/2002,8/6/2005
+770,vf-4220,9 Helena Point,Los Angeles,CA,90065,Resident,2,8/3/2003,8/3/2005
+746,qf-1829,332 Donald Drive,Los Angeles,CA,90071,Resident,1,7/31/2004,7/31/2005
+788,hq-7640,1490 Utah Circle,Savannah,GA,31410,Resident,3,7/31/2002,7/31/2005
+390,ka-6604,9630 Sullivan Drive,Savannah,GA,31405,Resident,2,7/22/2003,7/22/2005
+240,mw-1463,516 Debra Circle,Los Angeles,CA,90010,Resident,1,7/21/2004,7/21/2005
+774,dx-3562,42 Oak Valley Park,Riverside,CA,92505,Resident,1,7/21/2004,7/21/2005
+63,ug-5727,575 Shopko Junction,Sacramento,CA,95818,Resident,3,7/9/2002,7/9/2005
+130,at-6041,4264 Oneill Park,Sacramento,CA,94250,Resident,3,6/30/2002,6/30/2005
+795,hj-5370,5 Mitchell Parkway,Sacramento,CA,95828,Resident,2,6/18/2003,6/18/2005
+413,sw-7521,0 Armistice Pass,Pasadena,CA,91199,Resident,2,6/16/2003,6/16/2005
+963,jl-2269,37 Randy Center,Boston,MA,2216,Resident,2,6/16/2003,6/16/2005
+877,yl-5553,024 Logan Avenue,Anaheim,CA,92812,Resident,1,6/13/2004,6/13/2005
+305,cc-3714,9 Hallows Plaza,Whittier,CA,90605,Resident,2,6/12/2003,6/12/2005
+630,yq-2259,8573 Forest Avenue,Whittier,CA,90605,Resident,3,6/10/2002,6/10/2005
+825,hw-7556,49445 Golf View Crossing,San Diego,CA,92160,Resident,1,6/10/2004,6/10/2005
+840,eh-7390,91 Reinke Hill,Bakersfield,CA,93399,Resident,2,6/9/2003,6/9/2005
+412,di-1838,6188 Blaine Terrace,Long Beach,CA,90840,Resident,1,6/5/2004,6/5/2005
+330,rq-1040,4 Scoville Parkway,San Luis Obispo,CA,93407,Resident,1,6/1/2004,6/1/2005
+178,ln-1576,5 Summit Crossing,San Jose,CA,95113,Resident,2,5/31/2003,5/31/2005
+480,ku-8318,1 Kingsford Alley,Atlanta,GA,30351,Resident,3,5/31/2002,5/31/2005
+662,jw-2806,308 Burrows Place,Long Beach,CA,90840,Resident,3,5/31/2002,5/31/2005
+127,ol-2652,6559 Arrowood Street,Pasadena,CA,91199,Resident,1,5/27/2004,5/27/2005
+605,fc-4578,818 Milwaukee Alley,Hayward,CA,94544,Resident,3,5/27/2002,5/27/2005
+625,qt-4432,4 Westend Place,Riverside,CA,92505,Resident,3,5/25/2002,5/25/2005
+683,ly-5215,6 Riverside Place,Albany,GA,31704,Resident,3,5/25/2002,5/25/2005
+111,wc-8478,89742 Eliot Hill,Cambridge,MA,2142,Resident,1,5/23/2004,5/23/2005
+565,dk-5668,55 Blaine Circle,New Bedford,MA,2745,Resident,3,5/23/2002,5/23/2005
+202,ho-8938,82 Utah Drive,Bakersfield,CA,93381,Resident,1,5/21/2004,5/21/2005
+327,wi-9232,805 Buena Vista Lane,Los Angeles,CA,90010,Resident,1,5/17/2004,5/17/2005
+143,jq-9847,2483 Corry Park,San Diego,CA,92191,Resident,3,5/15/2002,5/15/2005
+549,cy-1309,77 Talmadge Center,Glendale,CA,91210,Resident,2,5/14/2003,5/14/2005
+977,xu-7572,767 Monica Road,Oxnard,CA,93034,Resident,3,5/1/2002,5/1/2005
+58,il-4366,84 Fairfield Lane,Atlanta,GA,31136,Resident,2,4/28/2003,4/28/2005
+701,gt-3351,3 Bay Road,Garden Grove,CA,92645,Resident,1,4/19/2004,4/19/2005
+975,ck-8463,83 Annamark Terrace,Boston,MA,2124,Resident,3,4/18/2002,4/18/2005
+932,pz-3757,82 Bonner Lane,Garden Grove,CA,92645,Resident,3,4/16/2002,4/16/2005
+155,nh-2053,3874 Bultman Court,Los Angeles,CA,90094,Resident,2,4/13/2003,4/13/2005
+787,gq-0109,3 Hintze Drive,Bakersfield,CA,93305,Resident,2,4/7/2003,4/7/2005
+259,oc-4991,3 Melrose Crossing,Garden Grove,CA,92645,Resident,3,4/5/2002,4/5/2005
+372,kw-5015,60216 American Ash Park,Los Angeles,CA,90055,Resident,2,4/4/2003,4/4/2005
+158,od-5571,96 Linden Crossing,San Jose,CA,95108,Resident,3,4/1/2002,4/1/2005
+651,lc-6042,93858 Fairview Drive,Athens,GA,30605,Resident,1,4/1/2004,4/1/2005
+242,og-7985,44 Manitowish Parkway,Fresno,CA,93721,Resident,2,3/28/2003,3/28/2005
+409,of-3993,3 Golden Leaf Street,Sacramento,CA,95865,Resident,1,3/23/2004,3/23/2005
+832,io-9592,40957 Golf Course Crossing,San Diego,CA,92170,Resident,1,3/21/2004,3/21/2005
+545,yw-9702,54 Vermont Park,Los Angeles,CA,90081,Resident,2,3/19/2003,3/19/2005
+394,ly-7638,7 West Parkway,Pomona,CA,91797,Resident,2,3/16/2003,3/16/2005
+504,zr-0986,2 Mayfield Pass,Concord,CA,94522,Resident,2,3/8/2003,3/8/2005
+841,kd-9598,40 Reinke Plaza,Riverside,CA,92505,Resident,1,3/8/2004,3/8/2005
+567,zb-5469,2287 Hallows Terrace,Columbus,GA,31904,Resident,3,3/5/2002,3/5/2005
+423,iv-1241,9 Rusk Circle,Augusta,GA,30919,Resident,3,3/2/2002,3/2/2005
+341,ex-0871,9 Gulseth Point,San Bernardino,CA,92410,Resident,1,2/27/2004,2/27/2005
+473,fu-8441,9 8th Point,San Diego,CA,92137,Resident,3,2/27/2002,2/27/2005
+731,lb-1317,8854 Di Loreto Place,Macon,GA,31205,Resident,1,2/27/2004,2/27/2005
+27,fq-8258,0640 Jackson Alley,Sacramento,CA,94280,Resident,3,2/26/2002,2/26/2005
+990,ox-1199,941 Cherokee Center,Irvine,CA,92717,Resident,1,2/23/2004,2/23/2005
+716,tt-4247,5 Lighthouse Bay Parkway,Los Angeles,CA,90010,Resident,1,2/22/2004,2/22/2005
+772,hs-8176,397 Burning Wood Center,Macon,GA,31210,Resident,1,2/17/2004,2/17/2005
+647,qi-7208,5 Mallory Drive,Riverside,CA,92513,Resident,2,2/12/2003,2/12/2005
+510,po-3926,76029 Anthes Point,Oakland,CA,94622,Resident,2,2/9/2003,2/9/2005
+337,th-9690,421 Bay Junction,Boston,MA,2203,Resident,3,1/31/2002,1/31/2005
+571,dg-5550,9630 Pleasure Crossing,Santa Clara,CA,95054,Resident,1,1/29/2004,1/29/2005
+729,sc-2472,059 Hollow Ridge Terrace,San Jose,CA,95138,Resident,3,1/26/2002,1/26/2005
+16,eo-7599,713 Lindbergh Park,Anaheim,CA,92805,Resident,2,1/24/2003,1/24/2005
+109,ml-8100,02 Messerschmidt Park,San Jose,CA,95128,Resident,3,1/23/2002,1/23/2005
+369,gu-0586,2739 Iowa Circle,Sacramento,CA,95828,Resident,3,1/21/2002,1/21/2005
+718,sk-9949,8 Lakeland Park,Long Beach,CA,90810,Resident,3,1/21/2002,1/21/2005
+28,eq-4966,3630 Scoville Pass,Atlanta,GA,30356,Resident,2,1/20/2003,1/20/2005
+167,jj-7729,6 Old Shore Plaza,Palmdale,CA,93591,Resident,1,1/18/2004,1/18/2005
+594,nd-1978,342 Clyde Gallagher Trail,Stockton,CA,95210,Resident,2,1/16/2003,1/16/2005
+131,lu-3989,1489 Killdeer Hill,Riverside,CA,92519,Resident,1,1/14/2004,1/14/2005
+281,fx-4626,0 Mitchell Court,Visalia,CA,93291,Resident,3,1/14/2002,1/14/2005
+852,mn-4080,80025 West Center,Sacramento,CA,94230,Resident,2,1/14/2003,1/14/2005
+246,zs-9279,3726 Jackson Street,San Jose,CA,95133,Resident,1,1/8/2004,1/8/2005
+679,db-4169,67 Monterey Place,Irvine,CA,92619,Resident,1,1/8/2004,1/8/2005
+938,rk-5646,205 Elmside Avenue,Fresno,CA,93709,Resident,3,1/8/2002,1/8/2005
+717,ch-1399,87166 Division Plaza,Pasadena,CA,91109,Resident,3,1/3/2002,1/3/2005
+497,mm-7776,449 Lawn Point,San Francisco,CA,94110,Resident,3,1/1/2002,1/1/2005
+581,zi-9285,051 Blaine Point,Irvine,CA,92612,Resident,2,12/31/2002,12/31/2004
+768,vo-8808,09 Packers Street,Atlanta,GA,31119,Resident,2,12/31/2002,12/31/2004
+887,iw-0393,0 Rigney Plaza,Huntington Beach,CA,92648,Resident,1,12/29/2003,12/29/2004
+93,az-6511,37 Oakridge Hill,Sacramento,CA,94263,Resident,1,12/28/2003,12/28/2004
+741,hh-9244,71 Dunning Junction,Palo Alto,CA,94302,Resident,1,12/28/2003,12/28/2004
+606,uz-7217,4 Loomis Way,San Francisco,CA,94154,Resident,3,12/24/2001,12/24/2004
+883,dn-3239,298 Fremont Plaza,Bakersfield,CA,93399,Resident,2,12/16/2002,12/16/2004
+465,fh-7521,6578 Mallory Way,Springfield,MA,1114,Resident,3,12/14/2001,12/14/2004
+435,jg-4247,21790 Hallows Park,Irvine,CA,92612,Resident,3,12/8/2001,12/8/2004
+146,sk-5847,4 Vernon Terrace,Santa Barbara,CA,93106,Resident,2,12/3/2002,12/3/2004
+267,ga-2382,9138 Prentice Park,Sacramento,CA,94273,Resident,2,12/2/2002,12/2/2004
+918,lv-7399,4070 Oakridge Drive,Savannah,GA,31405,Resident,3,12/2/2001,12/2/2004
+481,yq-7847,8221 Lakeland Terrace,Boston,MA,2124,Resident,2,11/29/2002,11/29/2004
+646,xi-2285,3 Lukken Drive,Orange,CA,92862,Resident,1,11/22/2003,11/22/2004
+579,ea-7543,584 Northport Alley,Boston,MA,2124,Resident,2,11/21/2002,11/21/2004
+421,ro-5711,25 Lotheville Crossing,San Jose,CA,95138,Resident,1,11/17/2003,11/17/2004
+122,wc-2940,079 Forest Avenue,Augusta,GA,30911,Resident,3,11/15/2001,11/15/2004
+827,il-3877,517 Bluejay Drive,Los Angeles,CA,90055,Resident,2,11/15/2002,11/15/2004
+872,ek-6621,017 Golden Leaf Terrace,Los Angeles,CA,90189,Resident,3,11/15/2001,11/15/2004
+4,qs-3002,0 Kings Trail,Concord,CA,94522,Resident,3,11/14/2001,11/14/2004
+836,wu-6160,038 Green Ridge Parkway,Atlanta,GA,30356,Resident,3,11/13/2001,11/13/2004
+18,rl-4266,80 Ryan Hill,Irvine,CA,92710,Resident,2,11/11/2002,11/11/2004
+518,gv-5965,192 Drewry Drive,San Francisco,CA,94147,Resident,3,11/10/2001,11/10/2004
+642,oh-8984,03 Nova Pass,Augusta,GA,30905,Resident,3,11/6/2001,11/6/2004
+627,eo-0431,29 Buell Terrace,Torrance,CA,90505,Resident,1,11/1/2003,11/1/2004
+250,zl-9858,775 Myrtle Plaza,Santa Clara,CA,95054,Resident,3,10/26/2001,10/26/2004
+616,mj-7285,63263 Dennis Plaza,Carlsbad,CA,92013,Resident,2,10/16/2002,10/16/2004
+303,ws-6933,907 Lake View Alley,Boston,MA,2109,Resident,2,10/12/2002,10/12/2004
+926,pg-2777,87920 Lake View Crossing,Norcross,GA,30092,Resident,3,10/12/2001,10/12/2004
+118,ah-5469,25745 Hanson Way,Springfield,MA,1152,Resident,1,10/11/2003,10/11/2004
+734,ji-2662,17 Lakewood Gardens Street,San Bernardino,CA,92415,Resident,1,10/2/2003,10/2/2004
+381,gd-4897,3234 Washington Lane,San Francisco,CA,94142,Resident,1,10/1/2003,10/1/2004
+596,vw-2131,2325 Del Mar Hill,San Diego,CA,92160,Resident,1,10/1/2003,10/1/2004
+609,jp-5114,09795 Southridge Circle,Bakersfield,CA,93399,Resident,3,10/1/2001,10/1/2004
+576,ue-6009,0128 Autumn Leaf Terrace,San Diego,CA,92196,Resident,1,9/27/2003,9/27/2004
+847,ys-4334,7872 Lerdahl Road,San Diego,CA,92115,Resident,2,9/27/2002,9/27/2004
+653,gm-2581,8169 Northland Road,Stockton,CA,95205,Resident,2,9/25/2002,9/25/2004
+886,hu-3333,67861 Thompson Hill,Irvine,CA,92710,Resident,2,9/25/2002,9/25/2004
+535,qa-9804,9901 Russell Crossing,Mountain View,CA,94042,Resident,2,9/23/2002,9/23/2004
+223,lh-4849,53780 Shoshone Junction,Duluth,GA,30195,Resident,2,9/21/2002,9/21/2004
+450,ia-4226,23871 Northland Park,Richmond,CA,94807,Resident,2,9/20/2002,9/20/2004
+42,ri-6087,5 Prairieview Drive,Sacramento,CA,95894,Resident,2,9/17/2002,9/17/2004
+334,su-7463,96 Service Avenue,Atlanta,GA,31136,Resident,2,9/17/2002,9/17/2004
+784,zs-3356,9 Novick Crossing,Los Angeles,CA,90065,Resident,1,9/17/2003,9/17/2004
+208,ms-8364,7761 8th Pass,San Jose,CA,95133,Resident,2,9/16/2002,9/16/2004
+134,ma-5739,3 Tomscot Alley,Sacramento,CA,94245,Resident,1,9/13/2003,9/13/2004
+897,bm-6880,99 Waubesa Place,San Jose,CA,95118,Resident,2,9/12/2002,9/12/2004
+520,xz-2232,06302 Pawling Court,Pasadena,CA,91131,Resident,2,9/9/2002,9/9/2004
+891,lu-5532,38 Melby Way,Oakland,CA,94622,Resident,2,9/9/2002,9/9/2004
+159,mg-2231,9 Anthes Point,Fresno,CA,93715,Resident,2,9/7/2002,9/7/2004
+512,mh-9746,8861 Delladonna Drive,North Hollywood,CA,91606,Resident,3,9/5/2001,9/5/2004
+958,ba-8898,74 Mosinee Court,Los Angeles,CA,90060,Resident,2,9/5/2002,9/5/2004
+925,eh-0184,11040 Thackeray Way,Orange,CA,92668,Resident,3,9/4/2001,9/4/2004
+560,ic-9802,901 Donald Place,Sacramento,CA,95865,Resident,1,8/31/2003,8/31/2004
+899,qg-7309,9180 Carey Terrace,Bakersfield,CA,93381,Resident,3,8/27/2001,8/27/2004
+3,of-2586,127 Summerview Junction,San Francisco,CA,94116,Resident,1,8/26/2003,8/26/2004
+986,lz-8787,43806 Boyd Street,Pasadena,CA,91117,Resident,1,8/26/2003,8/26/2004
+585,vr-5997,32358 Blackbird Alley,Lawrenceville,GA,30245,Resident,2,8/25/2002,8/25/2004
+939,wi-4562,76971 Mosinee Junction,Los Angeles,CA,90050,Resident,1,8/25/2003,8/25/2004
+769,ku-9370,85 East Junction,San Jose,CA,95118,Resident,3,8/22/2001,8/22/2004
+344,kj-8320,59 Judy Plaza,Fresno,CA,93715,Resident,2,8/15/2002,8/15/2004
+468,ah-3106,5497 Westport Point,Albany,GA,31704,Resident,3,8/12/2001,8/12/2004
+191,at-3965,62536 Westport Hill,Glendale,CA,91205,Resident,2,8/11/2002,8/11/2004
+934,gf-3105,81280 Grover Road,Whittier,CA,90610,Resident,2,8/11/2002,8/11/2004
+198,zy-0320,02029 Granby Alley,Savannah,GA,31410,Resident,1,8/9/2003,8/9/2004
+709,rf-6847,516 Hansons Point,San Diego,CA,92121,Resident,3,8/8/2001,8/8/2004
+218,nq-9399,8941 Menomonie Circle,Atlanta,GA,30375,Resident,3,8/6/2001,8/6/2004
+352,uc-0667,67 Hovde Plaza,Valdosta,GA,31605,Resident,2,8/4/2002,8/4/2004
+623,kj-8450,0223 Killdeer Hill,Fullerton,CA,92640,Resident,1,8/4/2003,8/4/2004
+338,gl-8438,69375 Annamark Street,Burbank,CA,91520,Resident,3,8/3/2001,8/3/2004
+515,eu-5412,73034 Algoma Crossing,Sacramento,CA,94286,Resident,3,8/3/2001,8/3/2004
+185,gs-3194,8121 Harbort Center,Pasadena,CA,91125,Resident,1,8/2/2003,8/2/2004
+758,hc-5306,2906 Tomscot Center,Orange,CA,92867,Resident,3,7/30/2001,7/30/2004
+704,ka-9653,05 Rigney Drive,San Diego,CA,92110,Resident,2,7/27/2002,7/27/2004
+915,av-4573,7 Bonner Lane,Atlanta,GA,30386,Resident,1,7/26/2003,7/26/2004
+72,td-1643,2 Pawling Road,Boston,MA,2124,Resident,3,7/25/2001,7/25/2004
+265,wo-4593,4 Fairfield Trail,Bakersfield,CA,93381,Resident,3,7/25/2001,7/25/2004
+306,cf-9520,546 Mesta Lane,San Jose,CA,95128,Resident,2,7/24/2002,7/24/2004
+451,tj-8759,8 Tony Park,Atlanta,GA,30306,Resident,2,7/19/2002,7/19/2004
+263,rf-4806,25 Lukken Avenue,San Luis Obispo,CA,93407,Resident,2,7/15/2002,7/15/2004
+546,go-1707,605 Larry Plaza,Santa Barbara,CA,93150,Resident,3,7/12/2001,7/12/2004
+600,nh-3432,14 Victoria Street,Palmdale,CA,93591,Resident,3,7/12/2001,7/12/2004
+853,gb-5631,91260 Hayes Way,Long Beach,CA,90847,Resident,2,7/9/2002,7/9/2004
+880,jm-3753,5529 Ridgeview Park,Sacramento,CA,95813,Resident,1,7/9/2003,7/9/2004
+13,cn-4792,264 Hooker Junction,Savannah,GA,31422,Resident,2,7/3/2002,7/3/2004
+77,gt-5012,302 Mendota Court,Ventura,CA,93005,Resident,3,7/3/2001,7/3/2004
+681,rh-6047,985 Shopko Center,Oxnard,CA,93034,Resident,2,7/3/2002,7/3/2004
+448,kg-0561,32712 Kings Road,Sacramento,CA,94250,Resident,3,7/1/2001,7/1/2004
+996,lz-6829,8 Lake View Circle,Oakland,CA,94616,Resident,1,6/26/2003,6/26/2004
+70,zm-2950,1 Walton Avenue,Santa Barbara,CA,93150,Resident,1,6/23/2003,6/23/2004
+199,za-4930,029 Arkansas Crossing,Augusta,GA,30911,Resident,2,6/13/2002,6/13/2004
+489,bw-1859,93 Beilfuss Trail,Los Angeles,CA,90071,Resident,2,6/7/2002,6/7/2004
+699,vd-6395,0024 Express Court,Boston,MA,2104,Resident,1,6/4/2003,6/4/2004
+655,np-2422,94 Brickson Park Drive,Fresno,CA,93715,Resident,3,5/26/2001,5/26/2004
+737,sb-8514,42354 Forster Junction,San Francisco,CA,94177,Resident,3,5/26/2001,5/26/2004
+137,hc-5677,0015 Esker Avenue,Valdosta,GA,31605,Resident,1,5/25/2003,5/25/2004
+767,yo-3435,88 Boyd Trail,San Jose,CA,95173,Resident,1,5/22/2003,5/22/2004
+896,am-8013,9 Lakewood Street,Fresno,CA,93721,Resident,2,5/22/2002,5/22/2004
+366,xo-6001,6 Hoard Crossing,Fullerton,CA,92835,Resident,2,5/21/2002,5/21/2004
+277,jf-4883,39851 Center Terrace,Mountain View,CA,94042,Resident,1,5/19/2003,5/19/2004
+808,qq-6307,80550 Hallows Way,Lynn,MA,1905,Resident,2,5/19/2002,5/19/2004
+25,nx-8518,43 High Crossing Place,Modesto,CA,95354,Resident,3,5/18/2001,5/18/2004
+697,dw-1227,3079 Derek Plaza,Oakland,CA,94616,Resident,2,5/17/2002,5/17/2004
+257,nj-4022,6 Steensland Place,Anaheim,CA,92805,Resident,3,5/14/2001,5/14/2004
+711,fx-5223,8 Pankratz Way,North Hollywood,CA,91606,Resident,1,5/14/2003,5/14/2004
+71,gw-5169,02448 Kensington Way,Newton,MA,2458,Resident,1,5/13/2003,5/13/2004
+671,yq-5333,3 Elgar Way,San Jose,CA,95128,Resident,2,5/11/2002,5/11/2004
+994,jr-7394,8 Brown Place,Inglewood,CA,90310,Resident,1,5/11/2003,5/11/2004
+597,sm-2971,30024 Vera Court,San Diego,CA,92176,Resident,1,5/9/2003,5/9/2004
+309,zl-6347,78 Judy Hill,Pasadena,CA,91199,Resident,3,5/8/2001,5/8/2004
+446,dv-9514,931 Banding Street,San Mateo,CA,94405,Resident,3,5/4/2001,5/4/2004
+893,hx-8400,2388 Mallory Terrace,Bakersfield,CA,93305,Resident,3,5/3/2001,5/3/2004
+483,zv-2517,3 Arrowood Hill,Gainesville,GA,30506,Resident,2,5/1/2002,5/1/2004
+50,pq-6488,0553 Hallows Plaza,Petaluma,CA,94975,Resident,3,4/28/2001,4/28/2004
+791,id-3493,142 School Plaza,Corona,CA,92878,Resident,3,4/28/2001,4/28/2004
+485,yx-5717,5623 Fisk Drive,Sacramento,CA,94263,Resident,3,4/23/2001,4/23/2004
+49,jb-2000,3 Hermina Street,Macon,GA,31217,Resident,3,4/18/2001,4/18/2004
+786,pc-1873,88 Oak Valley Center,Boston,MA,2163,Resident,3,4/18/2001,4/18/2004
+624,wa-3259,90116 Eastwood Circle,Santa Monica,CA,90410,Resident,3,4/17/2001,4/17/2004
+389,hq-5325,7928 Monica Crossing,Fresno,CA,93773,Resident,2,4/16/2002,4/16/2004
+244,cd-1979,646 Esker Drive,Los Angeles,CA,90035,Resident,1,4/14/2003,4/14/2004
+507,vu-7957,1 Sommers Park,Los Angeles,CA,90025,Resident,2,4/10/2002,4/10/2004
+817,ox-4078,906 Hansons Center,San Jose,CA,95160,Resident,1,4/8/2003,4/8/2004
+821,qw-6032,273 Daystar Hill,San Francisco,CA,94154,Resident,2,4/8/2002,4/8/2004
+640,xn-2974,4855 Orin Terrace,San Diego,CA,92153,Resident,1,4/6/2003,4/6/2004
+743,ag-8398,8 Grover Plaza,Van Nuys,CA,91406,Resident,2,4/4/2002,4/4/2004
+526,ks-3227,0 Montana Hill,Atlanta,GA,31165,Resident,3,4/2/2001,4/2/2004
+68,vq-7070,7 Carioca Place,Macon,GA,31205,Resident,3,3/29/2001,3/29/2004
+247,xs-1784,1604 Susan Center,Riverside,CA,92505,Resident,3,3/29/2001,3/29/2004
+568,lx-4840,538 Cherokee Parkway,Atlanta,GA,30351,Resident,1,3/26/2003,3/26/2004
+828,vj-2316,11 Eastwood Center,Savannah,GA,31405,Resident,1,3/25/2003,3/25/2004
+882,ub-8478,5234 Mosinee Alley,Oceanside,CA,92056,Resident,1,3/25/2003,3/25/2004
+989,og-6641,5941 Cordelia Trail,Boston,MA,2163,Resident,3,3/25/2001,3/25/2004
+849,if-7642,0 Corry Street,San Francisco,CA,94105,Resident,1,3/23/2003,3/23/2004
+862,ur-1969,9 Comanche Way,Los Angeles,CA,90081,Resident,1,3/23/2003,3/23/2004
+152,dc-3529,23 Melby Pass,Sacramento,CA,95865,Resident,2,3/22/2002,3/22/2004
+815,dm-0417,580 Spohn Plaza,San Francisco,CA,94132,Resident,2,3/21/2002,3/21/2004
+593,hi-9713,10255 Linden Trail,Macon,GA,31296,Resident,3,3/19/2001,3/19/2004
+682,kb-4193,543 Stephen Drive,Torrance,CA,90510,Resident,1,3/7/2003,3/7/2004
+484,hi-9912,29 Brown Center,Sacramento,CA,94291,Resident,1,3/5/2003,3/5/2004
+387,ox-1167,385 Canary Street,Lawrenceville,GA,30045,Resident,1,3/2/2003,3/2/2004
+826,ap-2545,6053 Kenwood Road,Whittier,CA,90605,Resident,3,3/1/2001,3/1/2004
+30,xa-8387,1 Mockingbird Center,Fresno,CA,93709,Resident,3,2/22/2001,2/22/2004
+373,qe-7891,685 Loftsgordon Street,Sacramento,CA,94230,Resident,1,2/21/2003,2/21/2004
+108,jk-0145,41303 Main Hill,Santa Clara,CA,95054,Resident,1,2/18/2003,2/18/2004
+611,vb-5527,5181 Hazelcrest Court,Huntington Beach,CA,92648,Resident,1,2/18/2003,2/18/2004
+564,df-5078,632 Golden Leaf Hill,Brockton,MA,2305,Resident,3,2/16/2001,2/16/2004
+610,mg-7502,55 Vermont Park,Fullerton,CA,92640,Resident,2,2/16/2002,2/16/2004
+633,mi-7192,80409 Nobel Avenue,San Francisco,CA,94121,Resident,3,2/16/2001,2/16/2004
+946,qs-9105,93198 Truax Place,Cambridge,MA,2142,Resident,2,2/12/2002,2/12/2004
+1000,lp-9459,5559 Rowland Pass,Atlanta,GA,30386,Resident,2,2/6/2002,2/6/2004
+476,zq-2513,9 Burning Wood Hill,Irvine,CA,92619,Resident,1,2/5/2003,2/5/2004
+728,xe-8464,58694 Lakewood Plaza,Boston,MA,2104,Resident,3,2/5/2001,2/5/2004
+374,im-3153,23 Maryland Terrace,Boston,MA,2114,Resident,3,2/3/2001,2/3/2004
+951,un-2373,416 Roth Place,Long Beach,CA,90847,Resident,1,2/3/2003,2/3/2004
+911,oj-1084,9 Clyde Gallagher Place,Pasadena,CA,91109,Resident,3,2/1/2001,2/1/2004
+150,bk-6607,5 Packers Point,Columbus,GA,31914,Resident,3,1/28/2001,1/28/2004
+90,vn-9102,05017 Arrowood Plaza,Oakland,CA,94616,Resident,3,1/27/2001,1/27/2004
+434,jp-8057,9054 Pankratz Alley,Atlanta,GA,30343,Resident,2,1/21/2002,1/21/2004
+695,mg-0221,8449 Cascade Place,Los Angeles,CA,90065,Resident,2,1/21/2002,1/21/2004
+595,jk-4837,1 Kim Alley,Lawrenceville,GA,30245,Resident,1,1/18/2003,1/18/2004
+981,ia-2631,39626 Vidon Park,Inglewood,CA,90310,Resident,2,1/17/2002,1/17/2004
+955,oo-9941,6 Anderson Terrace,Atlanta,GA,30380,Resident,1,1/16/2003,1/16/2004
+425,sb-0582,7215 North Crossing,Pasadena,CA,91117,Resident,3,1/14/2001,1/14/2004
+634,al-6323,6 Pine View Crossing,Lancaster,CA,93584,Resident,2,1/14/2002,1/14/2004
+380,us-5172,58904 Marquette Avenue,Sacramento,CA,95894,Resident,1,1/11/2003,1/11/2004
+916,on-4222,8 Quincy Pass,San Bernardino,CA,92424,Resident,2,1/5/2002,1/5/2004
+5,ad-7888,11570 Eliot Drive,San Diego,CA,92145,Resident,1,1/4/2003,1/4/2004
+660,ic-3324,85540 Raven Parkway,Atlanta,GA,31190,Resident,3,1/3/2001,1/3/2004
+688,ev-3010,8 Dapin Court,Decatur,GA,30089,Resident,3,12/29/2000,12/29/2003
+554,vq-8050,53 Elka Hill,Orange,CA,92862,Resident,3,12/27/2000,12/27/2003
+342,wd-5487,42088 Clemons Way,Chico,CA,95973,Resident,3,12/25/2000,12/25/2003
+92,kq-3980,0 Scott Plaza,Savannah,GA,31422,Resident,2,12/24/2001,12/24/2003
+478,kt-4440,28723 Riverside Trail,Atlanta,GA,30316,Resident,2,12/24/2001,12/24/2003
+851,jb-3260,821 Bashford Place,San Mateo,CA,94405,Resident,1,12/24/2002,12/24/2003
+973,ba-3091,56377 Hoffman Point,Redwood City,CA,94064,Resident,1,12/15/2002,12/15/2003
+10,yh-0363,30869 Declaration Parkway,Augusta,GA,30911,Resident,1,12/11/2002,12/11/2003
+359,tb-4677,9 Vermont Parkway,San Diego,CA,92145,Resident,1,12/4/2002,12/4/2003
+956,wk-8987,98 Tomscot Center,Los Angeles,CA,90030,Resident,2,12/4/2001,12/4/2003
+884,sb-0452,835 Fieldstone Alley,San Jose,CA,95194,Resident,1,12/3/2002,12/3/2003
+917,hq-5517,8785 Bunting Crossing,San Francisco,CA,94121,Resident,3,12/2/2000,12/2/2003
+80,hq-2287,9244 Transport Trail,Modesto,CA,95397,Resident,2,11/30/2001,11/30/2003
+393,ez-5694,45287 Del Mar Crossing,Pasadena,CA,91186,Resident,3,11/30/2000,11/30/2003
+179,bz-3269,2 Debra Avenue,Sacramento,CA,95865,Resident,1,11/29/2002,11/29/2003
+685,aj-8984,35 Dayton Hill,Oakland,CA,94616,Resident,1,11/29/2002,11/29/2003
+706,jj-8403,23243 Del Sol Street,Sacramento,CA,94291,Resident,2,11/27/2001,11/27/2003
+457,zp-3429,672 Hallows Park,Marietta,GA,30061,Resident,3,11/25/2000,11/25/2003
+285,wq-0376,6057 Bultman Point,Inglewood,CA,90305,Resident,2,11/21/2001,11/21/2003
+332,ih-4267,24 Old Shore Drive,San Francisco,CA,94105,Resident,2,11/20/2001,11/20/2003
+649,jb-1003,664 Dixon Crossing,Los Angeles,CA,90081,Resident,1,11/18/2002,11/18/2003
+763,bc-4973,29 Rieder Road,Hayward,CA,94544,Resident,2,11/14/2001,11/14/2003
+357,im-1751,41 Harper Terrace,San Francisco,CA,94105,Resident,2,11/12/2001,11/12/2003
+403,ll-9821,4 Coolidge Street,Atlanta,GA,31132,Resident,3,11/11/2000,11/11/2003
+353,kf-4098,110 Reindahl Road,San Francisco,CA,94169,Resident,1,11/7/2002,11/7/2003
+755,uk-4796,37212 High Crossing Drive,Fullerton,CA,92640,Resident,2,11/7/2001,11/7/2003
+875,rl-8472,20204 Barby Street,San Diego,CA,92132,Resident,3,11/1/2000,11/1/2003
+207,in-1593,1 Sachs Court,Albany,GA,31704,Resident,2,10/31/2001,10/31/2003
+865,be-9452,722 Victoria Plaza,Atlanta,GA,30356,Resident,3,10/29/2000,10/29/2003
+686,wf-1307,45 American Ash Point,Atlanta,GA,31165,Resident,1,10/26/2002,10/26/2003
+995,dp-9874,659 Brown Center,Glendale,CA,91210,Resident,2,10/18/2001,10/18/2003
+345,pb-8614,44648 Westridge Crossing,Santa Barbara,CA,93150,Resident,1,10/15/2002,10/15/2003
+248,mq-9696,1168 Del Mar Crossing,Sacramento,CA,94250,Resident,2,10/10/2001,10/10/2003
+536,zk-6458,021 Debra Pass,Berkeley,CA,94712,Resident,2,10/9/2001,10/9/2003
+945,md-6308,229 Barnett Crossing,San Diego,CA,92153,Resident,1,10/8/2002,10/8/2003
+493,cf-8718,716 Brown Court,Boston,MA,2104,Resident,2,10/7/2001,10/7/2003
+479,sh-8348,6788 Bultman Court,Corona,CA,92883,Resident,2,10/6/2001,10/6/2003
+947,zo-6399,013 Loeprich Place,Stockton,CA,95298,Resident,2,10/5/2001,10/5/2003
+125,lz-3227,0997 Lillian Crossing,Anaheim,CA,92825,Resident,1,10/1/2002,10/1/2003
+803,dp-2718,816 Mariners Cove Drive,Sacramento,CA,94263,Resident,2,10/1/2001,10/1/2003
+402,ia-9661,93218 Garrison Park,San Jose,CA,95108,Resident,1,9/29/2002,9/29/2003
+416,ht-7392,9189 Sunnyside Alley,Los Angeles,CA,90050,Resident,1,9/29/2002,9/29/2003
+816,uh-9733,976 Northridge Crossing,Fresno,CA,93726,Resident,3,9/25/2000,9/25/2003
+154,ng-6191,809 Anzinger Junction,Torrance,CA,90505,Resident,1,9/24/2002,9/24/2003
+404,lg-2174,8379 Autumn Leaf Place,Fresno,CA,93715,Resident,1,9/24/2002,9/24/2003
+428,ui-0684,270 Cascade Plaza,Oceanside,CA,92056,Resident,3,9/22/2000,9/22/2003
+164,bg-9340,61 Petterle Alley,Atlanta,GA,31106,Resident,1,9/21/2002,9/21/2003
+762,bv-0365,4 Fallview Hill,San Francisco,CA,94154,Resident,2,9/21/2001,9/21/2003
+455,ey-0632,0 Dapin Crossing,San Jose,CA,95173,Resident,3,9/9/2000,9/9/2003
+720,bg-5449,878 Columbus Street,Los Angeles,CA,90060,Resident,1,9/9/2002,9/9/2003
+759,pd-1234,897 Bartelt Court,Hayward,CA,94544,Resident,3,9/5/2000,9/5/2003
+818,zz-7123,7248 Chive Crossing,Stockton,CA,95219,Resident,2,9/2/2001,9/2/2003
+692,tn-4187,304 Mallory Point,Berkeley,CA,94705,Resident,3,8/28/2000,8/28/2003
+145,zs-4650,3030 Sloan Place,Pasadena,CA,91125,Resident,1,8/27/2002,8/27/2003
+311,co-1230,604 Lunder Alley,Boston,MA,2208,Resident,3,8/22/2000,8/22/2003
+604,gx-5497,1875 Holmberg Terrace,Long Beach,CA,90831,Resident,3,8/18/2000,8/18/2003
+783,yu-9600,421 Crowley Trail,Boston,MA,2283,Resident,2,8/18/2001,8/18/2003
+136,kg-1569,33828 Bartillon Court,San Bernardino,CA,92424,Resident,1,8/17/2002,8/17/2003
+698,tj-6283,01 Sutherland Parkway,Gainesville,GA,30506,Resident,3,8/16/2000,8/16/2003
+175,nh-7418,6744 Larry Drive,Berkeley,CA,94712,Resident,3,8/15/2000,8/15/2003
+663,bo-7949,5 Kipling Point,Sunnyvale,CA,94089,Resident,1,8/15/2002,8/15/2003
+548,np-1661,78428 Kropf Trail,San Francisco,CA,94132,Resident,1,8/14/2002,8/14/2003
+24,rc-5418,76033 Warner Trail,San Diego,CA,92121,Resident,1,8/9/2002,8/9/2003
+997,ei-8946,4530 Division Point,Long Beach,CA,90840,Resident,3,8/9/2000,8/9/2003
+19,lu-3572,4669 Dovetail Road,Anaheim,CA,92812,Resident,3,8/7/2000,8/7/2003
+894,ve-2172,75 Arizona Parkway,Duluth,GA,30096,Resident,2,8/5/2001,8/5/2003
+463,ca-3772,788 Jenna Pass,Pasadena,CA,91199,Resident,1,8/3/2002,8/3/2003
+492,fl-1651,06258 Namekagon Crossing,Alhambra,CA,91841,Resident,3,7/30/2000,7/30/2003
+785,tg-7769,88 Tony Place,Oakland,CA,94605,Resident,1,7/28/2002,7/28/2003
+500,bp-1214,7 Westerfield Park,Stockton,CA,95298,Resident,1,7/25/2002,7/25/2003
+822,os-2845,77 West Crossing,Sacramento,CA,94286,Resident,2,7/25/2001,7/25/2003
+797,zc-1566,1 New Castle Park,San Diego,CA,92115,Resident,2,7/23/2001,7/23/2003
+474,id-0946,1 Ohio Pass,Northridge,CA,91328,Resident,3,7/22/2000,7/22/2003
+857,lr-8306,525 Waubesa Terrace,Macon,GA,31217,Resident,2,7/22/2001,7/22/2003
+765,iu-7898,0 Hanover Parkway,San Jose,CA,95150,Resident,3,7/21/2000,7/21/2003
+100,ff-9321,75714 Schurz Place,Macon,GA,31210,Resident,1,7/20/2002,7/20/2003
+491,gj-7230,9125 Vernon Pass,Berkeley,CA,94712,Resident,3,7/18/2000,7/18/2003
+119,qj-2804,617 School Terrace,San Francisco,CA,94121,Resident,3,7/17/2000,7/17/2003
+942,fu-8868,4789 Blaine Court,Burbank,CA,91505,Resident,2,7/16/2001,7/16/2003
+101,dw-4100,49496 Sheridan Park,Garden Grove,CA,92645,Resident,2,7/15/2001,7/15/2003
+256,sp-7340,3 Bunting Circle,San Francisco,CA,94137,Resident,1,7/15/2002,7/15/2003
+466,ky-6785,708 David Road,Sacramento,CA,94273,Resident,1,7/13/2002,7/13/2003
+187,rl-1621,7 Truax Trail,Macon,GA,31210,Resident,2,7/10/2001,7/10/2003
+181,nd-6105,7035 Waubesa Place,Corona,CA,92883,Resident,3,6/30/2000,6/30/2003
+837,bi-7091,63 Shelley Lane,Los Angeles,CA,90005,Resident,2,6/29/2001,6/29/2003
+234,gf-8510,39656 Aberg Road,San Mateo,CA,94405,Resident,3,6/28/2000,6/28/2003
+919,cz-8735,6 Sundown Pass,New Bedford,MA,2745,Resident,1,6/28/2002,6/28/2003
+557,nf-1885,00 Green Ridge Crossing,Atlanta,GA,30386,Resident,3,6/27/2000,6/27/2003
+282,ub-1147,9 Kingsford Trail,Athens,GA,30605,Resident,2,6/20/2001,6/20/2003
+32,cy-0598,20810 Harper Drive,Los Angeles,CA,90025,Resident,1,6/18/2002,6/18/2003
+749,eh-7396,71 Towne Hill,Alhambra,CA,91841,Resident,1,6/18/2002,6/18/2003
+64,et-4426,9535 Jana Park,Petaluma,CA,94975,Resident,3,6/14/2000,6/14/2003
+14,mf-2191,882 Mandrake Road,Fullerton,CA,92835,Resident,2,6/13/2001,6/13/2003
+566,gg-2899,2 Victoria Road,Alhambra,CA,91841,Resident,3,6/13/2000,6/13/2003
+445,oi-6049,8 Mifflin Park,Sacramento,CA,94230,Resident,3,6/7/2000,6/7/2003
+764,sg-5408,1930 Scoville Place,Columbus,GA,31998,Resident,2,6/5/2001,6/5/2003
+477,yn-3034,624 Manufacturers Drive,Los Angeles,CA,90189,Resident,3,6/3/2000,6/3/2003
+778,wv-9961,45 Vera Pass,Albany,GA,31704,Resident,1,6/3/2002,6/3/2003
+40,rz-7286,3 Gale Alley,Los Angeles,CA,90040,Resident,2,6/1/2001,6/1/2003
+577,lp-6052,82417 Lotheville Center,Lawrenceville,GA,30245,Resident,1,5/27/2002,5/27/2003
+621,up-3752,17 Spohn Way,Sacramento,CA,95813,Resident,3,5/25/2000,5/25/2003
+908,az-0992,6 Northview Street,Savannah,GA,31416,Resident,3,5/24/2000,5/24/2003
+66,rf-5192,80 Schiller Terrace,Atlanta,GA,31119,Resident,3,5/22/2000,5/22/2003
+745,bn-3685,073 Cambridge Drive,Lancaster,CA,93584,Resident,1,5/22/2002,5/22/2003
+364,wj-0086,4 Clemons Plaza,Sacramento,CA,95828,Resident,3,5/20/2000,5/20/2003
+753,ac-9278,2486 Hauk Circle,Atlanta,GA,30351,Resident,2,5/15/2001,5/15/2003
+855,qh-4868,73 Loeprich Road,Santa Barbara,CA,93111,Resident,3,5/13/2000,5/13/2003
+719,ux-7024,415 Oxford Alley,Lynn,MA,1905,Resident,1,5/12/2002,5/12/2003
+188,vx-0473,123 Huxley Road,Burbank,CA,91520,Resident,2,5/10/2001,5/10/2003
+368,ye-5436,4163 Montana Pass,Sacramento,CA,94207,Resident,1,5/7/2002,5/7/2003
+165,jg-4041,7171 Kennedy Circle,Brea,CA,92822,Resident,3,5/6/2000,5/6/2003
+966,xr-7151,9 Center Circle,Los Angeles,CA,90189,Resident,3,5/6/2000,5/6/2003
+798,zc-9747,50322 Pond Street,San Jose,CA,95113,Resident,2,5/5/2001,5/5/2003
+724,nl-4222,4 Havey Crossing,San Francisco,CA,94121,Resident,3,5/2/2000,5/2/2003
+574,kx-0982,62777 Knutson Drive,Springfield,MA,1152,Resident,1,5/1/2002,5/1/2003
+913,mm-0693,49 Messerschmidt Park,San Francisco,CA,94159,Resident,3,4/25/2000,4/25/2003
+920,kc-8672,037 Fordem Drive,Athens,GA,30605,Resident,1,4/22/2002,4/22/2003
+415,uw-3660,1285 Sunfield Junction,Salinas,CA,93907,Resident,2,4/15/2001,4/15/2003
+830,is-3509,78710 Lakewood Junction,Santa Barbara,CA,93106,Resident,2,4/13/2001,4/13/2003
+693,mf-5694,1 Loftsgordon Alley,Whittier,CA,90610,Resident,2,4/12/2001,4/12/2003
+34,ou-5649,13 Oriole Court,San Diego,CA,92132,Resident,2,4/8/2001,4/8/2003
+615,dy-8653,30 Clyde Gallagher Place,Escondido,CA,92030,Resident,1,3/31/2002,3/31/2003
+238,ii-2408,8957 International Parkway,Boston,MA,2119,Resident,1,3/29/2002,3/29/2003
+927,ka-2732,866 Northridge Trail,Los Angeles,CA,90071,Resident,2,3/29/2001,3/29/2003
+933,cm-6477,2357 Gerald Drive,Corona,CA,92883,Resident,3,3/23/2000,3/23/2003
+350,zk-4124,22 Carey Place,San Jose,CA,95194,Resident,2,3/22/2001,3/22/2003
+233,lj-2254,20 Atwood Pass,Lynn,MA,1905,Resident,1,3/20/2002,3/20/2003
+74,ei-4243,7 2nd Hill,Berkeley,CA,94712,Resident,2,3/19/2001,3/19/2003
+921,ms-7469,0 Killdeer Circle,Alhambra,CA,91841,Resident,1,3/19/2002,3/19/2003
+508,kh-5651,0 Golf Course Street,Waltham,MA,2453,Resident,1,3/18/2002,3/18/2003
+177,kq-5739,852 Londonderry Alley,Augusta,GA,30919,Resident,2,3/15/2001,3/15/2003
+561,lo-8887,74136 Johnson Park,Escondido,CA,92030,Resident,2,3/14/2001,3/14/2003
+148,it-1682,10 Lakewood Plaza,Glendale,CA,91205,Resident,1,3/7/2002,3/7/2003
+984,za-6757,303 Bluestem Terrace,Santa Barbara,CA,93111,Resident,3,3/7/2000,3/7/2003
+385,dp-5678,5 Bashford Trail,San Rafael,CA,94913,Resident,2,3/4/2001,3/4/2003
+751,os-7997,063 Barnett Park,Irvine,CA,92619,Resident,1,3/1/2002,3/1/2003
+86,wu-8915,8473 Anthes Pass,Long Beach,CA,90847,Resident,3,2/29/2000,2/28/2003
+340,px-0761,255 Pierstorff Road,San Rafael,CA,94913,Resident,3,2/28/2000,2/28/2003
+587,tf-8256,288 Maywood Plaza,Garden Grove,CA,92844,Resident,3,2/29/2000,2/28/2003
+890,ej-0601,3 Golf Avenue,Carlsbad,CA,92013,Resident,3,2/27/2000,2/27/2003
+843,fl-3281,19373 Ridgeview Park,Atlanta,GA,30301,Resident,3,2/25/2000,2/25/2003
+102,br-9418,19 Lien Crossing,Oakland,CA,94605,Resident,1,2/24/2002,2/24/2003
+51,hq-2586,6 Farragut Circle,Atlanta,GA,31132,Resident,2,2/23/2001,2/23/2003
+705,kv-4660,8222 Grayhawk Terrace,Los Angeles,CA,90010,Resident,1,2/22/2002,2/22/2003
+929,et-9918,63431 Algoma Street,Atlanta,GA,31132,Resident,3,2/22/2000,2/22/2003
+773,wa-5939,8102 Londonderry Alley,Los Angeles,CA,90076,Resident,1,2/20/2002,2/20/2003
+669,kc-1790,6 Grayhawk Court,Oceanside,CA,92056,Resident,2,2/19/2001,2/19/2003
+944,ko-8028,06 Acker Alley,Atlanta,GA,30380,Resident,3,2/16/2000,2/16/2003
+75,we-1484,006 Lerdahl Street,Santa Ana,CA,92705,Resident,1,2/8/2002,2/8/2003
+449,vm-8168,7 Menomonie Park,Garden Grove,CA,92844,Resident,1,2/8/2002,2/8/2003
+812,ct-2578,465 Delaware Junction,San Diego,CA,92186,Resident,3,2/4/2000,2/4/2003
+138,mp-2393,162 Thierer Street,Los Angeles,CA,90076,Resident,1,2/2/2002,2/2/2003
+53,ev-0549,27 Bluestem Place,Los Angeles,CA,90055,Resident,2,1/31/2001,1/31/2003
+861,ev-9193,07889 Straubel Lane,San Francisco,CA,94164,Resident,3,1/30/2000,1/30/2003
+684,sw-9542,82251 Basil Hill,Pasadena,CA,91103,Resident,3,1/27/2000,1/27/2003
+539,bj-7286,72978 Green Park,Long Beach,CA,90840,Resident,2,1/26/2001,1/26/2003
+570,nx-0081,62779 Southridge Road,San Francisco,CA,94137,Resident,2,1/26/2001,1/26/2003
+316,gf-7851,50502 Hoard Center,San Diego,CA,92153,Resident,2,1/22/2001,1/22/2003
+386,ty-5813,621 Caliangt Terrace,Pasadena,CA,91109,Resident,3,1/19/2000,1/19/2003
+362,vg-8623,42256 Straubel Way,Moreno Valley,CA,92555,Resident,3,1/12/2000,1/12/2003
+182,bh-2327,79455 Acker Avenue,Santa Ana,CA,92705,Resident,2,1/10/2001,1/10/2003
+632,ex-9834,4 Rusk Circle,San Diego,CA,92127,Resident,3,1/5/2000,1/5/2003
+397,fb-2893,92 Hudson Way,San Diego,CA,92110,Resident,1,1/3/2002,1/3/2003
+245,ft-8549,800 Truax Parkway,San Francisco,CA,94142,Resident,1,1/2/2002,1/2/2003
+431,wh-7501,2247 Kenwood Crossing,Waltham,MA,2453,Resident,3,1/2/2000,1/2/2003
+733,ze-9414,3686 Monument Lane,San Francisco,CA,94147,Resident,1,12/26/2001,12/26/2002
+999,gc-5695,3405 David Avenue,Fresno,CA,93721,Resident,1,12/23/2001,12/23/2002
+659,ri-8885,0670 Rockefeller Road,San Diego,CA,92153,Resident,2,12/20/2000,12/20/2002
+212,cm-6464,626 Debs Parkway,Boston,MA,2298,Resident,1,12/17/2001,12/17/2002
+844,wm-1685,080 Graedel Park,Pasadena,CA,91199,Resident,1,12/17/2001,12/17/2002
+980,dd-4680,96 Novick Hill,Decatur,GA,30033,Resident,2,12/16/2000,12/16/2002
+668,qp-9334,50 Forest Place,Irvine,CA,92717,Resident,1,12/14/2001,12/14/2002
+396,wj-2331,98 Veith Plaza,Macon,GA,31205,Resident,2,12/12/2000,12/12/2002
+732,ql-5972,3 Cordelia Alley,Boston,MA,2163,Resident,2,12/12/2000,12/12/2002
+322,at-4454,5601 Kenwood Drive,San Diego,CA,92191,Resident,2,12/11/2000,12/11/2002
+800,vg-9772,65 Buena Vista Circle,Los Angeles,CA,90065,Resident,2,12/4/2000,12/4/2002
+878,eu-9373,0121 Hanson Point,Chico,CA,95973,Resident,2,11/23/2000,11/23/2002
+895,zg-1284,750 Union Lane,Worcester,MA,1654,Resident,1,11/23/2001,11/23/2002
+516,lk-7916,24916 Chinook Circle,Fresno,CA,93721,Resident,1,11/15/2001,11/15/2002
+912,sp-8542,1 Londonderry Terrace,San Francisco,CA,94137,Resident,2,11/9/2000,11/9/2002
+555,ni-1672,69109 Jenna Pass,San Diego,CA,92196,Resident,2,11/6/2000,11/6/2002
+440,lq-1838,05 Meadow Ridge Plaza,Sacramento,CA,95894,Resident,2,11/5/2000,11/5/2002
+347,rj-9958,7949 Ilene Parkway,Atlanta,GA,31196,Resident,2,11/4/2000,11/4/2002
+467,uv-2736,4 Sunbrook Street,Atlanta,GA,30323,Resident,1,11/3/2001,11/3/2002
+454,ez-9744,5 Hayes Road,Oakland,CA,94622,Resident,2,10/31/2000,10/31/2002
+471,os-4640,99 David Drive,Los Angeles,CA,90060,Resident,1,10/30/2001,10/30/2002
+802,ro-6022,6 Ilene Road,Stockton,CA,95210,Resident,2,10/28/2000,10/28/2002
+1,wk-8444,278 Magdeline Way,Newton,MA,2458,Resident,1,10/25/2001,10/25/2002
+395,ix-5081,24953 Killdeer Terrace,Sacramento,CA,94230,Resident,2,10/23/2000,10/23/2002
+142,ex-1501,197 Fremont Crossing,Newport Beach,CA,92662,Resident,2,10/14/2000,10/14/2002
+502,rr-3573,8059 Brown Plaza,Whittier,CA,90610,Resident,1,10/12/2001,10/12/2002
+965,ue-7002,645 Monica Avenue,Atlanta,GA,30356,Resident,2,9/29/2000,9/29/2002
+302,zi-5337,03888 Rowland Street,Oakland,CA,94611,Resident,1,9/26/2001,9/26/2002
+318,ol-0442,292 Troy Plaza,Oakland,CA,94622,Resident,1,9/26/2001,9/26/2002
+41,dc-3016,8290 Cambridge Street,Sacramento,CA,94291,Resident,2,9/23/2000,9/23/2002
+209,nw-3884,8 Nobel Place,Torrance,CA,90505,Resident,2,9/18/2000,9/18/2002
+602,zp-4051,92059 Garrison Trail,Atlanta,GA,30358,Resident,1,9/13/2001,9/13/2002
+205,df-4631,2 Pennsylvania Point,Pasadena,CA,91131,Resident,2,9/11/2000,9/11/2002
+378,sj-5272,4638 Messerschmidt Center,Valdosta,GA,31605,Resident,2,9/10/2000,9/10/2002
+253,xa-5869,85954 Forest Dale Junction,Torrance,CA,90505,Resident,1,9/7/2001,9/7/2002
+7,kq-1482,5010 Delladonna Hill,San Francisco,CA,94147,Resident,1,9/2/2001,9/2/2002
+189,fv-7546,39 1st Road,Long Beach,CA,90805,Resident,1,9/2/2001,9/2/2002
+527,om-2178,97192 Granby Avenue,San Bernardino,CA,92424,Resident,1,9/2/2001,9/2/2002
+860,ay-0094,83937 Hudson Avenue,Corona,CA,92878,Resident,1,9/1/2001,9/1/2002
+22,eq-1344,522 Kensington Junction,Decatur,GA,30089,Resident,1,8/29/2001,8/29/2002
+407,vg-8519,56785 Mosinee Pass,Waltham,MA,2453,Resident,2,8/27/2000,8/27/2002
+456,ed-6087,794 Sommers Street,Atlanta,GA,31106,Resident,2,8/21/2000,8/21/2002
+607,gz-0813,80 Sheridan Trail,Waltham,MA,2453,Resident,1,8/20/2001,8/20/2002
+452,ln-3161,9 Drewry Road,Bakersfield,CA,93381,Resident,1,8/17/2001,8/17/2002
+161,kz-8779,21 Magdeline Road,Gainesville,GA,30506,Resident,2,8/6/2000,8/6/2002
+62,nx-6829,6906 Monica Park,Atlanta,GA,30380,Resident,1,8/1/2001,8/1/2002
+869,mg-9115,8 New Castle Circle,Stockton,CA,95210,Resident,1,7/31/2001,7/31/2002
+957,qv-9548,1832 Meadow Vale Drive,San Francisco,CA,94137,Resident,2,7/27/2000,7/27/2002
+355,yu-8832,5 Atwood Parkway,Santa Barbara,CA,93150,Resident,1,7/25/2001,7/25/2002
+845,mz-7393,15512 Pond Avenue,Newton,MA,2458,Resident,1,7/23/2001,7/23/2002
+885,wd-5853,35 Mandrake Crossing,Los Angeles,CA,90065,Resident,2,7/23/2000,7/23/2002
+533,dq-1001,201 Evergreen Alley,San Francisco,CA,94142,Resident,1,7/22/2001,7/22/2002
+525,fp-5169,3845 Roxbury Plaza,San Luis Obispo,CA,93407,Resident,2,7/21/2000,7/21/2002
+608,sm-8465,52 Mayer Lane,Sacramento,CA,95823,Resident,1,7/16/2001,7/16/2002
+280,kp-9896,1590 Sauthoff Plaza,Fullerton,CA,92640,Resident,2,7/2/2000,7/2/2002
+243,is-2924,447 Eggendart Street,Visalia,CA,93291,Resident,1,7/1/2001,7/1/2002
+12,kk-8001,92 Logan Way,Columbus,GA,31904,Resident,1,6/23/2001,6/23/2002
+983,kt-7781,3 Red Cloud Lane,Los Angeles,CA,90101,Resident,2,6/22/2000,6/22/2002
+442,pc-0287,38 Bartelt Lane,Anaheim,CA,92812,Resident,1,6/18/2001,6/18/2002
+110,al-6903,2 Chive Court,Los Angeles,CA,90045,Resident,1,6/17/2001,6/17/2002
+952,th-3924,255 Bobwhite Alley,Oxnard,CA,93034,Resident,1,6/13/2001,6/13/2002
+748,ub-4624,53 Vahlen Park,Long Beach,CA,90810,Resident,1,6/12/2001,6/12/2002
+543,dj-1945,606 Dixon Lane,Sacramento,CA,94291,Resident,2,6/8/2000,6/8/2002
+736,ce-9885,4753 Packers Crossing,Savannah,GA,31422,Resident,2,5/29/2000,5/29/2002
+643,sl-4139,347 Nelson Place,Stockton,CA,95298,Resident,1,5/26/2001,5/26/2002
+270,op-2727,4 Declaration Alley,Sacramento,CA,95813,Resident,1,5/25/2001,5/25/2002
+321,sc-2219,892 Sherman Way,Macon,GA,31296,Resident,1,5/25/2001,5/25/2002
+578,zf-3886,2369 Summerview Pass,San Diego,CA,92186,Resident,1,5/13/2001,5/13/2002
+379,am-6370,033 Colorado Plaza,Anaheim,CA,92812,Resident,2,5/12/2000,5/12/2002
+672,hf-5570,5475 Wayridge Park,Los Angeles,CA,90071,Resident,1,5/12/2001,5/12/2002
+73,di-1826,5013 Michigan Way,Springfield,MA,1152,Resident,2,5/11/2000,5/11/2002
+789,nf-7101,09 Elka Place,Sacramento,CA,94245,Resident,1,5/10/2001,5/10/2002
+300,aw-1759,81722 Pepper Wood Trail,Cumming,GA,30130,Resident,2,5/3/2000,5/3/2002
+824,ff-6197,83669 Debra Road,San Diego,CA,92105,Resident,1,4/23/2001,4/23/2002
+230,zj-0081,37 Farragut Hill,San Diego,CA,92165,Resident,2,4/18/2000,4/18/2002
+976,ca-3946,11 Talmadge Place,Lynn,MA,1905,Resident,2,4/13/2000,4/13/2002
+948,ds-8757,4863 Loeprich Junction,Los Angeles,CA,90101,Resident,1,4/10/2001,4/10/2002
+761,jo-1236,75 Grover Parkway,Corona,CA,92883,Resident,2,4/9/2000,4/9/2002
+343,ie-9503,389 Loeprich Point,Duluth,GA,30096,Resident,1,4/5/2001,4/5/2002
+680,wl-9060,16 Eastwood Lane,Atlanta,GA,30340,Resident,2,4/3/2000,4/3/2002
+534,zj-8567,56 Toban Court,Fresno,CA,93773,Resident,2,3/27/2000,3/27/2002
+904,na-4512,97 Mariners Cove Pass,Ventura,CA,93005,Resident,1,3/17/2001,3/17/2002
+867,ld-8025,182 Hudson Crossing,Concord,CA,94522,Resident,1,3/16/2001,3/16/2002
+251,ug-3170,43825 Anhalt Junction,Northridge,CA,91328,Resident,2,3/13/2000,3/13/2002
+308,tv-7444,5 Prentice Point,Whittier,CA,90610,Resident,1,3/5/2001,3/5/2002
+740,yr-6668,1574 Crest Line Parkway,Glendale,CA,91210,Resident,1,2/27/2001,2/27/2002
+924,ng-4615,57 Toban Center,Los Angeles,CA,90094,Resident,2,2/22/2000,2/22/2002
+613,ca-2660,6 Bunting Way,San Jose,CA,95128,Resident,2,2/18/2000,2/18/2002
+794,wx-0590,10153 Monument Court,Northridge,CA,91328,Resident,2,2/15/2000,2/15/2002
+553,dj-3512,0962 Mitchell Center,Athens,GA,30605,Resident,1,2/11/2001,2/11/2002
+126,lc-2218,33919 Kinsman Parkway,San Francisco,CA,94121,Resident,1,2/7/2001,2/7/2002
+276,hv-7862,6208 Helena Pass,Pasadena,CA,91103,Resident,2,2/2/2000,2/2/2002
+370,ol-0670,0 Lukken Circle,Oakland,CA,94611,Resident,2,1/31/2000,1/31/2002
+293,zs-1465,59569 Di Loreto Place,Pasadena,CA,91125,Resident,1,1/27/2001,1/27/2002
+687,fs-9903,10065 Stoughton Lane,Whittier,CA,90610,Resident,1,1/23/2001,1/23/2002
+814,qq-9614,04 Sherman Park,Visalia,CA,93291,Resident,2,1/21/2000,1/21/2002
+224,pi-3097,8038 Walton Terrace,Lawrenceville,GA,30045,Resident,2,1/20/2000,1/20/2002
+95,yw-3204,53 Helena Lane,Brea,CA,92822,Resident,2,1/17/2000,1/17/2002
+582,ie-4097,4231 Knutson Crossing,Savannah,GA,31405,Resident,2,1/12/2000,1/12/2002
+383,nv-7082,271 Burning Wood Point,Los Angeles,CA,90040,Resident,1,1/10/2001,1/10/2002
+289,dh-3121,1 Kingsford Terrace,Santa Barbara,CA,93150,Resident,1,1/2/2001,1/2/2002
+290,dt-9745,7 Ryan Center,Fresno,CA,93750,Resident,1,12/27/2000,12/27/2001
+31,ib-2090,8 Old Gate Street,Garden Grove,CA,92645,Resident,1,12/17/2000,12/17/2001
+807,vk-7243,479 Independence Center,Palo Alto,CA,94302,Resident,1,12/15/2000,12/15/2001
+907,yw-0937,7233 Park Meadow Pass,Pasadena,CA,91109,Resident,1,12/9/2000,12/9/2001
+906,fe-7148,74 Leroy Circle,Bakersfield,CA,93399,Resident,1,12/1/2000,12/1/2001
+294,ph-5963,1 Dapin Hill,Lynn,MA,1905,Resident,1,11/29/2000,11/29/2001
+194,ql-8253,3 Bluestem Terrace,San Francisco,CA,94116,Resident,1,11/7/2000,11/7/2001
+39,xt-2199,3190 Anniversary Point,Brockton,MA,2405,Resident,1,11/3/2000,11/3/2001
+295,qf-1053,3 Norway Maple Road,Valdosta,GA,31605,Resident,1,11/3/2000,11/3/2001
+458,ss-4094,2777 Carey Parkway,Long Beach,CA,90840,Resident,1,10/29/2000,10/29/2001
+879,ny-6611,812 Manley Alley,Riverside,CA,92519,Resident,1,10/6/2000,10/6/2001
+284,wf-3738,2549 Aberg Road,Lancaster,CA,93584,Resident,1,9/17/2000,9/17/2001
+133,qp-2361,3 Ruskin Junction,Boston,MA,2283,Resident,1,9/4/2000,9/4/2001
+346,bs-7509,1 Bluejay Plaza,Boston,MA,2109,Resident,1,8/31/2000,8/31/2001
+961,gd-3474,62799 Bultman Court,Santa Ana,CA,92705,Resident,1,8/31/2000,8/31/2001
+991,py-5910,3433 Dovetail Court,Whittier,CA,90610,Resident,1,8/20/2000,8/20/2001
+260,va-5371,46021 Eliot Trail,Fresno,CA,93750,Resident,1,8/10/2000,8/10/2001
+376,mj-0659,22260 Gina Trail,Gainesville,GA,30506,Resident,1,8/10/2000,8/10/2001
+514,qq-6384,7523 Del Mar Center,Atlanta,GA,30386,Resident,1,8/10/2000,8/10/2001
+603,vc-7783,06897 Esch Center,Pomona,CA,91797,Resident,1,7/27/2000,7/27/2001
+78,yo-7989,9045 Morning Place,Garden Grove,CA,92645,Resident,1,7/19/2000,7/19/2001
+744,uk-1982,83 Mariners Cove Alley,San Rafael,CA,94913,Resident,1,7/19/2000,7/19/2001
+730,vn-1170,9 Chinook Plaza,Los Angeles,CA,90101,Resident,1,7/17/2000,7/17/2001
+398,km-5323,8 Declaration Road,Fresno,CA,93750,Resident,1,7/2/2000,7/2/2001
+839,gb-1485,5836 Dayton Avenue,Atlanta,GA,30336,Resident,1,6/22/2000,6/22/2001
+846,dn-1468,5 North Junction,San Diego,CA,92132,Resident,1,6/22/2000,6/22/2001
+47,jn-2444,373 Grover Center,Orange,CA,92668,Resident,1,6/19/2000,6/19/2001
+69,ov-9689,0339 Armistice Alley,Berkeley,CA,94712,Resident,1,6/19/2000,6/19/2001
+367,xb-4755,137 Calypso Parkway,South Lake Tahoe,CA,96154,Resident,1,6/15/2000,6/15/2001
+94,gk-2594,75289 Bay Circle,Riverside,CA,92519,Resident,1,6/10/2000,6/10/2001
+902,qp-7601,123 Meadow Vale Plaza,Van Nuys,CA,91499,Resident,1,6/9/2000,6/9/2001
+83,fk-4187,58989 Dottie Crossing,Newton,MA,2162,Resident,1,5/15/2000,5/15/2001
+432,ti-7878,9874 Lunder Way,Long Beach,CA,90805,Resident,1,5/9/2000,5/9/2001
+523,gb-5915,8 Grim Street,Irvine,CA,92612,Resident,1,4/16/2000,4/16/2001
+43,cd-9837,38 Barnett Street,Atlanta,GA,31190,Resident,1,4/11/2000,4/11/2001
+85,mz-1022,6042 Talisman Park,Los Angeles,CA,90045,Resident,1,4/11/2000,4/11/2001
+658,ie-1058,1 Gulseth Crossing,Albany,GA,31704,Resident,1,4/3/2000,4/3/2001
+487,cm-0243,5682 Blaine Road,Savannah,GA,31416,Resident,1,3/26/2000,3/26/2001
+36,cu-1304,647 Tomscot Pass,Long Beach,CA,90810,Resident,1,3/22/2000,3/22/2001
+652,wf-2720,9 Brentwood Pass,Pasadena,CA,91125,Resident,1,3/11/2000,3/11/2001
+874,ov-0355,18193 Springs Court,Brockton,MA,2405,Resident,1,3/4/2000,3/4/2001
+195,lr-3670,6290 Texas Road,San Jose,CA,95155,Resident,1,3/3/2000,3/3/2001
+903,su-1540,98 Dayton Pass,Santa Barbara,CA,93150,Resident,1,2/15/2000,2/15/2001
+638,up-7290,0 Brickson Park Alley,Mountain View,CA,94042,Resident,1,2/9/2000,2/9/2001
+586,wo-4078,76 Bluejay Circle,San Francisco,CA,94159,Resident,1,2/8/2000,2/8/2001
+589,ov-2280,35776 Union Crossing,Los Angeles,CA,90094,Resident,1,1/30/2000,1/30/2001
+978,fc-3309,41 Tennessee Pass,Atlanta,GA,30306,Resident,1,1/29/2000,1/29/2001
+297,xl-0030,4 Golf Place,Pasadena,CA,91117,Resident,1,1/23/2000,1/23/2001
+612,nb-8171,936 Troy Crossing,Boston,MA,2203,Resident,1,1/4/2000,1/4/2001
+868,mf-8000,42967 Merry Point,San Luis Obispo,CA,93407,Resident,1,1/4/2000,1/4/2001

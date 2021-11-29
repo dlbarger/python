@@ -1,0 +1,1001 @@
+customer_key,unit_id,address,city,state_code,zip_code,type,lease_terms,move_in_date,move_out_date
+1,bm-3719,123 Buell Drive,Los Angeles,CA,90045,Resident,1,10/17/2017,10/17/2018
+2,ar-4891,6 Tennyson Park,San Diego,CA,92127,Resident,3,7/24/2011,7/24/2014
+3,xm-4443,00590 Hagan Trail,San Jose,CA,95155,Resident,2,4/25/2020,4/25/2022
+4,ay-6355,43145 Claremont Alley,San Diego,CA,92191,Resident,1,11/2/2010,11/2/2011
+5,cf-2505,7491 Sloan Crossing,Los Angeles,CA,90015,Resident,3,10/7/2019,10/7/2022
+6,sr-7430,3 Scoville Alley,Moreno Valley,CA,92555,Resident,2,3/1/2016,3/1/2018
+7,um-7913,40205 Meadow Vale Terrace,Berkeley,CA,94705,Resident,2,10/6/2011,10/6/2013
+8,uk-5445,6333 Continental Point,Fresno,CA,93721,Resident,2,7/18/2019,7/18/2021
+9,ca-9184,3 Declaration Drive,Oakland,CA,94605,Resident,2,2/10/2017,2/10/2019
+10,qt-5087,46751 Manley Center,Sacramento,CA,94280,Resident,3,3/30/2013,3/30/2016
+11,oq-0954,35499 Lien Drive,Columbus,GA,31904,Resident,1,6/13/2014,6/13/2015
+12,fe-9436,80523 Eastwood Crossing,Valdosta,GA,31605,Resident,1,11/9/2012,11/9/2013
+13,ka-2688,442 Karstens Parkway,Sacramento,CA,94291,Resident,2,6/27/2015,6/27/2017
+14,dc-4875,79037 Myrtle Parkway,Sacramento,CA,95838,Resident,3,9/17/2016,9/17/2019
+15,xq-0943,669 4th Way,San Diego,CA,92170,Resident,1,7/28/2011,7/28/2012
+16,ko-0923,199 4th Drive,Inglewood,CA,90310,Resident,3,9/9/2020,9/9/2023
+17,ng-8315,46739 Farragut Crossing,Chico,CA,95973,Resident,2,9/23/2018,9/23/2020
+18,zj-5004,2388 Cascade Circle,Atlanta,GA,30328,Resident,2,11/6/2014,11/6/2016
+19,cm-9580,9876 Bultman Court,Sacramento,CA,94257,Resident,3,9/6/2020,9/6/2023
+20,aj-6782,5 Walton Lane,Boston,MA,2109,Resident,1,7/8/2019,7/8/2020
+21,me-3715,6767 Center Street,Sacramento,CA,95894,Resident,1,7/9/2019,7/9/2020
+22,jd-8317,925 Oxford Center,Oxnard,CA,93034,Resident,1,3/5/2013,3/5/2014
+23,go-7139,29303 Loeprich Park,San Diego,CA,92160,Resident,1,6/20/2018,6/20/2019
+24,uo-7519,83 Del Sol Parkway,San Francisco,CA,94169,Resident,2,10/31/2015,10/31/2017
+25,lv-3336,423 Florence Circle,Atlanta,GA,30380,Resident,2,3/25/2013,3/25/2015
+26,ra-2098,970 Lotheville Court,Sacramento,CA,94245,Resident,1,10/1/2012,10/1/2013
+27,yf-2890,5 Rigney Circle,Macon,GA,31296,Resident,2,1/15/2016,1/15/2018
+28,ue-4261,9956 Dwight Plaza,Duluth,GA,30195,Resident,1,5/31/2021,5/31/2022
+29,qp-2676,018 International Center,San Diego,CA,92132,Resident,3,8/20/2016,8/20/2019
+30,bb-5607,206 Lindbergh Park,Pasadena,CA,91117,Resident,3,6/20/2012,6/20/2015
+31,xg-5521,024 Vahlen Road,San Jose,CA,95133,Resident,1,12/25/2016,12/25/2017
+32,lm-5176,1659 Ramsey Center,Pasadena,CA,91109,Resident,2,3/31/2017,3/31/2019
+33,qu-5435,4684 Kennedy Parkway,Stockton,CA,95298,Resident,1,9/21/2011,9/21/2012
+34,ur-9647,7481 Fremont Street,San Rafael,CA,94913,Resident,2,2/13/2016,2/13/2018
+35,ia-4579,801 Hoffman Trail,San Jose,CA,95108,Resident,1,11/12/2019,11/12/2020
+36,yr-2522,24 Hoffman Plaza,Torrance,CA,90510,Resident,3,3/13/2018,3/13/2021
+37,sf-8355,3 Blackbird Place,Santa Cruz,CA,95064,Resident,1,2/23/2016,2/23/2017
+38,ea-9154,4129 Erie Pass,Savannah,GA,31405,Resident,1,10/1/2017,10/1/2018
+39,xm-2377,78964 Warrior Trail,Garden Grove,CA,92645,Resident,3,2/11/2018,2/11/2021
+40,io-5152,4 Rowland Parkway,Marietta,GA,30066,Resident,1,12/11/2020,12/11/2021
+41,tb-6980,85 Red Cloud Park,Fresno,CA,93778,Resident,2,1/22/2015,1/22/2017
+42,db-0011,88 American Ash Street,San Diego,CA,92145,Resident,3,1/9/2012,1/9/2015
+43,uw-3136,1581 Starling Point,Burbank,CA,91520,Resident,2,5/20/2018,5/20/2020
+44,ug-1472,72 Eliot Avenue,Oakland,CA,94627,Resident,3,10/9/2012,10/9/2015
+45,ac-6437,2675 Sachtjen Junction,Long Beach,CA,90831,Resident,1,8/1/2016,8/1/2017
+46,ou-9540,4134 Sheridan Lane,Cambridge,MA,2142,Resident,2,7/24/2018,7/24/2020
+47,pw-6459,9810 Daystar Way,Savannah,GA,31405,Resident,3,10/7/2011,10/7/2014
+48,zf-4104,4 Donald Way,Springfield,MA,1152,Resident,1,8/25/2010,8/25/2011
+49,pj-1435,41 Laurel Alley,Santa Monica,CA,90410,Resident,1,9/21/2020,9/21/2021
+50,oh-7810,23132 Maple Wood Plaza,Cambridge,MA,2142,Resident,1,10/12/2017,10/12/2018
+51,fd-8735,93089 Ryan Way,Lancaster,CA,93584,Resident,3,8/31/2015,8/31/2018
+52,ma-8689,91242 Sloan Alley,Columbus,GA,31914,Resident,1,1/25/2011,1/25/2012
+53,pd-9995,0648 Mayer Way,Santa Rosa,CA,95405,Resident,1,11/26/2015,11/26/2016
+54,jx-1970,4330 Roxbury Crossing,Los Angeles,CA,90035,Resident,1,11/27/2016,11/27/2017
+55,yd-7308,76611 Rockefeller Center,San Francisco,CA,94142,Resident,3,6/23/2021,6/23/2024
+56,lb-3679,39 Kropf Way,Atlanta,GA,31165,Resident,2,3/18/2020,3/18/2022
+57,fo-2299,04 Colorado Plaza,Los Angeles,CA,90189,Resident,1,5/26/2019,5/26/2020
+58,en-5183,1771 Mosinee Street,San Francisco,CA,94132,Resident,1,1/15/2014,1/15/2015
+59,nx-8830,39 Spaight Road,Fresno,CA,93778,Resident,1,9/30/2020,9/30/2021
+60,oo-0201,7638 Birchwood Circle,Boston,MA,2298,Resident,3,10/22/2016,10/22/2019
+61,jn-9746,04856 Veith Pass,Albany,GA,31704,Resident,3,1/13/2017,1/13/2020
+62,ze-3505,87 Grover Avenue,Irvine,CA,92612,Resident,2,10/19/2015,10/19/2017
+63,oc-6536,33 Anhalt Parkway,San Francisco,CA,94142,Resident,1,4/19/2013,4/19/2014
+64,xf-4374,23 Pawling Lane,Pasadena,CA,91109,Resident,1,4/25/2011,4/25/2012
+65,xk-7791,170 Kedzie Terrace,Atlanta,GA,30316,Resident,1,11/10/2010,11/10/2011
+66,hi-9090,8845 Memorial Plaza,Simi Valley,CA,93094,Resident,3,4/28/2011,4/28/2014
+67,ya-6361,593 6th Hill,Long Beach,CA,90840,Resident,2,2/14/2020,2/14/2022
+68,aq-7855,594 Express Circle,San Francisco,CA,94177,Resident,2,5/18/2018,5/18/2020
+69,nq-2822,35 Scott Pass,Atlanta,GA,31132,Resident,2,5/2/2017,5/2/2019
+70,gp-3579,10220 Atwood Avenue,Los Angeles,CA,90060,Resident,3,1/10/2011,1/10/2014
+71,to-1986,8 Bowman Terrace,Los Angeles,CA,90087,Resident,2,11/3/2015,11/3/2017
+72,tf-2848,45971 Fulton Avenue,Pasadena,CA,91117,Resident,3,12/17/2010,12/17/2013
+73,dt-4003,05 Marquette Circle,San Diego,CA,92132,Resident,1,7/1/2019,7/1/2020
+74,ju-7234,82 Chive Drive,Glendale,CA,91205,Resident,1,7/25/2019,7/25/2020
+75,kh-6650,33 Browning Way,Gainesville,GA,30506,Resident,1,10/19/2020,10/19/2021
+76,lm-3274,363 Corben Court,San Jose,CA,95113,Resident,2,7/3/2015,7/3/2017
+77,vl-0349,797 Crest Line Parkway,Whittier,CA,90610,Resident,1,8/7/2011,8/7/2012
+78,et-5351,6 Heffernan Crossing,Torrance,CA,90505,Resident,2,8/7/2014,8/7/2016
+79,xz-6724,2442 Truax Court,Atlanta,GA,30380,Resident,2,8/1/2019,8/1/2021
+80,uq-4343,355 Scofield Avenue,San Jose,CA,95160,Resident,2,8/8/2012,8/8/2014
+81,ep-0976,393 Ridge Oak Crossing,San Francisco,CA,94132,Resident,1,8/21/2010,8/21/2011
+82,lt-1605,48060 Carpenter Pass,San Jose,CA,95138,Resident,2,4/29/2020,4/29/2022
+83,ms-3037,5244 Bartelt Alley,Sacramento,CA,94257,Resident,1,4/26/2017,4/26/2018
+84,kb-7221,7916 Springs Plaza,Atlanta,GA,30368,Resident,3,7/21/2015,7/21/2018
+85,od-9458,97 Nevada Hill,Atlanta,GA,31132,Resident,2,1/27/2020,1/27/2022
+86,io-4550,2228 Oak Hill,Moreno Valley,CA,92555,Resident,3,1/4/2016,1/4/2019
+87,ti-6802,540 Autumn Leaf Alley,San Bernardino,CA,92424,Resident,3,1/4/2010,1/4/2013
+88,yh-2542,571 Miller Trail,Fresno,CA,93778,Resident,3,11/23/2015,11/23/2018
+89,gb-1723,9992 Service Trail,Fresno,CA,93794,Resident,1,3/7/2010,3/7/2011
+90,ip-0611,1 Katie Terrace,Sacramento,CA,94230,Resident,1,1/18/2015,1/18/2016
+91,nf-7908,2 Hintze Plaza,Salinas,CA,93907,Resident,1,10/27/2011,10/27/2012
+92,fx-5563,8 Kipling Place,Atlanta,GA,31106,Resident,2,3/3/2020,3/3/2022
+93,qa-6446,51061 Sunnyside Street,Atlanta,GA,30392,Resident,3,6/13/2016,6/13/2019
+94,eo-6154,066 Dwight Avenue,Sacramento,CA,94273,Resident,1,6/3/2016,6/3/2017
+95,qv-9077,43 Loftsgordon Pass,Los Angeles,CA,90050,Resident,3,4/27/2016,4/27/2019
+96,mw-1092,473 Menomonie Way,Boston,MA,2208,Resident,1,1/17/2019,1/17/2020
+97,vi-4355,7269 Eliot Lane,San Francisco,CA,94159,Resident,2,4/14/2016,4/14/2018
+98,rw-9577,87 Mayfield Pass,San Francisco,CA,94126,Resident,3,10/14/2016,10/14/2019
+99,oe-4674,9 Burrows Pass,Macon,GA,31210,Resident,3,8/22/2010,8/22/2013
+100,fm-5922,5700 Delaware Hill,Glendale,CA,91205,Resident,2,3/22/2010,3/22/2012
+101,mf-0639,96 Dahle Street,Boston,MA,2283,Resident,2,2/1/2019,2/1/2021
+102,gn-3444,4 Little Fleur Court,Los Angeles,CA,90030,Resident,1,9/7/2017,9/7/2018
+103,xv-0747,6524 Emmet Terrace,Springfield,MA,1114,Resident,2,4/2/2012,4/2/2014
+104,ye-5783,407 7th Street,Decatur,GA,30033,Resident,1,3/16/2015,3/16/2016
+105,ob-7845,4892 Leroy Hill,Fresno,CA,93709,Resident,3,12/20/2014,12/20/2017
+106,yz-8142,4585 Dennis Junction,Atlanta,GA,30343,Resident,3,1/17/2015,1/17/2018
+107,pa-6095,86 Thackeray Alley,San Rafael,CA,94913,Resident,2,3/18/2021,3/18/2023
+108,wy-3660,12928 Surrey Way,San Rafael,CA,94913,Resident,3,4/2/2015,4/2/2018
+109,uj-3870,28887 Morrow Center,Atlanta,GA,30358,Resident,3,2/18/2013,2/18/2016
+110,rp-7115,745 Eliot Avenue,Augusta,GA,30919,Resident,3,7/17/2018,7/17/2021
+111,az-2504,82183 Summerview Place,Fresno,CA,93704,Resident,2,9/26/2015,9/26/2017
+112,al-4564,7405 Del Mar Place,Sacramento,CA,94291,Resident,1,10/24/2011,10/24/2012
+113,yu-4122,57253 Pearson Pass,Atlanta,GA,31136,Resident,2,1/15/2012,1/15/2014
+114,by-5484,6260 Ruskin Lane,Visalia,CA,93291,Resident,2,3/22/2020,3/22/2022
+115,fx-0786,639 Melby Terrace,Sunnyvale,CA,94089,Resident,2,5/29/2014,5/29/2016
+116,ne-1623,21481 Havey Lane,Los Angeles,CA,90015,Resident,1,3/16/2017,3/16/2018
+117,ro-9395,41 Cherokee Parkway,Garden Grove,CA,92645,Resident,2,3/5/2021,3/5/2023
+118,mm-7436,4 Waywood Hill,Atlanta,GA,31132,Resident,3,9/3/2016,9/3/2019
+119,xl-0165,5647 Hermina Plaza,Woburn,MA,1813,Resident,2,10/7/2016,10/7/2018
+120,kx-7234,2 Arapahoe Parkway,San Diego,CA,92127,Resident,1,6/8/2021,6/8/2022
+121,mm-7973,6242 Thompson Point,Modesto,CA,95397,Resident,2,10/7/2016,10/7/2018
+122,tb-1245,06307 Hoard Road,Fresno,CA,93762,Resident,2,5/2/2021,5/2/2023
+123,be-4824,7496 Little Fleur Crossing,Sacramento,CA,94297,Resident,2,12/12/2014,12/12/2016
+124,yf-8374,460 Sycamore Road,Boston,MA,2104,Resident,1,8/5/2013,8/5/2014
+125,io-5247,2 Warrior Junction,San Francisco,CA,94116,Resident,3,1/7/2015,1/7/2018
+126,qc-3077,88184 West Circle,Burbank,CA,91505,Resident,2,6/2/2020,6/2/2022
+127,zu-3426,76728 Judy Alley,Boston,MA,2203,Resident,2,4/18/2017,4/18/2019
+128,er-3218,7485 Bartelt Circle,Sacramento,CA,94237,Resident,1,7/20/2013,7/20/2014
+129,qt-9033,5 Tony Court,Santa Ana,CA,92725,Resident,1,3/2/2012,3/2/2013
+130,jr-0902,63 Bluestem Plaza,Sacramento,CA,94273,Resident,1,9/13/2016,9/13/2017
+131,lc-3464,0 Lyons Way,Atlanta,GA,31196,Resident,3,6/13/2020,6/13/2023
+132,wz-7305,81375 2nd Pass,Atlanta,GA,30380,Resident,3,3/2/2012,3/2/2015
+133,lx-8653,77373 Carioca Avenue,Springfield,MA,1129,Resident,2,10/29/2013,10/29/2015
+134,wn-7462,8007 Hoffman Junction,Oakland,CA,94627,Resident,3,5/16/2021,5/16/2024
+135,fo-8135,9577 Loftsgordon Park,Los Angeles,CA,90050,Resident,2,1/11/2011,1/11/2013
+136,ee-2725,0802 Havey Way,Augusta,GA,30919,Resident,3,9/1/2013,9/1/2016
+137,kc-1183,124 Miller Trail,Lawrenceville,GA,30045,Resident,1,5/1/2014,5/1/2015
+138,oj-1029,95504 Delladonna Alley,San Francisco,CA,94121,Resident,3,12/9/2017,12/9/2020
+139,mp-8521,78189 Straubel Terrace,San Francisco,CA,94132,Resident,1,1/14/2019,1/14/2020
+140,gs-7452,115 Katie Avenue,Sacramento,CA,95828,Resident,3,10/16/2019,10/16/2022
+141,pb-4368,8642 Bluestem Center,Santa Cruz,CA,95064,Resident,3,6/1/2021,6/1/2024
+142,rf-1434,052 Clarendon Road,San Francisco,CA,94154,Resident,2,4/21/2018,4/21/2020
+143,fj-9993,99496 Montana Trail,Corona,CA,92883,Resident,2,4/13/2019,4/13/2021
+144,qx-5158,59260 Sundown Point,San Francisco,CA,94159,Resident,1,12/29/2013,12/29/2014
+145,yv-3420,849 Manitowish Plaza,North Hollywood,CA,91606,Resident,1,3/12/2016,3/12/2017
+146,ep-1759,44 Lukken Avenue,Riverside,CA,92513,Resident,3,1/20/2014,1/20/2017
+147,ru-4589,7193 Morning Avenue,Santa Ana,CA,92705,Resident,1,7/12/2012,7/12/2013
+148,ys-0177,8218 Bultman Drive,Fresno,CA,93773,Resident,3,11/4/2013,11/4/2016
+149,qv-3604,62 Green Parkway,Santa Barbara,CA,93150,Resident,2,1/25/2012,1/25/2014
+150,ys-6900,84081 Sauthoff Street,Boston,MA,2283,Resident,3,6/17/2012,6/17/2015
+151,lw-0001,2047 Dottie Plaza,North Hollywood,CA,91606,Resident,2,4/27/2017,4/27/2019
+152,tg-6537,41 Springs Court,San Jose,CA,95118,Resident,2,11/6/2011,11/6/2013
+153,dd-7023,2 6th Hill,San Francisco,CA,94137,Resident,3,10/11/2013,10/11/2016
+154,ii-1010,2 Carpenter Park,Inglewood,CA,90305,Resident,2,4/27/2015,4/27/2017
+155,ba-3774,06 Reinke Hill,San Diego,CA,92110,Resident,3,2/26/2010,2/26/2013
+156,yo-3266,01 Harbort Lane,Worcester,MA,1610,Resident,1,10/7/2015,10/7/2016
+157,pb-3814,82904 1st Junction,Brockton,MA,2305,Resident,1,6/28/2021,6/28/2022
+158,ms-6161,898 Chinook Park,Irvine,CA,92619,Resident,1,12/12/2015,12/12/2016
+159,av-4104,7 Upham Junction,Riverside,CA,92519,Resident,2,1/25/2013,1/25/2015
+160,je-1641,7 Center Plaza,Boston,MA,2216,Resident,2,6/20/2012,6/20/2014
+161,xg-1693,909 Evergreen Court,Augusta,GA,30911,Resident,3,8/2/2013,8/2/2016
+162,th-0644,6900 Anderson Alley,Alhambra,CA,91841,Resident,3,12/6/2019,12/6/2022
+163,ve-3750,03759 4th Terrace,San Diego,CA,92105,Resident,3,1/30/2012,1/30/2015
+164,xi-7958,85243 3rd Road,Santa Rosa,CA,95405,Resident,1,2/5/2013,2/5/2014
+165,vq-1306,2 Maryland Park,San Jose,CA,95123,Resident,2,2/29/2012,2/28/2014
+166,ye-8997,704 8th Road,Berkeley,CA,94705,Resident,1,12/5/2020,12/5/2021
+167,rc-9525,69 Ohio Crossing,San Jose,CA,95108,Resident,1,7/3/2012,7/3/2013
+168,qc-3998,1 Rigney Drive,San Diego,CA,92145,Resident,1,10/28/2016,10/28/2017
+169,rx-7666,3 Porter Park,Bakersfield,CA,93399,Resident,1,8/19/2011,8/19/2012
+170,qx-5530,7 Sunnyside Court,Los Angeles,CA,90101,Resident,2,8/7/2015,8/7/2017
+171,hr-0190,03880 Thompson Circle,Oakland,CA,94611,Resident,3,10/5/2011,10/5/2014
+172,ao-9033,7 Harbort Street,San Jose,CA,95194,Resident,1,1/4/2017,1/4/2018
+173,dj-7065,5472 Miller Alley,Atlanta,GA,30356,Resident,2,6/18/2018,6/18/2020
+174,pm-9033,9 Thompson Point,Atlanta,GA,31136,Resident,3,7/19/2010,7/19/2013
+175,nk-0732,57978 Dayton Point,San Bernardino,CA,92410,Resident,3,11/27/2011,11/27/2014
+176,xf-1587,029 Towne Way,Inglewood,CA,90398,Resident,2,3/6/2011,3/6/2013
+177,ic-3523,05533 Bonner Street,Fullerton,CA,92640,Resident,1,1/10/2015,1/10/2016
+178,tn-6921,0 Dennis Junction,Sacramento,CA,94273,Resident,2,8/15/2016,8/15/2018
+179,vk-7100,00 North Crossing,Sacramento,CA,94230,Resident,3,12/27/2013,12/27/2016
+180,zl-9613,78 West Court,Huntington Beach,CA,92648,Resident,3,4/14/2020,4/14/2023
+181,zd-1376,5 Johnson Plaza,Pomona,CA,91797,Resident,3,8/25/2016,8/25/2019
+182,hr-9847,8 Mandrake Place,Atlanta,GA,30368,Resident,2,7/14/2011,7/14/2013
+183,cx-8808,81035 Algoma Parkway,San Jose,CA,95133,Resident,2,8/15/2017,8/15/2019
+184,dc-1468,71 Nelson Plaza,Sacramento,CA,95838,Resident,3,2/4/2011,2/4/2014
+185,fl-0001,501 Chinook Point,Cambridge,MA,2142,Resident,1,5/24/2020,5/24/2021
+186,ms-9956,9 Mockingbird Center,San Jose,CA,95138,Resident,1,12/5/2017,12/5/2018
+187,bj-5385,0 Logan Crossing,Fresno,CA,93715,Resident,2,6/21/2016,6/21/2018
+188,uv-1608,06449 Waywood Lane,Pasadena,CA,91117,Resident,3,8/3/2015,8/3/2018
+189,kz-2605,16505 Reindahl Hill,Los Angeles,CA,90076,Resident,1,12/6/2017,12/6/2018
+190,fx-1409,6 Aberg Way,Redwood City,CA,94064,Resident,1,6/28/2012,6/28/2013
+191,hr-1292,5 Warrior Junction,Boston,MA,2283,Resident,3,5/16/2015,5/16/2018
+192,er-0949,09221 Pond Crossing,San Francisco,CA,94137,Resident,2,5/15/2016,5/15/2018
+193,yc-2229,04214 Namekagon Point,Bakersfield,CA,93381,Resident,2,2/6/2021,2/6/2023
+194,cx-0794,0422 Granby Court,Newton,MA,2162,Resident,2,5/8/2011,5/8/2013
+195,dz-1326,41 South Junction,Sacramento,CA,95828,Resident,1,3/3/2020,3/3/2021
+196,yr-7321,13572 Russell Junction,Augusta,GA,30905,Resident,3,4/5/2019,4/5/2022
+197,ih-5772,32 Onsgard Trail,Los Angeles,CA,90015,Resident,1,3/17/2012,3/17/2013
+198,sq-9085,71770 Jackson Plaza,Hayward,CA,94544,Resident,1,12/20/2017,12/20/2018
+199,zt-8972,5363 Stone Corner Place,Richmond,CA,94807,Resident,1,12/9/2011,12/9/2012
+200,zp-0655,26394 Bunting Hill,Bakersfield,CA,93305,Resident,2,1/11/2020,1/11/2022
+201,fc-6608,57669 Stoughton Drive,Los Angeles,CA,90065,Resident,2,6/5/2013,6/5/2015
+202,hb-1377,9923 Holy Cross Park,San Diego,CA,92105,Resident,1,9/22/2020,9/22/2021
+203,co-1228,8432 Service Street,Los Angeles,CA,90071,Resident,2,8/31/2019,8/31/2021
+204,lr-9188,6 2nd Street,San Bernardino,CA,92415,Resident,3,6/26/2013,6/26/2016
+205,aq-3181,46 Claremont Street,Palmdale,CA,93591,Resident,1,7/11/2010,7/11/2011
+206,kr-5219,34320 8th Plaza,Garden Grove,CA,92645,Resident,1,7/16/2016,7/16/2017
+207,nh-8873,555 Esker Circle,Inglewood,CA,90305,Resident,3,4/10/2016,4/10/2019
+208,cv-1680,269 Raven Pass,San Diego,CA,92127,Resident,1,5/21/2014,5/21/2015
+209,ke-7846,09 Vidon Pass,Atlanta,GA,30351,Resident,3,12/14/2015,12/14/2018
+210,oy-6440,23 Hollow Ridge Circle,Marietta,GA,30061,Resident,2,2/28/2019,2/28/2021
+211,bd-1301,1 Division Junction,Sacramento,CA,95894,Resident,1,12/25/2017,12/25/2018
+212,vn-3225,20847 Garrison Terrace,Brockton,MA,2305,Resident,2,11/8/2011,11/8/2013
+213,oy-4624,146 Union Circle,Springfield,MA,1129,Resident,1,8/14/2013,8/14/2014
+214,uo-7398,2 Welch Court,Sacramento,CA,95813,Resident,3,12/27/2017,12/27/2020
+215,zy-3468,428 Hauk Way,Boston,MA,2283,Resident,3,9/14/2013,9/14/2016
+216,wo-3842,3 Jackson Alley,Atlanta,GA,30358,Resident,3,11/16/2013,11/16/2016
+217,sf-1081,8 Red Cloud Trail,Augusta,GA,30905,Resident,3,7/7/2013,7/7/2016
+218,wt-4081,38134 Grayhawk Parkway,San Francisco,CA,94159,Resident,1,12/17/2020,12/17/2021
+219,ed-7803,4 Daystar Pass,Duluth,GA,30096,Resident,1,11/30/2020,11/30/2021
+220,qs-1414,18 Anzinger Parkway,San Diego,CA,92176,Resident,1,7/2/2011,7/2/2012
+221,la-6408,42 Becker Park,Atlanta,GA,30336,Resident,1,8/6/2013,8/6/2014
+222,db-1273,5935 Kenwood Point,Pasadena,CA,91131,Resident,1,1/31/2015,1/31/2016
+223,yt-1213,738 Lakeland Plaza,Springfield,MA,1114,Resident,1,9/28/2013,9/28/2014
+224,wr-1668,371 Clarendon Point,Cambridge,MA,2142,Resident,3,8/1/2018,8/1/2021
+225,os-1248,9 Mandrake Crossing,Los Angeles,CA,90081,Resident,1,6/12/2011,6/12/2012
+226,zs-8694,54202 Algoma Street,San Francisco,CA,94110,Resident,1,7/29/2018,7/29/2019
+227,gl-9602,675 Gateway Point,Atlanta,GA,30328,Resident,2,8/1/2017,8/1/2019
+228,cl-2413,501 Pennsylvania Crossing,Atlanta,GA,30316,Resident,2,11/29/2010,11/29/2012
+229,xl-4463,0 Bowman Way,Chico,CA,95973,Resident,1,7/5/2016,7/5/2017
+230,or-1520,78127 Bay Alley,Sunnyvale,CA,94089,Resident,2,5/6/2018,5/6/2020
+231,vx-4426,54 Colorado Circle,Atlanta,GA,30358,Resident,2,10/18/2017,10/18/2019
+232,my-7025,098 Shasta Court,Atlanta,GA,30380,Resident,2,7/28/2015,7/28/2017
+233,ud-4455,99 Garrison Pass,Atlanta,GA,30392,Resident,1,10/27/2011,10/27/2012
+234,kd-9064,499 Surrey Lane,Sacramento,CA,94257,Resident,1,9/13/2019,9/13/2020
+235,ow-3589,550 Blaine Park,Boston,MA,2203,Resident,1,7/15/2012,7/15/2013
+236,fx-7103,3 Lyons Hill,Brea,CA,92822,Resident,1,6/20/2016,6/20/2017
+237,ph-1284,5647 Farmco Park,San Jose,CA,95128,Resident,1,2/27/2011,2/27/2012
+238,od-2963,31 Eastlawn Way,Hayward,CA,94544,Resident,2,1/11/2014,1/11/2016
+239,pc-2770,467 School Court,Glendale,CA,91210,Resident,1,5/10/2013,5/10/2014
+240,xx-4226,55256 Pearson Lane,San Jose,CA,95118,Resident,1,7/5/2016,7/5/2017
+241,bz-6813,980 Rowland Circle,Macon,GA,31210,Resident,1,7/24/2010,7/24/2011
+242,km-8524,513 Prairieview Trail,San Rafael,CA,94913,Resident,3,1/17/2018,1/17/2021
+243,qg-0951,2353 Paget Plaza,Torrance,CA,90510,Resident,3,6/19/2019,6/19/2022
+244,eh-3854,96 Judy Street,Torrance,CA,90510,Resident,3,12/4/2013,12/4/2016
+245,iz-5728,31531 Sutteridge Drive,San Diego,CA,92115,Resident,2,10/20/2014,10/20/2016
+246,gu-0590,0 Cherokee Pass,Moreno Valley,CA,92555,Resident,3,11/27/2012,11/27/2015
+247,my-9838,9 Pierstorff Place,Waltham,MA,2453,Resident,2,1/1/2014,1/1/2016
+248,ic-8171,626 Cherokee Crossing,Decatur,GA,30033,Resident,3,9/12/2014,9/12/2017
+249,jl-6718,6 Maryland Crossing,Irvine,CA,92710,Resident,1,1/11/2010,1/11/2011
+250,yv-2407,16 Northfield Plaza,Irvine,CA,92619,Resident,1,10/6/2010,10/6/2011
+251,te-6187,2632 American Ash Park,Sacramento,CA,95865,Resident,2,6/29/2010,6/29/2012
+252,hl-1665,6 Golf Course Plaza,Los Angeles,CA,90025,Resident,3,9/11/2015,9/11/2018
+253,ip-8368,91272 Coolidge Park,San Bernardino,CA,92405,Resident,1,12/29/2013,12/29/2014
+254,ih-0773,581 Gulseth Park,Oakland,CA,94627,Resident,1,12/1/2012,12/1/2013
+255,up-7167,8219 Delaware Court,San Diego,CA,92105,Resident,2,10/18/2019,10/18/2021
+256,my-7266,2 Surrey Lane,Sacramento,CA,95833,Resident,3,4/23/2015,4/23/2018
+257,ta-1952,06 Summit Lane,Decatur,GA,30089,Resident,1,1/11/2019,1/11/2020
+258,ty-7198,320 Lillian Street,Irvine,CA,92717,Resident,2,12/26/2013,12/26/2015
+259,ml-4467,921 Jay Park,Pasadena,CA,91109,Resident,3,8/6/2012,8/6/2015
+260,fd-4264,579 La Follette Alley,Sacramento,CA,95823,Resident,3,3/28/2018,3/28/2021
+261,kn-6411,8 North Center,San Bernardino,CA,92424,Resident,1,1/8/2010,1/8/2011
+262,iy-3909,629 Sommers Avenue,Stockton,CA,95219,Resident,3,3/8/2014,3/8/2017
+263,zq-5017,9535 Texas Court,San Jose,CA,95128,Resident,1,3/8/2015,3/8/2016
+264,yl-7472,811 Montana Trail,Savannah,GA,31405,Resident,2,4/11/2020,4/11/2022
+265,zg-5560,82 Caliangt Park,Irvine,CA,92612,Resident,2,2/8/2011,2/8/2013
+266,er-8503,06725 Armistice Point,Brea,CA,92822,Resident,2,4/16/2010,4/16/2012
+267,ao-3988,7 Iowa Center,Atlanta,GA,30358,Resident,2,12/23/2016,12/23/2018
+268,ij-0176,7476 Shopko Court,Augusta,GA,30919,Resident,2,1/9/2014,1/9/2016
+269,ju-8966,7533 Lyons Hill,Los Angeles,CA,90055,Resident,3,5/15/2017,5/15/2020
+270,xe-4571,53 Lunder Hill,Boston,MA,2208,Resident,2,6/7/2015,6/7/2017
+271,rj-4758,9 La Follette Point,Concord,CA,94522,Resident,1,8/1/2014,8/1/2015
+272,zk-2175,4349 Old Gate Terrace,Columbus,GA,31904,Resident,3,8/21/2017,8/21/2020
+273,op-0355,5 Fair Oaks Court,Salinas,CA,93907,Resident,3,9/13/2013,9/13/2016
+274,ae-2823,7 Waxwing Drive,Los Angeles,CA,90015,Resident,1,4/26/2019,4/26/2020
+275,vp-0417,0820 Duke Plaza,San Francisco,CA,94132,Resident,2,11/2/2015,11/2/2017
+276,gi-5580,00 Parkside Center,Los Angeles,CA,90035,Resident,2,5/16/2017,5/16/2019
+277,sh-1996,921 Waubesa Park,San Francisco,CA,94126,Resident,1,6/8/2015,6/8/2016
+278,zr-0928,2 Northridge Court,Sacramento,CA,95828,Resident,2,3/19/2010,3/19/2012
+279,mv-4394,39547 Declaration Terrace,San Francisco,CA,94132,Resident,2,3/26/2015,3/26/2017
+280,ve-4498,8978 Summerview Street,Burbank,CA,91505,Resident,1,3/8/2013,3/8/2014
+281,ep-5926,53523 Pennsylvania Hill,Fresno,CA,93794,Resident,3,3/14/2017,3/14/2020
+282,qp-2436,827 Manitowish Point,Escondido,CA,92030,Resident,2,4/14/2010,4/14/2012
+283,jf-1864,20152 Bayside Terrace,Burbank,CA,91520,Resident,2,10/29/2019,10/29/2021
+284,pf-5094,0 Northfield Court,Sacramento,CA,94286,Resident,1,10/21/2012,10/21/2013
+285,qw-3819,89 Park Meadow Park,Pasadena,CA,91117,Resident,2,5/1/2012,5/1/2014
+286,de-6854,217 Anzinger Terrace,Bakersfield,CA,93311,Resident,2,5/19/2020,5/19/2022
+287,ku-5584,86 Laurel Terrace,Los Angeles,CA,90071,Resident,2,9/26/2012,9/26/2014
+288,tz-4991,45587 Lien Court,Pasadena,CA,91199,Resident,3,4/1/2011,4/1/2014
+289,ij-8005,14526 Cody Road,San Francisco,CA,94116,Resident,2,7/11/2012,7/11/2014
+290,tk-5038,51 La Follette Place,Stockton,CA,95205,Resident,3,11/29/2013,11/29/2016
+291,dk-3636,4 Meadow Ridge Parkway,Fresno,CA,93786,Resident,3,12/25/2018,12/25/2021
+292,lz-2367,37 Kensington Trail,San Francisco,CA,94110,Resident,1,5/5/2015,5/5/2016
+293,lx-9245,2169 Granby Hill,Long Beach,CA,90810,Resident,3,10/19/2010,10/19/2013
+294,bi-0145,1075 Logan Alley,Bakersfield,CA,93305,Resident,1,7/2/2012,7/2/2013
+295,kb-1340,6869 Cherokee Center,Bakersfield,CA,93305,Resident,3,8/3/2012,8/3/2015
+296,eq-0571,141 Montana Park,Chico,CA,95973,Resident,1,1/2/2014,1/2/2015
+297,ap-3395,512 Del Mar Court,San Diego,CA,92127,Resident,1,4/11/2012,4/11/2013
+298,wx-8296,9623 Mayer Hill,North Hollywood,CA,91606,Resident,2,2/8/2020,2/8/2022
+299,kv-8497,02506 Hazelcrest Trail,Oakland,CA,94622,Resident,2,10/9/2016,10/9/2018
+300,rm-3419,5 Arkansas Center,Fresno,CA,93721,Resident,1,7/17/2011,7/17/2012
+301,rz-3180,378 Mcguire Road,Irvine,CA,92717,Resident,2,1/5/2011,1/5/2013
+302,lu-9751,8545 Transport Lane,Newton,MA,2458,Resident,3,11/30/2018,11/30/2021
+303,xd-9595,7028 Anzinger Park,Whittier,CA,90605,Resident,1,7/27/2019,7/27/2020
+304,tt-5699,963 Grasskamp Hill,Pasadena,CA,91186,Resident,1,1/10/2021,1/10/2022
+305,th-5997,92 Dixon Alley,Atlanta,GA,30311,Resident,1,4/8/2021,4/8/2022
+306,rd-0207,9836 Dawn Drive,Oakland,CA,94627,Resident,2,2/18/2020,2/18/2022
+307,tr-3149,7167 Moulton Junction,San Bernardino,CA,92415,Resident,3,11/21/2016,11/21/2019
+308,tp-6766,0131 Sunnyside Road,Berkeley,CA,94705,Resident,1,11/29/2012,11/29/2013
+309,pd-0920,17 Forest Road,Albany,GA,31704,Resident,3,5/8/2013,5/8/2016
+310,ip-8585,152 Havey Plaza,San Jose,CA,95160,Resident,3,10/31/2018,10/31/2021
+311,yh-1901,22447 Northwestern Plaza,Atlanta,GA,30386,Resident,1,2/10/2012,2/10/2013
+312,uc-0156,06 Commercial Pass,Boston,MA,2298,Resident,2,11/16/2011,11/16/2013
+313,zl-4636,32 Anniversary Trail,Van Nuys,CA,91406,Resident,3,5/1/2017,5/1/2020
+314,st-9659,548 Truax Street,Sacramento,CA,94237,Resident,2,10/13/2011,10/13/2013
+315,fk-7916,07386 Alpine Place,Atlanta,GA,30336,Resident,3,1/11/2019,1/11/2022
+316,pb-9806,078 Barby Court,Santa Monica,CA,90405,Resident,3,1/28/2018,1/28/2021
+317,eo-0176,405 Roxbury Court,Irvine,CA,92710,Resident,1,12/7/2011,12/7/2012
+318,re-7119,0 Messerschmidt Pass,Columbus,GA,31914,Resident,2,9/6/2020,9/6/2022
+319,fw-7549,92 Hansons Hill,Pasadena,CA,91186,Resident,1,9/10/2019,9/10/2020
+320,zw-5103,603 Dawn Parkway,San Luis Obispo,CA,93407,Resident,1,9/29/2018,9/29/2019
+321,js-8756,9 Kenwood Street,Los Angeles,CA,90030,Resident,2,2/22/2010,2/22/2012
+322,br-8627,920 Mifflin Hill,Hayward,CA,94544,Resident,2,1/15/2011,1/15/2013
+323,dg-3167,7 Main Parkway,Sacramento,CA,95833,Resident,1,6/11/2016,6/11/2017
+324,dp-8923,71 Dottie Street,Savannah,GA,31422,Resident,1,6/10/2010,6/10/2011
+325,ag-3957,3 Lakewood Gardens Way,Oakland,CA,94611,Resident,1,12/6/2019,12/6/2020
+326,fz-5724,6749 Caliangt Street,Los Angeles,CA,90015,Resident,3,6/27/2014,6/27/2017
+327,yf-3058,21985 Elka Point,Van Nuys,CA,91406,Resident,3,8/11/2019,8/11/2022
+328,nn-3755,8757 Buhler Plaza,Fresno,CA,93709,Resident,2,9/26/2020,9/26/2022
+329,gs-0821,983 Randy Circle,Atlanta,GA,30306,Resident,1,8/16/2015,8/16/2016
+330,vt-5031,3 East Plaza,Alpharetta,GA,30022,Resident,2,8/16/2018,8/16/2020
+331,cq-6124,679 Truax Park,Oakland,CA,94660,Resident,1,7/29/2013,7/29/2014
+332,eo-2284,95 Mendota Court,Decatur,GA,30033,Resident,1,1/19/2019,1/19/2020
+333,ns-6974,10582 Dahle Way,Oxnard,CA,93034,Resident,2,3/19/2020,3/19/2022
+334,lm-2017,08667 Ridgeway Trail,Redwood City,CA,94064,Resident,1,5/20/2021,5/20/2022
+335,yk-0606,5 Karstens Plaza,Sunnyvale,CA,94089,Resident,1,4/14/2017,4/14/2018
+336,cp-4102,07 Birchwood Street,San Diego,CA,92110,Resident,3,1/16/2019,1/16/2022
+337,ey-0410,83331 Barby Hill,Athens,GA,30605,Resident,1,9/19/2019,9/19/2020
+338,rk-2690,267 Mallory Drive,Riverside,CA,92513,Resident,3,5/8/2017,5/8/2020
+339,wc-1561,27 Dunning Park,Oakland,CA,94627,Resident,1,11/14/2016,11/14/2017
+340,fi-3104,1075 Forster Way,Boston,MA,2124,Resident,1,7/8/2020,7/8/2021
+341,pb-1399,519 Buhler Drive,Santa Monica,CA,90405,Resident,1,1/10/2012,1/10/2013
+342,mk-4814,2 Boyd Crossing,Los Angeles,CA,90015,Resident,3,8/31/2014,8/31/2017
+343,cr-8154,24 Brickson Park Place,San Francisco,CA,94154,Resident,2,8/13/2014,8/13/2016
+344,ng-9434,9017 Main Lane,Atlanta,GA,30375,Resident,1,5/11/2017,5/11/2018
+345,tj-6838,89881 Debs Hill,Los Angeles,CA,90015,Resident,1,9/8/2016,9/8/2017
+346,za-6226,0208 Union Avenue,Brea,CA,92822,Resident,1,8/27/2010,8/27/2011
+347,mx-7820,85 Northport Road,Inglewood,CA,90398,Resident,3,6/10/2015,6/10/2018
+348,gd-0534,151 Pearson Pass,Van Nuys,CA,91499,Resident,3,12/12/2018,12/12/2021
+349,ph-8931,4 Fairfield Trail,Atlanta,GA,30380,Resident,1,12/6/2017,12/6/2018
+350,rf-5461,34742 Saint Paul Drive,Santa Barbara,CA,93111,Resident,3,8/3/2014,8/3/2017
+351,xg-6581,14 Butternut Parkway,Orange,CA,92862,Resident,3,5/14/2017,5/14/2020
+352,zq-7555,68777 Spaight Street,Fresno,CA,93773,Resident,1,2/16/2015,2/16/2016
+353,hq-7893,95209 Lotheville Street,Los Angeles,CA,90060,Resident,3,2/13/2012,2/13/2015
+354,bo-9467,2870 3rd Terrace,Santa Clara,CA,95054,Resident,3,1/8/2019,1/8/2022
+355,ku-5028,80571 Ridgeway Road,Atlanta,GA,30351,Resident,2,2/26/2017,2/26/2019
+356,oq-1811,351 Crownhardt Lane,Worcester,MA,1610,Resident,3,10/12/2018,10/12/2021
+357,ot-8721,2 Kensington Alley,Bakersfield,CA,93386,Resident,2,8/15/2011,8/15/2013
+358,rf-5927,72631 Warbler Hill,Augusta,GA,30919,Resident,3,5/25/2014,5/25/2017
+359,lq-2088,41 Moulton Avenue,San Mateo,CA,94405,Resident,3,11/25/2011,11/25/2014
+360,xr-0561,7 Rusk Plaza,South Lake Tahoe,CA,96154,Resident,3,4/14/2016,4/14/2019
+361,dx-6557,23 Spaight Street,Stockton,CA,95298,Resident,2,8/24/2010,8/24/2012
+362,np-8739,0394 American Ash Terrace,Sacramento,CA,95865,Resident,1,8/1/2016,8/1/2017
+363,gk-2678,17 Bultman Park,Oakland,CA,94605,Resident,3,4/3/2010,4/3/2013
+364,rs-2591,0393 Fulton Pass,San Francisco,CA,94116,Resident,3,9/21/2013,9/21/2016
+365,vu-0076,5961 Raven Avenue,Sunnyvale,CA,94089,Resident,1,2/27/2021,2/27/2022
+366,tl-3282,0756 Cottonwood Hill,Northridge,CA,91328,Resident,1,1/28/2018,1/28/2019
+367,hx-3184,943 Texas Parkway,Oakland,CA,94616,Resident,3,6/1/2017,6/1/2020
+368,ny-1400,149 Clemons Drive,San Francisco,CA,94110,Resident,1,12/27/2013,12/27/2014
+369,ta-6942,1 Shopko Hill,Atlanta,GA,30358,Resident,2,9/21/2014,9/21/2016
+370,gb-2418,48 Valley Edge Parkway,Lawrenceville,GA,30245,Resident,3,7/14/2014,7/14/2017
+371,yt-3770,4 Schiller Street,San Diego,CA,92137,Resident,3,10/23/2011,10/23/2014
+372,ul-5919,54610 Sunbrook Court,Sacramento,CA,95838,Resident,1,5/13/2018,5/13/2019
+373,ii-9756,9006 Farragut Lane,Santa Barbara,CA,93111,Resident,1,8/20/2020,8/20/2021
+374,yy-4249,50 Bunting Crossing,San Rafael,CA,94913,Resident,3,12/4/2013,12/4/2016
+375,ot-3849,4668 Mifflin Hill,San Francisco,CA,94110,Resident,2,6/28/2019,6/28/2021
+376,um-5236,3 Sloan Court,Sacramento,CA,94230,Resident,1,11/19/2012,11/19/2013
+377,bg-8638,17218 Kennedy Plaza,Los Angeles,CA,90189,Resident,3,3/31/2014,3/31/2017
+378,mg-6257,75866 Maryland Trail,Stockton,CA,95205,Resident,3,12/24/2017,12/24/2020
+379,ab-6950,29 Prentice Lane,Inglewood,CA,90398,Resident,2,10/3/2014,10/3/2016
+380,ci-0035,30 Washington Crossing,Springfield,MA,1129,Resident,1,9/25/2010,9/25/2011
+381,ei-0895,9494 Quincy Place,San Diego,CA,92105,Resident,1,4/7/2020,4/7/2021
+382,rz-7894,67 Rigney Park,San Diego,CA,92110,Resident,3,10/28/2020,10/28/2023
+383,pf-4676,10739 Fremont Terrace,San Francisco,CA,94154,Resident,3,3/24/2019,3/24/2022
+384,to-2952,542 Graedel Alley,Santa Barbara,CA,93150,Resident,3,1/2/2017,1/2/2020
+385,mh-1216,4 Fulton Street,Stockton,CA,95219,Resident,2,7/25/2015,7/25/2017
+386,yj-9345,179 Waubesa Park,Los Angeles,CA,90020,Resident,1,5/19/2010,5/19/2011
+387,rj-4010,1547 Manley Point,Boston,MA,2114,Resident,3,5/9/2015,5/9/2018
+388,ab-5556,88148 Jenna Street,Duluth,GA,30195,Resident,1,1/11/2017,1/11/2018
+389,sn-7938,69 Mifflin Center,San Diego,CA,92110,Resident,3,11/15/2015,11/15/2018
+390,jw-6487,660 North Alley,Sacramento,CA,95813,Resident,3,9/28/2019,9/28/2022
+391,pz-8052,66 Carberry Lane,Los Angeles,CA,90076,Resident,3,11/19/2013,11/19/2016
+392,tu-5053,73 Kipling Parkway,San Francisco,CA,94105,Resident,2,3/4/2013,3/4/2015
+393,na-7714,489 Monica Street,Duluth,GA,30195,Resident,1,1/1/2017,1/1/2018
+394,ft-2984,521 Oak Valley Court,Stockton,CA,95219,Resident,2,3/16/2015,3/16/2017
+395,ki-4506,5 Di Loreto Pass,Irvine,CA,92612,Resident,3,7/2/2016,7/2/2019
+396,zt-4656,013 Katie Way,Lawrenceville,GA,30245,Resident,3,6/19/2020,6/19/2023
+397,no-8795,04161 Prairieview Trail,Stockton,CA,95205,Resident,2,4/2/2021,4/2/2023
+398,fk-2622,74586 Dixon Terrace,Los Angeles,CA,90050,Resident,2,12/10/2012,12/10/2014
+399,eh-8620,7483 Kenwood Alley,Springfield,MA,1114,Resident,3,11/15/2017,11/15/2020
+400,di-2658,06490 Sheridan Trail,Stockton,CA,95298,Resident,3,9/7/2020,9/7/2023
+401,ev-8512,5476 Bluejay Alley,San Diego,CA,92115,Resident,2,8/27/2015,8/27/2017
+402,ux-7027,53 Grover Pass,New Bedford,MA,2745,Resident,2,11/7/2016,11/7/2018
+403,hk-1670,5324 Oneill Circle,San Francisco,CA,94159,Resident,1,2/25/2014,2/25/2015
+404,qu-1403,4997 Bartillon Street,Van Nuys,CA,91406,Resident,2,3/27/2019,3/27/2021
+405,qq-4158,5 Coolidge Court,Corona,CA,92878,Resident,2,9/29/2012,9/29/2014
+406,up-2713,3 Village Green Lane,Sacramento,CA,94237,Resident,2,12/17/2015,12/17/2017
+407,qf-1466,09 Fulton Point,Simi Valley,CA,93094,Resident,2,8/29/2011,8/29/2013
+408,ik-0563,131 Farragut Way,San Francisco,CA,94137,Resident,2,6/4/2021,6/4/2023
+409,hv-4954,901 Esker Plaza,San Diego,CA,92186,Resident,1,5/14/2013,5/14/2014
+410,xu-8868,57129 Towne Way,Fresno,CA,93726,Resident,2,1/16/2015,1/16/2017
+411,yy-9822,83750 Westridge Parkway,San Francisco,CA,94164,Resident,2,9/12/2019,9/12/2021
+412,zu-9053,663 Oak Plaza,Decatur,GA,30033,Resident,2,1/20/2010,1/20/2012
+413,xh-6397,7 Arrowood Drive,San Diego,CA,92196,Resident,1,5/29/2016,5/29/2017
+414,uy-3700,6335 Lyons Junction,Springfield,MA,1152,Resident,3,4/22/2011,4/22/2014
+415,gb-2018,7 Lyons Terrace,Duluth,GA,30195,Resident,2,8/22/2010,8/22/2012
+416,os-9902,940 Loeprich Court,Inglewood,CA,90310,Resident,2,4/18/2015,4/18/2017
+417,kr-0027,183 Northport Circle,Fullerton,CA,92835,Resident,3,2/1/2020,2/1/2023
+418,ej-9061,307 Springs Avenue,Mountain View,CA,94042,Resident,2,9/17/2010,9/17/2012
+419,ye-5161,0 Eggendart Alley,Lawrenceville,GA,30245,Resident,2,11/23/2016,11/23/2018
+420,we-3947,4673 Lillian Way,Macon,GA,31296,Resident,3,6/9/2014,6/9/2017
+421,dy-0762,746 Hoffman Lane,Marietta,GA,30061,Resident,2,4/30/2016,4/30/2018
+422,ov-4111,39024 Erie Court,Norcross,GA,30092,Resident,2,3/7/2013,3/7/2015
+423,xl-4336,1 Coolidge Avenue,Simi Valley,CA,93094,Resident,3,3/18/2019,3/18/2022
+424,dz-2268,2 Packers Crossing,Worcester,MA,1654,Resident,3,7/11/2017,7/11/2020
+425,lt-6628,52538 Nobel Alley,San Jose,CA,95194,Resident,1,7/30/2020,7/30/2021
+426,uq-8218,263 Lotheville Way,San Diego,CA,92145,Resident,3,4/11/2011,4/11/2014
+427,jh-3376,07133 Dunning Hill,Sacramento,CA,94207,Resident,3,2/16/2020,2/16/2023
+428,qp-7847,2 Merchant Point,Atlanta,GA,31119,Resident,2,4/15/2010,4/15/2012
+429,nf-7241,6 Melby Plaza,Corona,CA,92878,Resident,1,8/16/2018,8/16/2019
+430,mh-5438,15918 Marquette Lane,Atlanta,GA,30316,Resident,2,5/7/2020,5/7/2022
+431,wo-8796,4197 Steensland Point,Boston,MA,2298,Resident,1,6/19/2021,6/19/2022
+432,ta-5037,9666 Lerdahl Crossing,Atlanta,GA,30311,Resident,1,5/27/2011,5/27/2012
+433,sg-8122,081 Mcguire Street,Orange,CA,92668,Resident,2,6/24/2010,6/24/2012
+434,ac-8372,74 Derek Way,Macon,GA,31217,Resident,2,12/27/2018,12/27/2020
+435,ox-2999,8 Sommers Junction,Atlanta,GA,30392,Resident,3,3/17/2010,3/17/2013
+436,cg-0841,71 Bowman Terrace,Newton,MA,2162,Resident,1,7/27/2015,7/27/2016
+437,oc-0013,5911 Jana Avenue,Columbus,GA,31998,Resident,2,1/19/2017,1/19/2019
+438,jr-8871,80523 Veith Point,San Diego,CA,92176,Resident,2,3/25/2013,3/25/2015
+439,pn-6164,6722 Prairie Rose Crossing,San Jose,CA,95128,Resident,1,9/21/2011,9/21/2012
+440,ar-1385,1752 Eliot Plaza,Pasadena,CA,91109,Resident,1,9/23/2018,9/23/2019
+441,qk-6048,64171 Shasta Crossing,Santa Barbara,CA,93111,Resident,2,3/22/2013,3/22/2015
+442,jm-4755,938 Emmet Road,Santa Ana,CA,92725,Resident,1,6/30/2015,6/30/2016
+443,ry-7434,6994 Northfield Street,New Bedford,MA,2745,Resident,3,5/13/2014,5/13/2017
+444,uy-0197,3 Packers Hill,Los Angeles,CA,90189,Resident,2,8/18/2013,8/18/2015
+445,ks-3268,27 Stephen Street,Sacramento,CA,95818,Resident,1,4/26/2017,4/26/2018
+446,nq-5931,34 Golden Leaf Crossing,North Hollywood,CA,91606,Resident,3,3/30/2021,3/30/2024
+447,tg-5529,8 Clove Lane,Pasadena,CA,91109,Resident,1,6/13/2010,6/13/2011
+448,kb-1963,55 West Crossing,Boston,MA,2109,Resident,2,9/4/2018,9/4/2020
+449,ri-7698,66 Bonner Pass,Sacramento,CA,94280,Resident,1,7/29/2018,7/29/2019
+450,dk-2011,2969 Truax Alley,North Hollywood,CA,91616,Resident,3,5/16/2019,5/16/2022
+451,ot-7484,3 Homewood Drive,Waltham,MA,2453,Resident,2,12/3/2019,12/3/2021
+452,ez-6070,08 Becker Plaza,Atlanta,GA,30380,Resident,2,1/27/2018,1/27/2020
+453,dr-5471,31 Roth Court,Macon,GA,31296,Resident,1,12/5/2015,12/5/2016
+454,vm-0016,05897 Butternut Court,Stockton,CA,95210,Resident,2,12/24/2013,12/24/2015
+455,jf-0663,77557 Westport Park,Long Beach,CA,90840,Resident,1,3/22/2017,3/22/2018
+456,xw-6857,5681 Menomonie Avenue,Lynn,MA,1905,Resident,1,6/15/2016,6/15/2017
+457,lz-4194,28 Westerfield Way,San Diego,CA,92165,Resident,2,8/1/2016,8/1/2018
+458,cu-3414,5427 Cardinal Place,Pasadena,CA,91109,Resident,1,4/22/2010,4/22/2011
+459,pd-4012,6231 Brentwood Hill,Torrance,CA,90505,Resident,3,10/10/2013,10/10/2016
+460,qf-5694,59863 Kingsford Point,Sacramento,CA,95894,Resident,1,3/19/2012,3/19/2013
+461,gr-9076,18061 Hudson Lane,San Diego,CA,92176,Resident,2,3/31/2018,3/31/2020
+462,eg-5815,33 Hermina Lane,Irvine,CA,92710,Resident,2,10/1/2010,10/1/2012
+463,bi-3153,79820 Chinook Road,Long Beach,CA,90847,Resident,1,6/14/2011,6/14/2012
+464,hf-6810,9058 Milwaukee Drive,Los Angeles,CA,90035,Resident,1,3/17/2021,3/17/2022
+465,ta-3310,4 Eagle Crest Road,Fresno,CA,93726,Resident,1,4/5/2010,4/5/2011
+466,bj-5594,3873 Talisman Drive,Los Angeles,CA,90065,Resident,2,3/23/2015,3/23/2017
+467,fo-6680,882 Ohio Center,Sacramento,CA,94207,Resident,3,7/22/2014,7/22/2017
+468,bu-3063,2450 South Center,Glendale,CA,91210,Resident,2,6/3/2011,6/3/2013
+469,nh-9774,6 Schurz Pass,Fresno,CA,93778,Resident,2,12/29/2013,12/29/2015
+470,nv-8122,3 Hoepker Crossing,Los Angeles,CA,90030,Resident,2,11/25/2014,11/25/2016
+471,mh-8023,65391 Forest Run Lane,Fresno,CA,93704,Resident,2,8/5/2014,8/5/2016
+472,cn-8885,4451 Mockingbird Junction,Atlanta,GA,30323,Resident,2,9/8/2020,9/8/2022
+473,ps-6573,989 Redwing Center,Worcester,MA,1605,Resident,1,4/20/2019,4/20/2020
+474,yh-5495,2 Redwing Junction,Garden Grove,CA,92844,Resident,2,12/10/2011,12/10/2013
+475,aj-4112,15726 Harper Park,Los Angeles,CA,90071,Resident,2,5/29/2021,5/29/2023
+476,ij-5713,25135 American Ash Street,Savannah,GA,31422,Resident,3,3/9/2012,3/9/2015
+477,qs-7940,3424 Coleman Street,Irvine,CA,92710,Resident,2,9/5/2012,9/5/2014
+478,pd-8354,6 Prentice Place,San Jose,CA,95150,Resident,1,11/23/2011,11/23/2012
+479,le-9830,27940 Arrowood Alley,Anaheim,CA,92812,Resident,3,2/22/2016,2/22/2019
+480,zi-8712,30147 Eagan Lane,Petaluma,CA,94975,Resident,1,5/22/2015,5/22/2016
+481,cm-6984,7123 8th Terrace,Savannah,GA,31422,Resident,1,7/2/2014,7/2/2015
+482,ff-4026,3485 Hooker Hill,Van Nuys,CA,91411,Resident,3,1/11/2012,1/11/2015
+483,ii-5427,92779 Knutson Park,Long Beach,CA,90805,Resident,1,1/29/2020,1/29/2021
+484,is-5548,4723 Pepper Wood Crossing,Torrance,CA,90505,Resident,1,4/5/2018,4/5/2019
+485,fr-0144,1082 Melvin Park,Atlanta,GA,30356,Resident,1,9/12/2020,9/12/2021
+486,uk-9469,870 Warrior Alley,Atlanta,GA,30306,Resident,3,12/19/2010,12/19/2013
+487,ho-3571,3 Emmet Place,Bakersfield,CA,93311,Resident,3,11/12/2012,11/12/2015
+488,ex-8275,5 Lunder Road,Atlanta,GA,30386,Resident,2,8/18/2010,8/18/2012
+489,yt-2415,7 Kensington Hill,Boston,MA,2124,Resident,2,1/8/2013,1/8/2015
+490,hh-5049,327 Armistice Lane,Van Nuys,CA,91411,Resident,1,5/7/2015,5/7/2016
+491,hj-5077,487 Mallory Avenue,Atlanta,GA,30316,Resident,3,6/22/2012,6/22/2015
+492,fc-3365,906 Colorado Way,Sacramento,CA,95828,Resident,3,6/2/2021,6/2/2024
+493,pa-2903,41617 Springview Terrace,Athens,GA,30610,Resident,3,1/1/2013,1/1/2016
+494,wf-8747,4 Dwight Road,Macon,GA,31296,Resident,1,5/27/2014,5/27/2015
+495,hl-7319,91 Longview Plaza,Riverside,CA,92519,Resident,2,7/25/2020,7/25/2022
+496,no-2476,26728 Montana Junction,Orange,CA,92867,Resident,2,7/3/2018,7/3/2020
+497,ie-7027,99442 Farragut Point,Los Angeles,CA,90101,Resident,1,7/29/2020,7/29/2021
+498,zb-1491,4 Stang Way,Oakland,CA,94627,Resident,3,2/12/2018,2/12/2021
+499,al-5379,4122 Alpine Avenue,Los Angeles,CA,90020,Resident,2,12/31/2017,12/31/2019
+500,ms-9984,66 Mitchell Drive,Waltham,MA,2453,Resident,1,12/27/2019,12/27/2020
+501,ht-7128,31 Canary Plaza,Irvine,CA,92710,Resident,3,7/14/2018,7/14/2021
+502,gg-1491,68 Cardinal Point,San Diego,CA,92176,Resident,3,2/6/2011,2/6/2014
+503,il-5405,9 Mockingbird Street,Sunnyvale,CA,94089,Resident,2,12/5/2017,12/5/2019
+504,es-5998,52 Trailsway Center,San Jose,CA,95128,Resident,1,8/13/2011,8/13/2012
+505,me-6290,8 Susan Circle,Boston,MA,2283,Resident,2,12/31/2018,12/31/2020
+506,cc-9288,059 Rusk Crossing,Hayward,CA,94544,Resident,3,3/30/2016,3/30/2019
+507,sr-4153,54394 Grayhawk Center,Decatur,GA,30033,Resident,1,11/5/2013,11/5/2014
+508,pq-0441,2 Nova Way,Macon,GA,31296,Resident,2,4/19/2017,4/19/2019
+509,ej-1796,97061 Sundown Junction,San Diego,CA,92132,Resident,3,5/14/2017,5/14/2020
+510,oi-2503,2 Derek Drive,Sacramento,CA,95813,Resident,3,2/7/2015,2/7/2018
+511,iv-1665,848 Atwood Road,Boston,MA,2104,Resident,2,1/23/2018,1/23/2020
+512,po-6651,0120 Scoville Trail,Sacramento,CA,94297,Resident,1,3/17/2018,3/17/2019
+513,sd-8716,40 Erie Road,San Mateo,CA,94405,Resident,1,4/16/2018,4/16/2019
+514,us-8279,26 Charing Cross Center,Los Angeles,CA,90055,Resident,1,9/1/2011,9/1/2012
+515,dd-7263,8512 Brentwood Crossing,San Diego,CA,92153,Resident,3,12/3/2018,12/3/2021
+516,kj-2776,190 Dixon Junction,Los Angeles,CA,90060,Resident,2,12/9/2016,12/9/2018
+517,gg-0572,5054 Lakewood Parkway,Los Angeles,CA,90025,Resident,1,6/25/2015,6/25/2016
+518,gq-4024,74 Melrose Parkway,Boston,MA,2124,Resident,3,7/15/2010,7/15/2013
+519,zu-2751,10 Kingsford Hill,Fresno,CA,93794,Resident,1,11/20/2011,11/20/2012
+520,ks-1359,738 Center Parkway,Sacramento,CA,95852,Resident,1,7/19/2017,7/19/2018
+521,yq-6362,1932 Helena Road,Santa Clara,CA,95054,Resident,1,12/10/2015,12/10/2016
+522,on-7512,77 Maple Wood Point,Atlanta,GA,30340,Resident,3,1/27/2013,1/27/2016
+523,ht-6268,664 Dennis Way,Redwood City,CA,94064,Resident,1,2/4/2011,2/4/2012
+524,tm-9141,6 Tennyson Court,Atlanta,GA,30386,Resident,3,11/8/2019,11/8/2022
+525,sq-3234,919 Redwing Junction,Berkeley,CA,94712,Resident,2,11/25/2020,11/25/2022
+526,lc-5133,7777 Utah Trail,Whittier,CA,90605,Resident,1,6/27/2014,6/27/2015
+527,ae-7213,16 Lake View Junction,Macon,GA,31296,Resident,2,6/18/2011,6/18/2013
+528,jg-0009,3650 Banding Lane,Bakersfield,CA,93386,Resident,3,2/8/2010,2/8/2013
+529,es-0014,39 Stuart Plaza,San Francisco,CA,94126,Resident,2,12/22/2020,12/22/2022
+530,wf-9813,5546 Maryland Park,Sacramento,CA,94245,Resident,1,4/15/2014,4/15/2015
+531,kz-2586,3872 Vernon Pass,San Francisco,CA,94169,Resident,2,4/8/2015,4/8/2017
+532,ch-3363,8 Anniversary Trail,Athens,GA,30605,Resident,3,10/26/2019,10/26/2022
+533,xv-9614,101 Boyd Crossing,Santa Cruz,CA,95064,Resident,3,11/9/2015,11/9/2018
+534,qc-1262,1 Forster Point,Modesto,CA,95354,Resident,3,7/9/2011,7/9/2014
+535,sp-3329,72 Ronald Regan Circle,San Francisco,CA,94105,Resident,2,8/2/2010,8/2/2012
+536,bw-5796,42466 Hermina Avenue,Atlanta,GA,30375,Resident,3,1/31/2012,1/31/2015
+537,cx-1511,433 Eagle Crest Park,Waltham,MA,2453,Resident,3,4/16/2021,4/16/2024
+538,cc-0348,77 Transport Court,Moreno Valley,CA,92555,Resident,1,3/30/2013,3/30/2014
+539,wg-5046,64087 Debs Point,Atlanta,GA,30375,Resident,3,11/4/2014,11/4/2017
+540,xe-8855,38253 Golf View Crossing,Decatur,GA,30033,Resident,3,7/14/2010,7/14/2013
+541,mt-7322,5 Susan Place,Augusta,GA,30919,Resident,2,5/12/2013,5/12/2015
+542,ao-7617,95 Garrison Court,Los Angeles,CA,90076,Resident,2,3/8/2015,3/8/2017
+543,sb-7056,390 Derek Court,Redwood City,CA,94064,Resident,1,7/8/2015,7/8/2016
+544,ha-2295,04 Charing Cross Trail,Los Angeles,CA,90060,Resident,1,5/24/2010,5/24/2011
+545,ug-7236,5 Raven Road,Woburn,MA,1813,Resident,1,1/1/2019,1/1/2020
+546,ux-0849,6 Redwing Place,San Jose,CA,95113,Resident,3,2/3/2016,2/3/2019
+547,fu-4680,020 Linden Parkway,Pasadena,CA,91199,Resident,1,12/22/2014,12/22/2015
+548,is-7107,448 East Road,Waltham,MA,2453,Resident,2,2/7/2018,2/7/2020
+549,nm-3670,0015 Nelson Parkway,Santa Ana,CA,92725,Resident,1,7/17/2013,7/17/2014
+550,ah-9263,4030 Superior Circle,Savannah,GA,31410,Resident,3,3/4/2011,3/4/2014
+551,rh-3396,3 Fremont Circle,Pasadena,CA,91125,Resident,1,11/22/2015,11/22/2016
+552,af-4451,82301 Warrior Road,Escondido,CA,92030,Resident,1,1/31/2012,1/31/2013
+553,si-5792,8966 Norway Maple Street,Savannah,GA,31405,Resident,2,3/9/2011,3/9/2013
+554,gv-5728,75973 Nelson Lane,Santa Barbara,CA,93111,Resident,3,5/21/2013,5/21/2016
+555,je-4937,2485 Harper Center,Sacramento,CA,94273,Resident,2,5/16/2020,5/16/2022
+556,js-2251,28635 Muir Trail,Stockton,CA,95205,Resident,3,1/30/2015,1/30/2018
+557,ru-0790,39 7th Trail,Cambridge,MA,2142,Resident,3,11/20/2018,11/20/2021
+558,gv-4586,77 Lakewood Parkway,Augusta,GA,30919,Resident,2,8/30/2017,8/30/2019
+559,bd-8470,453 2nd Circle,Duluth,GA,30096,Resident,1,6/22/2010,6/22/2011
+560,mn-2700,5 Westport Street,San Jose,CA,95150,Resident,2,10/4/2018,10/4/2020
+561,xk-8690,3 7th Road,Anaheim,CA,92812,Resident,1,10/29/2015,10/29/2016
+562,ev-7057,757 Dryden Point,Hayward,CA,94544,Resident,2,10/16/2020,10/16/2022
+563,er-6785,643 Burrows Parkway,San Francisco,CA,94154,Resident,1,2/5/2017,2/5/2018
+564,td-1661,8583 Nobel Alley,San Jose,CA,95123,Resident,2,1/1/2013,1/1/2015
+565,mn-4163,6 Forest Dale Lane,Sacramento,CA,95813,Resident,1,8/2/2015,8/2/2016
+566,pw-3001,7461 Corscot Park,Inglewood,CA,90398,Resident,1,12/23/2014,12/23/2015
+567,dy-0027,0358 Eagle Crest Avenue,Sacramento,CA,95833,Resident,1,9/26/2015,9/26/2016
+568,pq-9193,71 Village Green Center,Sacramento,CA,95818,Resident,3,9/27/2020,9/27/2023
+569,vl-5483,900 Sachtjen Street,Boston,MA,2119,Resident,3,11/29/2018,11/29/2021
+570,sv-9555,0 La Follette Place,Berkeley,CA,94705,Resident,3,9/26/2013,9/26/2016
+571,lo-9217,319 Canary Road,Sacramento,CA,94291,Resident,1,12/20/2020,12/20/2021
+572,kl-0389,4 Sheridan Hill,San Diego,CA,92110,Resident,2,5/17/2020,5/17/2022
+573,hi-4981,123 Spohn Hill,Sacramento,CA,95865,Resident,3,5/31/2019,5/31/2022
+574,et-2439,750 Macpherson Street,San Francisco,CA,94154,Resident,2,5/24/2012,5/24/2014
+575,ob-8085,64 Victoria Alley,Whittier,CA,90610,Resident,2,4/4/2020,4/4/2022
+576,uu-6010,1761 North Center,San Bernardino,CA,92415,Resident,3,2/1/2017,2/1/2020
+577,yw-9420,43 Cordelia Court,San Diego,CA,92132,Resident,3,8/24/2010,8/24/2013
+578,rr-8569,25247 Bonner Lane,San Jose,CA,95108,Resident,1,4/24/2012,4/24/2013
+579,ex-7309,4147 Coleman Avenue,San Bernardino,CA,92424,Resident,2,4/17/2017,4/17/2019
+580,xv-0043,12662 Forest Terrace,Van Nuys,CA,91499,Resident,3,1/8/2018,1/8/2021
+581,th-3215,988 Knutson Way,San Jose,CA,95118,Resident,3,9/12/2016,9/12/2019
+582,kr-6179,322 Carpenter Street,San Diego,CA,92186,Resident,2,9/23/2019,9/23/2021
+583,zy-9079,697 Morrow Place,Irvine,CA,92717,Resident,3,6/27/2017,6/27/2020
+584,je-6415,98 Oneill Drive,Fresno,CA,93726,Resident,1,10/7/2016,10/7/2017
+585,zx-4328,1 Red Cloud Lane,Stockton,CA,95210,Resident,2,8/7/2012,8/7/2014
+586,vz-1465,3063 Oak Way,Pasadena,CA,91125,Resident,2,10/16/2012,10/16/2014
+587,hl-7294,7559 Thierer Trail,Mountain View,CA,94042,Resident,2,9/16/2013,9/16/2015
+588,hu-8362,29 Center Lane,Los Angeles,CA,90071,Resident,2,4/12/2016,4/12/2018
+589,zk-0507,512 Colorado Lane,San Jose,CA,95150,Resident,3,11/26/2015,11/26/2018
+590,dl-1418,0 Bartelt Center,Savannah,GA,31416,Resident,3,6/18/2018,6/18/2021
+591,bc-6674,9 Pearson Pass,North Hollywood,CA,91616,Resident,3,12/5/2017,12/5/2020
+592,he-2594,85358 Gale Point,Augusta,GA,30919,Resident,3,7/8/2016,7/8/2019
+593,gw-9282,01388 Mcguire Center,Berkeley,CA,94712,Resident,3,11/5/2014,11/5/2017
+594,lz-6815,227 Pond Road,Bakersfield,CA,93305,Resident,1,8/16/2010,8/16/2011
+595,kc-3524,419 Duke Hill,Boston,MA,2119,Resident,1,3/30/2012,3/30/2013
+596,so-1240,5 Warner Trail,Atlanta,GA,30323,Resident,2,6/24/2012,6/24/2014
+597,mo-1839,32950 Carey Parkway,Sacramento,CA,94230,Resident,3,1/1/2017,1/1/2020
+598,vp-4073,64 Knutson Plaza,Los Angeles,CA,90025,Resident,1,8/5/2019,8/5/2020
+599,zi-0980,22884 Grasskamp Crossing,Petaluma,CA,94975,Resident,1,6/19/2020,6/19/2021
+600,oy-8064,298 Warrior Park,New Bedford,MA,2745,Resident,2,10/9/2018,10/9/2020
+601,cr-5585,83 Hooker Street,North Hollywood,CA,91606,Resident,1,2/14/2013,2/14/2014
+602,qz-1547,218 Nancy Way,Oceanside,CA,92056,Resident,1,7/15/2012,7/15/2013
+603,dg-2850,2 Holmberg Point,Columbus,GA,31998,Resident,3,2/19/2018,2/19/2021
+604,lf-5392,7641 Myrtle Trail,Orange,CA,92862,Resident,1,8/15/2013,8/15/2014
+605,gv-4494,21 Hintze Court,Atlanta,GA,31119,Resident,1,8/31/2018,8/31/2019
+606,fu-7779,11 Oneill Terrace,Sacramento,CA,94237,Resident,3,2/13/2018,2/13/2021
+607,dy-7155,9751 Towne Alley,San Francisco,CA,94169,Resident,2,8/12/2017,8/12/2019
+608,zk-0672,842 Acker Park,Santa Cruz,CA,95064,Resident,2,7/14/2012,7/14/2014
+609,wd-0528,609 Algoma Alley,Santa Clara,CA,95054,Resident,2,8/25/2017,8/25/2019
+610,dw-2307,25 Tomscot Point,Santa Monica,CA,90410,Resident,1,4/8/2012,4/8/2013
+611,fu-1546,756 Elgar Plaza,San Diego,CA,92196,Resident,3,4/7/2019,4/7/2022
+612,nd-3951,5263 Corry Avenue,Worcester,MA,1605,Resident,3,11/12/2013,11/12/2016
+613,pr-8318,53349 Gerald Hill,Oakland,CA,94622,Resident,3,11/3/2013,11/3/2016
+614,ft-6109,4433 Hermina Center,Watertown,MA,2472,Resident,3,8/2/2019,8/2/2022
+615,mv-4048,11 Oriole Junction,Los Angeles,CA,90035,Resident,1,2/15/2018,2/15/2019
+616,lk-0693,036 Lakewood Gardens Alley,Sacramento,CA,95865,Resident,3,9/9/2013,9/9/2016
+617,ve-3050,4518 Nancy Road,San Diego,CA,92186,Resident,1,4/12/2021,4/12/2022
+618,hu-2737,852 Vermont Parkway,Fresno,CA,93715,Resident,1,6/29/2014,6/29/2015
+619,hm-7012,48844 Goodland Road,Savannah,GA,31405,Resident,1,8/12/2012,8/12/2013
+620,ev-3541,1481 Maryland Park,Fresno,CA,93778,Resident,3,5/6/2011,5/6/2014
+621,ag-0124,0 Ridgeway Terrace,North Hollywood,CA,91606,Resident,3,4/9/2011,4/9/2014
+622,od-6488,33 Lyons Park,Alhambra,CA,91841,Resident,2,9/1/2013,9/1/2015
+623,om-1582,1767 Butterfield Terrace,San Mateo,CA,94405,Resident,1,7/14/2017,7/14/2018
+624,wx-7554,41 Thompson Street,San Diego,CA,92165,Resident,2,1/6/2011,1/6/2013
+625,na-0617,178 Marquette Lane,Sacramento,CA,94250,Resident,2,7/24/2017,7/24/2019
+626,gn-3152,57 Myrtle Drive,San Jose,CA,95173,Resident,1,10/22/2016,10/22/2017
+627,pg-8906,80467 Raven Trail,Fresno,CA,93740,Resident,2,7/10/2010,7/10/2012
+628,ns-7813,849 Mcbride Parkway,Atlanta,GA,30351,Resident,3,4/25/2019,4/25/2022
+629,tx-5319,19446 Northfield Trail,Garden Grove,CA,92645,Resident,3,11/19/2012,11/19/2015
+630,pm-0501,3379 Granby Terrace,San Francisco,CA,94169,Resident,1,2/12/2020,2/12/2021
+631,cy-8186,919 Coleman Alley,Fresno,CA,93704,Resident,2,12/16/2018,12/16/2020
+632,ic-4750,9 Mcbride Place,Riverside,CA,92513,Resident,1,2/25/2021,2/25/2022
+633,lt-2448,082 Lerdahl Circle,Boston,MA,2216,Resident,1,8/27/2015,8/27/2016
+634,ax-3331,43 Myrtle Terrace,Riverside,CA,92519,Resident,2,11/8/2017,11/8/2019
+635,gp-6449,9218 Farwell Drive,Santa Barbara,CA,93150,Resident,1,5/25/2012,5/25/2013
+636,il-0541,30711 Hagan Avenue,Boston,MA,2104,Resident,3,8/17/2010,8/17/2013
+637,rd-1725,64 Twin Pines Court,Ventura,CA,93005,Resident,3,6/30/2014,6/30/2017
+638,ex-5242,67 Donald Street,Atlanta,GA,30386,Resident,1,5/27/2020,5/27/2021
+639,tk-7107,85 Duke Center,Boston,MA,2114,Resident,1,3/8/2013,3/8/2014
+640,xl-8331,7689 Westport Lane,Atlanta,GA,31119,Resident,1,4/8/2011,4/8/2012
+641,zn-8290,965 Forster Road,Anaheim,CA,92805,Resident,1,8/14/2016,8/14/2017
+642,dg-6619,26208 Stuart Avenue,Los Angeles,CA,90005,Resident,2,3/16/2017,3/16/2019
+643,uv-3027,7 Kinsman Hill,Pasadena,CA,91199,Resident,3,3/30/2013,3/30/2016
+644,ea-9432,74130 Manley Parkway,North Hollywood,CA,91606,Resident,2,9/26/2014,9/26/2016
+645,mh-2203,599 Sloan Junction,Boston,MA,2124,Resident,1,4/24/2014,4/24/2015
+646,ia-7335,484 Donald Place,Santa Barbara,CA,93106,Resident,2,4/15/2012,4/15/2014
+647,mg-3918,908 Merrick Center,Marietta,GA,30066,Resident,3,2/5/2018,2/5/2021
+648,ut-5709,6 Forest Dale Circle,Glendale,CA,91205,Resident,3,8/20/2013,8/20/2016
+649,le-4545,6 Killdeer Street,San Jose,CA,95128,Resident,2,8/25/2013,8/25/2015
+650,fu-4140,2456 Thierer Hill,Sacramento,CA,94273,Resident,3,6/28/2020,6/28/2023
+651,dn-8311,33531 Artisan Crossing,Garden Grove,CA,92645,Resident,2,9/2/2011,9/2/2013
+652,po-8022,063 Fairview Trail,Savannah,GA,31422,Resident,2,12/11/2020,12/11/2022
+653,cx-0716,8 Quincy Trail,Torrance,CA,90510,Resident,3,7/17/2011,7/17/2014
+654,wc-6569,86156 Longview Trail,Pasadena,CA,91131,Resident,3,11/27/2013,11/27/2016
+655,ml-7657,736 Brickson Park Circle,San Luis Obispo,CA,93407,Resident,3,6/9/2021,6/9/2024
+656,qg-3988,90 Chinook Court,New Bedford,MA,2745,Resident,3,10/19/2014,10/19/2017
+657,as-3513,195 Straubel Crossing,North Hollywood,CA,91606,Resident,2,3/16/2011,3/16/2013
+658,wl-7729,9 Pearson Court,Van Nuys,CA,91406,Resident,2,2/2/2014,2/2/2016
+659,dh-0306,71320 Graceland Lane,Pasadena,CA,91199,Resident,3,5/25/2013,5/25/2016
+660,vo-9994,2958 Haas Court,Simi Valley,CA,93094,Resident,2,7/12/2018,7/12/2020
+661,gh-3449,40278 Vidon Alley,Los Angeles,CA,90025,Resident,2,2/6/2018,2/6/2020
+662,ur-5832,83573 Hoffman Pass,Simi Valley,CA,93094,Resident,3,4/25/2012,4/25/2015
+663,ty-8904,01 5th Circle,San Francisco,CA,94121,Resident,3,11/23/2017,11/23/2020
+664,ja-1061,81757 Moulton Place,Atlanta,GA,30351,Resident,2,8/28/2019,8/28/2021
+665,km-6113,1580 Quincy Alley,Pasadena,CA,91109,Resident,2,9/5/2015,9/5/2017
+666,ry-7069,08051 Kinsman Street,Sacramento,CA,95818,Resident,2,11/28/2011,11/28/2013
+667,bv-0248,2958 Anzinger Terrace,Oakland,CA,94627,Resident,3,10/27/2011,10/27/2014
+668,by-4322,858 Golden Leaf Crossing,Riverside,CA,92505,Resident,3,12/8/2011,12/8/2014
+669,ia-0245,69914 Katie Circle,Fresno,CA,93750,Resident,3,6/1/2019,6/1/2022
+670,jm-2604,722 Mayer Junction,Inglewood,CA,90310,Resident,1,6/12/2018,6/12/2019
+671,fh-8568,7161 Vermont Park,Sacramento,CA,94230,Resident,1,9/15/2014,9/15/2015
+672,si-1276,689 Arapahoe Way,San Jose,CA,95113,Resident,2,6/23/2016,6/23/2018
+673,le-7253,9 Bowman Street,Sacramento,CA,94286,Resident,3,7/18/2012,7/18/2015
+674,gw-8884,684 Talisman Plaza,Orange,CA,92668,Resident,3,6/30/2018,6/30/2021
+675,ck-9009,6087 Clyde Gallagher Hill,Los Angeles,CA,90094,Resident,1,9/19/2016,9/19/2017
+676,fp-5650,3 Transport Trail,Macon,GA,31217,Resident,2,6/18/2019,6/18/2021
+677,mp-6338,8 Glacier Hill Alley,Long Beach,CA,90805,Resident,2,8/11/2019,8/11/2021
+678,ri-4684,075 Manitowish Court,San Diego,CA,92145,Resident,3,2/25/2010,2/25/2013
+679,nm-6614,86186 Karstens Trail,Sacramento,CA,95823,Resident,3,9/18/2012,9/18/2015
+680,xc-5912,080 Harbort Lane,Van Nuys,CA,91499,Resident,1,12/31/2012,12/31/2013
+681,wt-8992,408 Forster Pass,Springfield,MA,1129,Resident,3,8/5/2016,8/5/2019
+682,oi-8671,8871 Southridge Center,San Diego,CA,92186,Resident,3,5/13/2015,5/13/2018
+683,ro-3043,1 Roxbury Hill,San Francisco,CA,94142,Resident,1,8/10/2018,8/10/2019
+684,cg-8903,0 Coolidge Drive,Stockton,CA,95219,Resident,2,9/4/2012,9/4/2014
+685,om-3540,9 Ryan Junction,Berkeley,CA,94705,Resident,1,9/25/2020,9/25/2021
+686,oh-7839,6 Stone Corner Point,Modesto,CA,95354,Resident,1,3/7/2016,3/7/2017
+687,fr-1543,67871 Carberry Place,Columbus,GA,31914,Resident,2,4/10/2019,4/10/2021
+688,fg-5661,9574 Heffernan Way,Atlanta,GA,30356,Resident,2,12/17/2017,12/17/2019
+689,uq-5485,3499 Butternut Parkway,Lawrenceville,GA,30045,Resident,1,9/5/2019,9/5/2020
+690,ic-0672,0522 Lawn Circle,Huntington Beach,CA,92648,Resident,1,12/6/2016,12/6/2017
+691,hv-8864,333 Ryan Junction,Garden Grove,CA,92844,Resident,3,10/18/2017,10/18/2020
+692,ea-6714,86 Del Mar Hill,San Diego,CA,92145,Resident,3,9/24/2014,9/24/2017
+693,fy-2230,49 Hallows Hill,Fullerton,CA,92835,Resident,2,5/6/2018,5/6/2020
+694,yd-8142,02207 Moulton Crossing,Cumming,GA,30130,Resident,2,2/25/2020,2/25/2022
+695,ry-5598,3180 Hallows Crossing,Sacramento,CA,94286,Resident,2,1/11/2020,1/11/2022
+696,ul-3981,8 Spenser Terrace,Decatur,GA,30033,Resident,1,11/5/2011,11/5/2012
+697,bi-7561,8257 Elgar Park,Boston,MA,2124,Resident,3,4/13/2019,4/13/2022
+698,zv-3029,012 Burning Wood Junction,San Diego,CA,92153,Resident,1,3/9/2016,3/9/2017
+699,fr-1998,8231 Vermont Road,Los Angeles,CA,90040,Resident,1,4/26/2015,4/26/2016
+700,te-2066,49033 Banding Parkway,Bakersfield,CA,93381,Resident,3,12/5/2012,12/5/2015
+701,gl-2772,293 Monument Alley,San Jose,CA,95128,Resident,1,2/12/2020,2/12/2021
+702,al-0727,2 Butternut Pass,Boston,MA,2208,Resident,2,11/11/2012,11/11/2014
+703,jr-5837,7458 Cordelia Hill,Augusta,GA,30905,Resident,2,12/17/2017,12/17/2019
+704,ii-4095,2369 Knutson Point,Springfield,MA,1105,Resident,1,6/24/2020,6/24/2021
+705,wz-0797,5 Anderson Terrace,Atlanta,GA,30340,Resident,2,2/13/2016,2/13/2018
+706,ti-3847,7 Maple Wood Pass,Sacramento,CA,95852,Resident,1,12/13/2014,12/13/2015
+707,fn-2543,4 Huxley Plaza,Fresno,CA,93762,Resident,2,12/7/2015,12/7/2017
+708,th-6523,89373 Sheridan Drive,Lawrenceville,GA,30045,Resident,2,4/30/2011,4/30/2013
+709,rn-6233,93 Iowa Point,Fresno,CA,93715,Resident,2,1/9/2020,1/9/2022
+710,pz-0609,380 Evergreen Junction,Palmdale,CA,93591,Resident,3,4/11/2020,4/11/2023
+711,ks-3252,01 Carey Road,Duluth,GA,30195,Resident,2,12/27/2020,12/27/2022
+712,pl-5656,44882 Roth Street,Pomona,CA,91797,Resident,2,7/29/2017,7/29/2019
+713,pz-8400,8246 Continental Circle,Oakland,CA,94627,Resident,3,2/16/2015,2/16/2018
+714,os-6757,538 Luster Trail,San Francisco,CA,94154,Resident,2,5/5/2014,5/5/2016
+715,oe-8930,155 Jackson Point,San Diego,CA,92132,Resident,3,10/22/2020,10/22/2023
+716,xe-4905,3047 Dawn Parkway,Atlanta,GA,30351,Resident,1,9/2/2013,9/2/2014
+717,ir-1794,63162 Hansons Crossing,Los Angeles,CA,90030,Resident,2,8/9/2011,8/9/2013
+718,je-2666,49066 Namekagon Pass,Burbank,CA,91520,Resident,3,6/19/2016,6/19/2019
+719,bf-3144,18030 Moulton Parkway,Petaluma,CA,94975,Resident,1,11/10/2012,11/10/2013
+720,gv-5063,8 Almo Terrace,Los Angeles,CA,90025,Resident,2,11/1/2014,11/1/2016
+721,cd-9957,96669 Main Place,Fresno,CA,93750,Resident,3,10/24/2015,10/24/2018
+722,zd-8603,115 Prentice Drive,San Jose,CA,95108,Resident,2,1/16/2017,1/16/2019
+723,ks-6883,393 Northport Park,Anaheim,CA,92805,Resident,2,2/28/2015,2/28/2017
+724,nv-9900,3 Mesta Trail,Fresno,CA,93786,Resident,3,12/18/2014,12/18/2017
+725,gr-5906,60985 Muir Park,San Francisco,CA,94159,Resident,3,1/6/2013,1/6/2016
+726,zh-3296,4 Schurz Drive,Boston,MA,2283,Resident,3,8/4/2018,8/4/2021
+727,ei-6527,500 Bonner Crossing,Santa Clara,CA,95054,Resident,3,4/29/2015,4/29/2018
+728,fs-5407,8987 Texas Junction,Fresno,CA,93740,Resident,3,7/4/2015,7/4/2018
+729,yq-9678,74415 Transport Plaza,Atlanta,GA,30386,Resident,3,7/25/2020,7/25/2023
+730,hb-6975,36731 Portage Trail,Savannah,GA,31422,Resident,3,10/9/2015,10/9/2018
+731,cd-5065,33050 Anzinger Terrace,San Bernardino,CA,92424,Resident,2,1/27/2017,1/27/2019
+732,ty-4994,79 Elmside Terrace,Sacramento,CA,94207,Resident,3,9/14/2015,9/14/2018
+733,di-7033,7 Ohio Pass,Alpharetta,GA,30022,Resident,1,6/7/2014,6/7/2015
+734,so-4559,625 Goodland Avenue,Boston,MA,2203,Resident,1,3/4/2019,3/4/2020
+735,qz-4560,49189 La Follette Hill,San Diego,CA,92121,Resident,2,3/5/2014,3/5/2016
+736,wo-9712,0792 Corry Drive,San Francisco,CA,94132,Resident,1,12/10/2015,12/10/2016
+737,rc-3987,70260 Golf View Alley,San Jose,CA,95118,Resident,1,11/13/2014,11/13/2015
+738,wd-9531,65 Amoth Plaza,Los Angeles,CA,90040,Resident,2,3/18/2015,3/18/2017
+739,ig-6419,06480 Nobel Center,San Jose,CA,95118,Resident,2,7/5/2016,7/5/2018
+740,lx-0545,45836 Westport Crossing,Atlanta,GA,30351,Resident,1,12/4/2019,12/4/2020
+741,ij-9240,4023 Hoard Drive,Los Angeles,CA,90065,Resident,2,4/24/2013,4/24/2015
+742,pt-4272,79 Old Shore Place,Northridge,CA,91328,Resident,1,8/27/2016,8/27/2017
+743,ry-4271,254 Blue Bill Park Street,Newport Beach,CA,92662,Resident,3,3/1/2010,3/1/2013
+744,kk-0179,630 Graceland Crossing,Oceanside,CA,92056,Resident,3,7/4/2018,7/4/2021
+745,ik-3526,5 Continental Park,San Francisco,CA,94137,Resident,3,7/22/2018,7/22/2021
+746,et-5443,0632 Lotheville Park,Sacramento,CA,95828,Resident,1,3/6/2012,3/6/2013
+747,qb-9568,159 Ludington Parkway,Escondido,CA,92030,Resident,2,8/10/2012,8/10/2014
+748,an-2622,1032 Roxbury Road,Bakersfield,CA,93381,Resident,3,11/23/2017,11/23/2020
+749,hj-9273,328 Bowman Alley,Los Angeles,CA,90060,Resident,2,4/15/2018,4/15/2020
+750,to-7155,0654 Kings Junction,Marietta,GA,30066,Resident,2,1/19/2012,1/19/2014
+751,hp-3320,86 Buhler Place,Sacramento,CA,95865,Resident,1,9/25/2015,9/25/2016
+752,od-3248,588 Lukken Center,Sacramento,CA,95818,Resident,3,7/18/2017,7/18/2020
+753,ie-3481,3 Maryland Circle,Chico,CA,95973,Resident,3,1/5/2019,1/5/2022
+754,ei-3712,06797 Brentwood Place,Macon,GA,31296,Resident,2,6/29/2017,6/29/2019
+755,oh-0742,2 Clove Junction,Atlanta,GA,31132,Resident,1,6/11/2012,6/11/2013
+756,nr-1209,6 Garrison Plaza,Atlanta,GA,30301,Resident,2,8/13/2011,8/13/2013
+757,km-9041,69 Hayes Drive,Boston,MA,2208,Resident,1,9/15/2010,9/15/2011
+758,qd-1145,34628 6th Trail,Los Angeles,CA,90015,Resident,3,4/28/2016,4/28/2019
+759,nb-1158,9510 Jenna Alley,Savannah,GA,31422,Resident,2,7/21/2018,7/21/2020
+760,ej-7100,018 American Ash Circle,Orange,CA,92668,Resident,3,1/30/2015,1/30/2018
+761,eh-2064,746 Summerview Center,San Diego,CA,92170,Resident,2,6/16/2012,6/16/2014
+762,lx-4001,12549 Johnson Road,San Jose,CA,95194,Resident,2,7/28/2010,7/28/2012
+763,bu-2489,5188 Kings Plaza,San Jose,CA,95160,Resident,1,2/22/2018,2/22/2019
+764,br-1738,1 Schiller Hill,Norcross,GA,30092,Resident,2,7/31/2020,7/31/2022
+765,jn-9465,786 Quincy Road,Torrance,CA,90505,Resident,2,7/11/2020,7/11/2022
+766,os-9340,7 Ronald Regan Terrace,Sacramento,CA,95828,Resident,3,10/18/2011,10/18/2014
+767,ca-9690,47 Mallory Park,San Jose,CA,95160,Resident,1,5/5/2019,5/5/2020
+768,gy-8374,8965 Kinsman Point,Worcester,MA,1610,Resident,2,9/26/2014,9/26/2016
+769,ld-8139,1682 Paget Pass,Boston,MA,2203,Resident,1,5/13/2012,5/13/2013
+770,uy-3158,0147 High Crossing Center,Bakersfield,CA,93399,Resident,1,10/18/2018,10/18/2019
+771,en-3342,35473 Grasskamp Way,Boston,MA,2163,Resident,3,3/29/2011,3/29/2014
+772,ny-6041,114 Lunder Way,Atlanta,GA,30368,Resident,2,12/20/2013,12/20/2015
+773,zl-4642,422 Union Road,San Jose,CA,95113,Resident,3,10/10/2016,10/10/2019
+774,mp-0564,30 Meadow Ridge Point,San Bernardino,CA,92415,Resident,2,5/29/2016,5/29/2018
+775,oi-9598,35662 Karstens Pass,Fresno,CA,93794,Resident,1,5/17/2016,5/17/2017
+776,pu-7317,6781 Buena Vista Parkway,Orange,CA,92668,Resident,2,7/13/2019,7/13/2021
+777,rh-3699,289 Ridge Oak Road,Santa Barbara,CA,93106,Resident,2,10/4/2016,10/4/2018
+778,ec-5717,77 Grim Trail,Stockton,CA,95210,Resident,1,8/29/2013,8/29/2014
+779,xa-1747,9850 Green Parkway,Boston,MA,2119,Resident,1,3/24/2011,3/24/2012
+780,ky-7784,9 Raven Center,Pasadena,CA,91186,Resident,2,4/8/2016,4/8/2018
+781,ot-6397,69 Kenwood Point,Santa Clara,CA,95054,Resident,3,7/20/2015,7/20/2018
+782,mf-2365,408 Spaight Road,Sacramento,CA,94273,Resident,3,3/29/2016,3/29/2019
+783,eq-9807,6 Eagle Crest Plaza,Irvine,CA,92717,Resident,1,8/20/2012,8/20/2013
+784,hl-9425,31202 Ryan Road,Fresno,CA,93726,Resident,1,10/7/2014,10/7/2015
+785,gg-0990,3015 Northwestern Park,Bakersfield,CA,93305,Resident,1,2/6/2011,2/6/2012
+786,ug-5269,0 Sullivan Point,Los Angeles,CA,90101,Resident,2,11/13/2014,11/13/2016
+787,hy-1166,39 Myrtle Lane,Corona,CA,92878,Resident,3,11/28/2011,11/28/2014
+788,pi-0489,79747 Milwaukee Junction,San Francisco,CA,94116,Resident,3,5/7/2016,5/7/2019
+789,ot-7075,7141 Manufacturers Parkway,Carlsbad,CA,92013,Resident,2,3/18/2013,3/18/2015
+790,jh-8114,403 Kedzie Lane,Savannah,GA,31422,Resident,2,4/1/2015,4/1/2017
+791,oq-8777,928 Fairview Point,Sacramento,CA,94237,Resident,1,11/21/2016,11/21/2017
+792,lj-5123,7171 Scofield Point,Bakersfield,CA,93305,Resident,1,3/18/2015,3/18/2016
+793,gv-1413,29643 Shelley Drive,Atlanta,GA,31119,Resident,2,11/29/2020,11/29/2022
+794,lr-6502,31425 Old Gate Alley,Boston,MA,2163,Resident,2,12/2/2013,12/2/2015
+795,ks-4571,20447 Harbort Alley,San Jose,CA,95155,Resident,1,4/28/2013,4/28/2014
+796,ww-7679,11 Rusk Parkway,Stockton,CA,95210,Resident,1,3/11/2014,3/11/2015
+797,tq-8147,64670 Sutherland Street,San Francisco,CA,94126,Resident,1,1/21/2015,1/21/2016
+798,gv-1659,6 Bluestem Terrace,Sacramento,CA,95823,Resident,2,1/31/2014,1/31/2016
+799,gu-7568,5 Carpenter Terrace,Atlanta,GA,31190,Resident,2,4/7/2020,4/7/2022
+800,un-1482,12645 Corry Trail,Stockton,CA,95298,Resident,2,10/24/2011,10/24/2013
+801,cl-3661,77543 Westridge Court,Oakland,CA,94611,Resident,2,2/2/2016,2/2/2018
+802,cj-7495,39425 Fulton Alley,San Bernardino,CA,92410,Resident,3,9/25/2014,9/25/2017
+803,sf-9566,6923 Sunbrook Center,Mountain View,CA,94042,Resident,3,11/7/2014,11/7/2017
+804,lw-1616,55568 Mifflin Trail,Van Nuys,CA,91499,Resident,1,8/15/2010,8/15/2011
+805,lq-9529,58 Redwing Parkway,Atlanta,GA,30340,Resident,3,12/17/2016,12/17/2019
+806,cd-3960,69397 Fallview Trail,Fresno,CA,93709,Resident,1,7/3/2016,7/3/2017
+807,jx-2726,5 Sugar Alley,Pasadena,CA,91186,Resident,1,4/11/2012,4/11/2013
+808,qa-2184,092 Sunbrook Pass,Atlanta,GA,31132,Resident,3,9/6/2014,9/6/2017
+809,id-1048,788 Saint Paul Drive,Garden Grove,CA,92844,Resident,2,4/2/2020,4/2/2022
+810,xw-0934,35 Oakridge Center,Savannah,GA,31422,Resident,3,8/19/2015,8/19/2018
+811,is-2081,77414 Corscot Place,Boston,MA,2203,Resident,2,12/7/2013,12/7/2015
+812,lf-4641,5 Loftsgordon Parkway,Berkeley,CA,94705,Resident,1,12/10/2012,12/10/2013
+813,is-7753,6 Cordelia Circle,Los Angeles,CA,90065,Resident,3,7/15/2011,7/15/2014
+814,zd-0166,54549 3rd Alley,Atlanta,GA,31119,Resident,3,12/14/2013,12/14/2016
+815,gx-0543,19 Browning Trail,Fresno,CA,93778,Resident,3,5/7/2011,5/7/2014
+816,nx-4341,42702 Waywood Court,Duluth,GA,30195,Resident,2,11/25/2016,11/25/2018
+817,gq-1029,2683 Pleasure Place,San Jose,CA,95155,Resident,3,5/28/2020,5/28/2023
+818,ct-4986,1 Lindbergh Trail,Brockton,MA,2305,Resident,2,1/18/2021,1/18/2023
+819,nw-8657,86 Waywood Place,Fresno,CA,93794,Resident,2,9/18/2017,9/18/2019
+820,ih-4720,347 Namekagon Trail,Atlanta,GA,31136,Resident,2,5/3/2018,5/3/2020
+821,zn-5457,3405 Carberry Court,San Diego,CA,92127,Resident,2,5/21/2021,5/21/2023
+822,xs-7949,7 Carberry Pass,Pasadena,CA,91117,Resident,2,3/23/2015,3/23/2017
+823,yb-3506,9 Manufacturers Trail,Los Angeles,CA,90015,Resident,1,1/16/2011,1/16/2012
+824,fi-4192,72 Bay Parkway,Atlanta,GA,30368,Resident,1,8/5/2016,8/5/2017
+825,ln-8712,8 Hoffman Pass,North Hollywood,CA,91606,Resident,1,10/25/2011,10/25/2012
+826,fn-4920,2 Lien Avenue,Anaheim,CA,92805,Resident,2,1/1/2017,1/1/2019
+827,ly-9342,4074 Sheridan Drive,Woburn,MA,1813,Resident,3,1/26/2013,1/26/2016
+828,ei-9971,6 Linden Circle,Bakersfield,CA,93305,Resident,2,6/23/2012,6/23/2014
+829,ex-0107,9 Straubel Junction,San Francisco,CA,94116,Resident,1,12/1/2014,12/1/2015
+830,vd-9805,58634 Mcguire Trail,Garden Grove,CA,92844,Resident,3,2/1/2018,2/1/2021
+831,ub-0992,63 Coolidge Park,Inglewood,CA,90305,Resident,3,2/13/2015,2/13/2018
+832,dl-1950,741 Haas Hill,San Diego,CA,92160,Resident,1,12/18/2012,12/18/2013
+833,ns-5338,92 Farwell Terrace,Mountain View,CA,94042,Resident,2,8/26/2011,8/26/2013
+834,cf-8829,0 Ohio Terrace,Los Angeles,CA,90189,Resident,2,2/27/2019,2/27/2021
+835,yr-6994,158 Marquette Plaza,Lawrenceville,GA,30045,Resident,2,3/18/2014,3/18/2016
+836,wu-6326,75 Utah Avenue,Sacramento,CA,94286,Resident,1,7/21/2014,7/21/2015
+837,qn-9630,42 Farwell Avenue,Sacramento,CA,94297,Resident,2,8/25/2011,8/25/2013
+838,tk-4469,99355 Dayton Place,Long Beach,CA,90840,Resident,2,4/21/2020,4/21/2022
+839,tv-1053,2 Dovetail Alley,Burbank,CA,91520,Resident,3,2/21/2013,2/21/2016
+840,nd-8653,0686 Farwell Terrace,Orange,CA,92867,Resident,1,12/20/2011,12/20/2012
+841,rf-3439,43 Fremont Avenue,Bakersfield,CA,93399,Resident,2,4/13/2015,4/13/2017
+842,lj-6047,7 Union Pass,Los Angeles,CA,90050,Resident,1,2/18/2012,2/18/2013
+843,sx-4710,9966 Emmet Parkway,Los Angeles,CA,90010,Resident,3,4/3/2010,4/3/2013
+844,bb-6994,6710 Moulton Lane,Fresno,CA,93786,Resident,1,8/15/2017,8/15/2018
+845,yy-4488,35 Chinook Pass,Orange,CA,92867,Resident,1,5/15/2010,5/15/2011
+846,dy-6446,510 Lillian Point,Fullerton,CA,92835,Resident,3,5/4/2017,5/4/2020
+847,th-6889,4230 Shelley Place,Los Angeles,CA,90005,Resident,3,7/24/2012,7/24/2015
+848,js-9247,9216 Banding Terrace,Brea,CA,92822,Resident,3,9/12/2019,9/12/2022
+849,cq-1994,5 Paget Crossing,San Jose,CA,95155,Resident,1,12/13/2020,12/13/2021
+850,zf-2739,926 Lakewood Gardens Court,Simi Valley,CA,93094,Resident,1,2/21/2019,2/21/2020
+851,jb-5334,0275 Westridge Point,San Luis Obispo,CA,93407,Resident,3,6/12/2011,6/12/2014
+852,id-3054,488 Miller Hill,San Diego,CA,92191,Resident,2,10/10/2013,10/10/2015
+853,ts-5799,96972 Esch Plaza,San Diego,CA,92145,Resident,1,10/19/2011,10/19/2012
+854,mb-6456,69124 Hermina Lane,Oakland,CA,94611,Resident,1,2/8/2012,2/8/2013
+855,wb-9508,190 Steensland Street,Macon,GA,31296,Resident,3,3/17/2017,3/17/2020
+856,xs-3633,04510 Manitowish Parkway,Macon,GA,31217,Resident,2,11/4/2010,11/4/2012
+857,ae-5412,447 Anthes Trail,Alhambra,CA,91841,Resident,1,6/18/2017,6/18/2018
+858,se-0485,4849 Hallows Circle,Bakersfield,CA,93305,Resident,1,10/15/2018,10/15/2019
+859,pa-4070,83707 Kedzie Center,Pomona,CA,91797,Resident,1,9/10/2012,9/10/2013
+860,qf-3304,002 Fairfield Street,Los Angeles,CA,90094,Resident,1,4/17/2021,4/17/2022
+861,iy-1181,965 Kinsman Alley,San Jose,CA,95150,Resident,1,3/24/2012,3/24/2013
+862,se-1152,938 Westport Way,Cumming,GA,30130,Resident,3,9/19/2017,9/19/2020
+863,lr-3410,07 Hintze Alley,Sacramento,CA,95818,Resident,1,2/10/2012,2/10/2013
+864,bz-3223,1010 Browning Lane,Lynn,MA,1905,Resident,1,5/1/2013,5/1/2014
+865,vo-5313,28 Ridgeview Drive,San Jose,CA,95128,Resident,2,8/17/2018,8/17/2020
+866,xq-4541,33 Steensland Way,Torrance,CA,90510,Resident,2,7/1/2010,7/1/2012
+867,ye-5526,17 Dwight Junction,Sacramento,CA,95823,Resident,2,12/30/2019,12/30/2021
+868,nm-3542,96 Almo Place,Decatur,GA,30089,Resident,3,6/26/2010,6/26/2013
+869,kk-6311,152 Coolidge Drive,Atlanta,GA,31106,Resident,1,6/17/2011,6/17/2012
+870,pf-8651,6 Sauthoff Way,Pasadena,CA,91186,Resident,1,8/4/2012,8/4/2013
+871,gp-7347,770 Bunker Hill Park,Atlanta,GA,30358,Resident,3,7/31/2014,7/31/2017
+872,va-7934,38 Shoshone Court,Macon,GA,31205,Resident,3,7/14/2016,7/14/2019
+873,ey-4549,990 Monica Lane,Boston,MA,2114,Resident,2,5/9/2020,5/9/2022
+874,vi-8503,8 Garrison Road,North Hollywood,CA,91606,Resident,2,6/30/2015,6/30/2017
+875,si-8179,25 Alpine Park,Orange,CA,92668,Resident,3,4/26/2014,4/26/2017
+876,ic-4693,059 Oneill Hill,Decatur,GA,30033,Resident,3,8/13/2014,8/13/2017
+877,mx-9328,1 Reinke Trail,Sacramento,CA,94237,Resident,3,5/20/2020,5/20/2023
+878,wk-8484,06770 West Park,Cambridge,MA,2142,Resident,2,5/18/2018,5/18/2020
+879,cl-8387,362 Straubel Plaza,San Jose,CA,95133,Resident,1,2/16/2016,2/16/2017
+880,za-7675,25 Luster Center,Sacramento,CA,94286,Resident,3,9/17/2014,9/17/2017
+881,in-3587,44007 Westerfield Park,Atlanta,GA,30392,Resident,3,11/24/2019,11/24/2022
+882,ln-0143,339 Susan Hill,Riverside,CA,92513,Resident,3,12/4/2014,12/4/2017
+883,om-3776,59483 Lakewood Gardens Hill,Fresno,CA,93721,Resident,2,2/28/2012,2/28/2014
+884,er-1833,00328 Toban Junction,Sacramento,CA,95852,Resident,3,12/7/2018,12/7/2021
+885,in-8641,03 Banding Court,Pasadena,CA,91117,Resident,1,2/17/2016,2/17/2017
+886,bm-4068,6 Little Fleur Hill,Duluth,GA,30096,Resident,3,4/24/2019,4/24/2022
+887,xo-3949,18858 Clarendon Junction,Alpharetta,GA,30022,Resident,1,7/10/2016,7/10/2017
+888,tn-4410,7377 Vahlen Parkway,Sacramento,CA,94263,Resident,1,12/19/2012,12/19/2013
+889,hs-4610,04092 Morningstar Circle,Atlanta,GA,30311,Resident,3,6/1/2016,6/1/2019
+890,zg-0403,798 Northfield Court,Boston,MA,2203,Resident,1,12/26/2010,12/26/2011
+891,yh-0065,8653 Alpine Point,Newton,MA,2162,Resident,2,11/28/2017,11/28/2019
+892,ds-4232,7 Bartelt Road,Los Angeles,CA,90010,Resident,2,4/7/2011,4/7/2013
+893,ix-9064,41816 Autumn Leaf Way,Chico,CA,95973,Resident,2,4/19/2016,4/19/2018
+894,um-6134,9264 Mallard Street,Irvine,CA,92612,Resident,3,5/31/2017,5/31/2020
+895,bm-5402,4972 Magdeline Pass,San Jose,CA,95113,Resident,2,12/13/2020,12/13/2022
+896,tq-0892,4 Grim Hill,Los Angeles,CA,90050,Resident,3,3/16/2018,3/16/2021
+897,zk-1392,00 Colorado Parkway,Mountain View,CA,94042,Resident,1,1/4/2017,1/4/2018
+898,cr-2223,970 Village Green Park,Fresno,CA,93709,Resident,1,6/17/2018,6/17/2019
+899,wi-3642,20226 Carioca Crossing,Atlanta,GA,30386,Resident,3,4/22/2012,4/22/2015
+900,xy-6000,722 Orin Center,Atlanta,GA,30356,Resident,2,2/15/2021,2/15/2023
+901,we-1070,31 Shopko Street,Sacramento,CA,95828,Resident,2,2/3/2010,2/3/2012
+902,vc-0639,4 Stoughton Center,Modesto,CA,95354,Resident,1,9/8/2016,9/8/2017
+903,oc-9424,82433 Hoepker Junction,Burbank,CA,91520,Resident,3,4/11/2017,4/11/2020
+904,cj-9482,041 Scofield Way,San Diego,CA,92165,Resident,2,7/30/2015,7/30/2017
+905,ak-2484,0 Heath Trail,Fresno,CA,93721,Resident,1,11/23/2017,11/23/2018
+906,ny-3971,1 Shasta Drive,Brockton,MA,2405,Resident,2,2/28/2019,2/28/2021
+907,sy-1045,09762 Crescent Oaks Drive,San Jose,CA,95173,Resident,3,4/27/2014,4/27/2017
+908,ls-0876,77168 American Place,San Diego,CA,92145,Resident,1,11/9/2020,11/9/2021
+909,yz-2449,94 Mitchell Pass,San Rafael,CA,94913,Resident,2,4/1/2011,4/1/2013
+910,ev-1148,932 Holmberg Drive,Pasadena,CA,91186,Resident,1,4/26/2011,4/26/2012
+911,pz-1175,641 Spaight Circle,Atlanta,GA,30351,Resident,3,6/21/2021,6/21/2024
+912,du-2875,81 Forest Run Pass,Los Angeles,CA,90076,Resident,2,1/13/2021,1/13/2023
+913,gv-8094,4592 Dawn Court,Columbus,GA,31914,Resident,3,5/12/2017,5/12/2020
+914,wa-2943,4 Porter Street,Chico,CA,95973,Resident,1,10/6/2016,10/6/2017
+915,xg-2092,3099 Esch Street,Corona,CA,92883,Resident,3,4/20/2020,4/20/2023
+916,vu-6726,4 Rutledge Pass,Fresno,CA,93786,Resident,3,6/16/2017,6/16/2020
+917,qu-3653,3137 Fallview Parkway,Pasadena,CA,91125,Resident,1,11/9/2015,11/9/2016
+918,yr-5768,0365 Cascade Place,Los Angeles,CA,90010,Resident,3,11/11/2011,11/11/2014
+919,nk-6255,0 Stone Corner Alley,San Francisco,CA,94137,Resident,2,7/2/2015,7/2/2017
+920,mu-7344,82158 Oneill Road,Atlanta,GA,31106,Resident,1,7/21/2016,7/21/2017
+921,df-6330,96 6th Center,Garden Grove,CA,92645,Resident,2,11/30/2016,11/30/2018
+922,dp-0202,48322 Donald Circle,Cambridge,MA,2142,Resident,2,12/26/2017,12/26/2019
+923,bh-1723,69 Charing Cross Junction,Atlanta,GA,30343,Resident,3,2/4/2013,2/4/2016
+924,je-5528,31 Mockingbird Point,Santa Barbara,CA,93111,Resident,1,3/24/2017,3/24/2018
+925,aa-1886,23 Monterey Road,Los Angeles,CA,90076,Resident,3,7/27/2020,7/27/2023
+926,zr-6246,8 Truax Park,Fullerton,CA,92835,Resident,2,6/13/2014,6/13/2016
+927,pj-0794,21396 Thompson Alley,Stockton,CA,95210,Resident,3,11/23/2015,11/23/2018
+928,og-5838,5 Trailsway Plaza,Woburn,MA,1813,Resident,1,11/2/2013,11/2/2014
+929,gt-9736,83214 Steensland Drive,Fullerton,CA,92640,Resident,3,8/27/2020,8/27/2023
+930,gg-0762,36883 Northridge Crossing,Fresno,CA,93786,Resident,2,12/24/2013,12/24/2015
+931,el-7208,991 Valley Edge Trail,Watertown,MA,2472,Resident,3,7/10/2019,7/10/2022
+932,mo-2849,21 Eastlawn Junction,Alpharetta,GA,30022,Resident,1,6/25/2013,6/25/2014
+933,so-4527,0 Manufacturers Parkway,Atlanta,GA,30343,Resident,3,1/31/2015,1/31/2018
+934,hg-9080,423 Jackson Crossing,Van Nuys,CA,91411,Resident,3,3/7/2020,3/7/2023
+935,mi-8277,0 Corben Junction,Whittier,CA,90610,Resident,1,12/27/2010,12/27/2011
+936,yw-8612,3322 Messerschmidt Plaza,San Luis Obispo,CA,93407,Resident,3,12/25/2014,12/25/2017
+937,ln-2268,34 Maple Wood Drive,Sacramento,CA,95833,Resident,2,11/9/2016,11/9/2018
+938,cc-6783,6284 Columbus Place,San Jose,CA,95108,Resident,3,10/20/2010,10/20/2013
+939,eo-4970,63989 Shelley Center,Oakland,CA,94660,Resident,3,1/29/2011,1/29/2014
+940,bi-2704,345 Merchant Place,Athens,GA,30605,Resident,1,9/23/2019,9/23/2020
+941,ye-5756,028 Alpine Terrace,Pasadena,CA,91131,Resident,3,4/22/2019,4/22/2022
+942,sf-3777,503 Washington Center,Santa Monica,CA,90405,Resident,3,11/30/2018,11/30/2021
+943,pg-1594,7464 Pierstorff Court,San Francisco,CA,94154,Resident,3,10/26/2017,10/26/2020
+944,il-8931,94 Blackbird Pass,San Bernardino,CA,92415,Resident,1,4/6/2015,4/6/2016
+945,ux-6130,2 Portage Place,Waltham,MA,2453,Resident,1,9/3/2015,9/3/2016
+946,db-6261,3 Starling Parkway,Augusta,GA,30919,Resident,3,8/5/2018,8/5/2021
+947,tl-3151,05 Mendota Plaza,San Diego,CA,92110,Resident,1,11/19/2015,11/19/2016
+948,go-9215,807 Sheridan Point,Oakland,CA,94611,Resident,1,1/24/2016,1/24/2017
+949,zr-4036,6 Bashford Place,Boston,MA,2114,Resident,3,4/13/2018,4/13/2021
+950,dc-7639,07 Loomis Junction,Pasadena,CA,91199,Resident,1,9/24/2013,9/24/2014
+951,tt-4987,493 Buhler Street,Newport Beach,CA,92662,Resident,1,7/17/2016,7/17/2017
+952,sx-7529,81 Bluestem Junction,Boston,MA,2203,Resident,3,11/8/2016,11/8/2019
+953,dz-8951,3 Spohn Street,Santa Ana,CA,92725,Resident,3,4/11/2020,4/11/2023
+954,fv-0509,27 Nevada Court,San Luis Obispo,CA,93407,Resident,3,12/19/2015,12/19/2018
+955,dq-9111,2 Fuller Place,Fresno,CA,93778,Resident,3,10/26/2020,10/26/2023
+956,fa-5554,9348 Utah Place,San Diego,CA,92160,Resident,3,8/30/2020,8/30/2023
+957,hz-2617,928 Dennis Terrace,Los Angeles,CA,90060,Resident,2,9/3/2012,9/3/2014
+958,py-4293,1314 Sloan Point,Boston,MA,2124,Resident,1,6/27/2014,6/27/2015
+959,sn-8143,6068 Kensington Center,Atlanta,GA,31136,Resident,3,2/20/2019,2/20/2022
+960,th-3813,7832 Fieldstone Place,San Francisco,CA,94159,Resident,2,2/26/2010,2/26/2012
+961,sx-7382,89 Mallard Place,Boston,MA,2216,Resident,3,10/5/2019,10/5/2022
+962,np-0166,654 Lakewood Gardens Court,San Rafael,CA,94913,Resident,1,10/26/2020,10/26/2021
+963,xr-6377,1777 Calypso Road,Gainesville,GA,30506,Resident,1,5/5/2017,5/5/2018
+964,ta-6940,55282 Debra Point,Los Angeles,CA,90101,Resident,3,11/3/2011,11/3/2014
+965,sp-3827,533 School Court,Pasadena,CA,91125,Resident,2,7/23/2018,7/23/2020
+966,xg-5265,37196 Sunfield Way,Sacramento,CA,94250,Resident,3,5/13/2013,5/13/2016
+967,ms-9926,0 Declaration Parkway,Sacramento,CA,94286,Resident,2,11/15/2019,11/15/2021
+968,ug-3678,7224 Shelley Pass,Worcester,MA,1654,Resident,1,12/8/2013,12/8/2014
+969,su-5999,3 Grover Center,Columbus,GA,31904,Resident,2,4/16/2013,4/16/2015
+970,xg-6066,7 Sycamore Road,Cumming,GA,30130,Resident,2,4/30/2014,4/30/2016
+971,ni-9673,5843 Bunker Hill Alley,New Bedford,MA,2745,Resident,1,2/9/2010,2/9/2011
+972,xy-6272,5 Hoard Way,San Bernardino,CA,92424,Resident,1,8/9/2010,8/9/2011
+973,ag-8992,715 Logan Crossing,Glendale,CA,91210,Resident,2,12/31/2013,12/31/2015
+974,mo-7367,205 Lunder Court,Newport Beach,CA,92662,Resident,2,10/15/2017,10/15/2019
+975,ej-2742,6144 Vernon Lane,Visalia,CA,93291,Resident,1,11/27/2019,11/27/2020
+976,vq-0396,68363 Paget Center,Irvine,CA,92619,Resident,1,9/18/2010,9/18/2011
+977,mp-8634,51515 Nova Trail,Duluth,GA,30096,Resident,1,8/29/2010,8/29/2011
+978,xx-3231,0 6th Park,Irvine,CA,92710,Resident,1,8/24/2018,8/24/2019
+979,wk-8214,7318 Ramsey Lane,Atlanta,GA,30343,Resident,2,9/24/2013,9/24/2015
+980,qj-4567,67 Hoepker Junction,San Diego,CA,92145,Resident,2,5/10/2014,5/10/2016
+981,au-1551,18832 Kensington Point,Sacramento,CA,94257,Resident,3,5/29/2021,5/29/2024
+982,pz-7589,1264 Fordem Court,San Jose,CA,95160,Resident,3,9/23/2016,9/23/2019
+983,ag-5584,0316 Hagan Crossing,San Jose,CA,95150,Resident,3,3/9/2010,3/9/2013
+984,nb-7875,00 Delladonna Park,San Jose,CA,95160,Resident,2,5/29/2019,5/29/2021
+985,ar-0959,796 Ronald Regan Terrace,Berkeley,CA,94705,Resident,1,11/27/2015,11/27/2016
+986,ck-4514,298 Bunting Circle,Orange,CA,92862,Resident,1,12/10/2017,12/10/2018
+987,lf-7275,7 Derek Terrace,San Jose,CA,95123,Resident,2,11/12/2012,11/12/2014
+988,jy-4540,0808 Thompson Drive,Anaheim,CA,92812,Resident,2,7/23/2012,7/23/2014
+989,lp-0695,71100 Farmco Alley,Macon,GA,31210,Resident,3,5/17/2017,5/17/2020
+990,xl-1760,1 Johnson Place,Fresno,CA,93778,Resident,3,10/10/2011,10/10/2014
+991,sc-4821,799 Schurz Park,Richmond,CA,94807,Resident,1,6/19/2016,6/19/2017
+992,wo-4409,24592 Swallow Center,Boston,MA,2124,Resident,2,11/1/2016,11/1/2018
+993,it-3412,79169 Porter Street,San Jose,CA,95150,Resident,2,2/4/2019,2/4/2021
+994,mg-4715,700 Scofield Center,Los Angeles,CA,90087,Resident,2,8/27/2019,8/27/2021
+995,dd-2869,21 Rigney Park,San Mateo,CA,94405,Resident,1,8/21/2011,8/21/2012
+996,tz-4284,237 Lillian Alley,Oakland,CA,94611,Resident,2,7/12/2015,7/12/2017
+997,sy-5544,364 David Trail,Oakland,CA,94660,Resident,2,4/17/2020,4/17/2022
+998,va-2029,60161 Jenna Point,Sacramento,CA,95852,Resident,1,5/1/2021,5/1/2022
+999,nu-0235,13969 Nelson Center,Escondido,CA,92030,Resident,3,10/22/2016,10/22/2019
+1000,yr-2600,598 Glendale Circle,Carlsbad,CA,92013,Resident,1,1/4/2015,1/4/2016

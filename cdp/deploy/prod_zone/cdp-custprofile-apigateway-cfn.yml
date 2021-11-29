@@ -1,0 +1,99 @@
+#------------------------------------------------------------------------------
+# Script:   cdp-custprofile-apigateway-cfn.yml
+# Author:   Dennis Barger, SEI
+# 
+# Description:
+# Cloudformation template to deploy CDP Customer Profile API services
+#
+#------------------------------------------------------------------------------
+
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description: CDP API Gateway
+
+Parameters:
+  Lane: { Type: "String" }
+  AppName: { Type: "String" }
+
+Resources:
+  RestApi:
+    Type: 'AWS::ApiGateway::RestApi'
+    Properties:
+      Name:
+        Fn::Sub: ${AppName}-${Lane}
+      EndpointConfiguration:
+        Types:
+          - REGIONAL
+
+#-----------------------------------------------------------------------------#
+# CDP API Resources
+# - Root:  /customers
+# - Customer Key: /customers
+# - Customer Profile: /customers/profile
+#-----------------------------------------------------------------------------#
+
+  CustPath:
+    Type: 'AWS::ApiGateway::Resource'
+    Properties:
+      RestApiId:  !Ref RestApi
+      ParentId:
+        Fn::GetAtt: ["RestApi","RootResourceId"]
+      PathPart:  'customers'
+
+  # /customers/profile
+  CustProfilePath:
+    Type:  'AWS::ApiGateway::Resource'
+    Properties:
+      RestApiId:  !Ref RestApi
+      ParentId: !Ref CustPath
+      PathPart: 'profile'
+
+  #-----------------------------------------------------------------------------#
+  # CDP API Method:  Customer Profile
+  # - Customer Profile: /customers/profile
+  #-----------------------------------------------------------------------------#
+
+  CustProfileGetMethod:
+    Type: 'AWS::ApiGateway::Method'
+    Properties:
+      RestApiId: !Ref RestApi
+      ResourceId: !Ref CustProfilePath
+      HttpMethod: GET 
+      AuthorizationType: NONE 
+      ApiKeyRequired: false 
+      RequestParameters:
+        method.request.path.customerkey: true
+      Integration:
+        Type: 'AWS_PROXY'
+        RequestParameters:
+          integration.request.path.customerkey: method.request.path.customerkey
+        IntegrationHttpMethod: POST 
+        Uri:
+          Fn::Sub: "arn:aws:apigateway:${AWS::Region}:lambda:path/2015-03-31/functions/arn:aws:lambda:${AWS::Region}:${AWS::AccountId}:function:cdp-custprofile-api-${Lane}/invocations"
+
+   #-----------------------------------------------------------------------------#
+  # CDP API Lambda Permissions
+  #-----------------------------------------------------------------------------#
+
+  CustProfileLambdaApiInvoke:
+    Type: 'AWS::Lambda::Permission'
+    Properties:
+      Action: 'lambda:InvokeFunction'
+      FunctionName: 
+        Fn::Sub: "arn:aws:lambda:${AWS::Region}:${AWS::AccountId}:function:cdp-custprofile-api-${Lane}"
+      Principal: "apigateway.amazonaws.com"
+      SourceArn:
+        Fn::Sub: "arn:aws:execute-api:${AWS::Region}:${AWS::AccountId}:${RestApi}/*/*/*"
+
+  #-----------------------------------------------------------------------------#
+  # CDP API Deployment
+  #-----------------------------------------------------------------------------#
+
+  RestApiDeployment:
+    Type: 'AWS::ApiGateway::Deployment'
+    DependsOn:
+      - CustProfileGetMethod
+    Properties:
+      RestApiId:
+        Ref: "RestApi"
+      StageName: !Ref Lane
