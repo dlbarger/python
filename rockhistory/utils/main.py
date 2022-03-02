@@ -15,20 +15,18 @@ def lambda_handler(event, context):
     try:
         dynamodb = boto3.client("dynamodb")
         #response = create_table(event, dynamodb)
-        
-        '''
+
         response = upload(
             bucket = "dbarger-rockhistory", 
             key = "rockhistory-spotfy.csv", 
             tablename = event['Tablename'], 
             client = dynamodb
         )
-        '''
 
-        response = query_table(
-            tablename = event['Tablename'],
-            client = dynamodb
-        )
+        # response = query_table(
+        #     tablename = event['Tablename'],
+        #     client = dynamodb
+        # )
     
         return {
             'statusCode': 200,
@@ -105,7 +103,7 @@ def query_table(tablename, client):
 if __name__ == "__main__":
 
     schema = {
-        "Tablename": "rockhistory",
+        "Tablename": "rock-songs",
         "AttributeDefinitions": [
             {
                 "AttributeName": "index",
