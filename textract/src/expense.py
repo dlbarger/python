@@ -1,8 +1,3 @@
-"""
-textract.py
-
-"""
-
 import boto3
 import json
 
