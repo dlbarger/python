@@ -25,7 +25,7 @@ def lambda_handler(event, context):
 
         # Build cloudevent message
         attributes = {
-            "type": "AvalonBay.Sfdc.DatabaseEventHandler.Models.AddEventModel.v1",
+            "type": "DatabaseEventHandler.Models.AddEventModel.v1",
             "source": "PropMgmt/EventStream",
             "subject": "Prospect/Update"
         }
