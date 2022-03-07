@@ -45,10 +45,9 @@ class Receipt():
 
 
     def __str__(self) -> str:
-        return self.bucket + ':' + self.document
+        return "".join(["Receipt Source:  ",self.bucket,"/",self.document])
 
-
-    # Public methods
+    # Public Methods
 
     def is_receipt(self):
         """Future implementation"""
