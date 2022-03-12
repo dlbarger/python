@@ -77,6 +77,7 @@ class Receipt():
 
     def _parse_image(self,bucket,key):
         """Private method to parse receipt image using boto3/Textract."""
+
         response = textract.analyze_expense(
             Document = {
                 'S3Object': {
