@@ -1,5 +1,5 @@
 """
-Script: expense.py
+Script: ocr_ml.py
 The expense module contains functionality to use AWS Textract service
 to parse a receipt image and return the corresponding data structure.
 """
